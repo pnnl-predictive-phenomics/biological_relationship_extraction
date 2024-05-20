@@ -11,7 +11,7 @@ Link to publication: Publication coming soon.
 | Folder | Subfolder | Description |
 |--------|-----------|-------------|
 | algorithms | --- | Scripts to run all algorithms |
-| algorithms | BERT_training | Code to train BERT models |
+| algorithms | BERT_training | Code to train BERT models, adapated from [Lee et al. 2022](https://github.com/ssr01357/BertSRC) |
 | benchmarks | --- | Results from each of the 3 main studies |
 | benchmarks | benchmark1 | Results from the study with the GPGP and BioRed datasets |
 | benchmarks | benchmark1/.../raw_output/ | Raw results from the tools without any processing |
@@ -23,6 +23,11 @@ Link to publication: Publication coming soon.
 | benchmarks | benchmark2/.../extracted_relationships | Raw output of each tool |
 | benchmarks | benchmark2/.../binary_relationships | Cleaned raw output, "extracted relationships", with unique protein-protein interactions, using ___ | 
 | benchmarks | benchmark2/.../networks | PNG of each network from each study | 
+| benchmarks | benchmark3 | Results from the *E. coli* PubMed query. Folder structure follows the extracted relationships, binary relationships, and networks folders from benchmark 2 |
+| data | --- | Contains all input files for training and running the NLP tools |
+| data | benchmark1 | Holds the training data for the BERT datasets, as well as the GPGP and BioRED testing datasets |
+| data | benchmark1/training | Training datasets from [Su & Vijay 2022](https://github.com/udel-biotm-lab/BERT-RE) |
+| data | benchmark1/testing | Testing datasets, including the in-house GPGP dataset, and [BioRed](https://huggingface.co/datasets/bigbio/biored) |
 
 
 ## Algorithm Scripts & Names
