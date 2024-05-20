@@ -1,0 +1,212 @@
+Row	PMID	Entity1	Entity2	Response
+0	10022905	fem-3	mog-1	"Yes (However, it's important to note that the context provided is quite limited and suggests a relationship between fem-3 and mog-1 involving the spermoocyte switch and zygotic control for robust ger"
+1	10364160	akt-1	akt-2	"Yes (Interpreting from the given context, as both akt-1 and akt-2 gene activities are needed for a mutation in pdk1, it implies some level of interaction between akt-1 and akt-2)"
+2	10364161	fem-1	fem-3	"To determine if 'fem-1' interacts with 'fem-3', the context provided does not offer enough information about the interactions between these genetic factors. We only know that they, along with 'fem-2'"
+3	10364161	fem-1	fem-2	"To determine if 'fem-1' interacts with 'fem-2' from this context, we need to understand if there's any relationship between these factors mentioned. The context only mentions that fem-1, fem-2, and f"
+4	10364161	fem-1	tra-2	Yes (Since tra-2 is mentioned as one of the three genes that fem-1 is a negative regulator of.)
+5	10364161	fem-3	fem-2	"The context provided does not explicitly show an interaction between 'fem-3' and 'fem-2'. It only mentions that all three elements (fem1, fem-3, and fem-2) are required for male development, but it d"
+6	10364161	fem-3	tra-2	Yes
+7	10364161	fem-2	tra-2	"Yes, based on the given context, fem-2 interacts with tra-2 because fem-2 is identified as a negative regulator of the three genes that include tra-2."
+8	10369883	dys-1	dyb-1	"No, the context does not provide information about an interaction between dys-1 and dyb-1. It only mentions that both genes have similar behavioral and pharmacological outcomes."
+9	10737793	mog-4	mog-5	No (The given context doesn't provide information about interaction between mog-4 and mog-5. It only mentions that their molecular identification was achieved through genetic mapping.)
+10	10737793	fem-3	mog-1	"Yes (Explanation: In this context, the fem-3 untranslated region is involved in repression, and mog-1 is one of the genes mentioned. While the exact mechanism of interaction is not explicitly mention"
+11	10749938	emb-30	mdf-1	Yes
+12	10970880	bar-1	pal-1	"Yes (Explanation: The context indicates that the pathway which activates bar-1 is stimulated by pal-1, thus implying that there is an interactive relationship between bar-1 and pal-1.)"
+13	10982402	Ce-lamin	Ce-MAN1	"To give an accurate response, the context provided does not explicitly state whether 'Ce-lamin' interacts with 'Ce-MAN1.' It only indicates that antibodies against 'Ce-lamin', 'Ceemerin nucleoporins,"
+14	10982402	Ce-lamin	MAN1	"No, the provided context does not explicitly state that Ce-lamin interacts with MAN1. It only mentions that antibodies against Ce-lamin, Ceemerin nucleoporins, and MAN1 were used to determine timing,"
+15	11320248	mes-2	mes-6	No (The context doesn't provide information about interaction between mes-2 and mes-6. It only mentions that both are encoded by nuclear proteins.)
+16	11427734	hif-1	aha-1	"No (since the provided context does not mention any interaction between hif-1 and aha-1, only that they are expressed in most cells)"
+17	11877381	gex-2	gex-3	"The context does not provide enough information to determine whether 'gex-2' interacts with 'gex-3'. Therefore, the answer cannot be confidently classified as either 'Yes' or 'No'."
+18	11877381	gex-2	gex-3	"No (However, from this context alone, we cannot say for certain whether gex-2 and gex-3 interact with each other or not. The absence of both activities does influence cell differentiation, but a dire"
+19	11907270	Ce-lamin	Ce-MAN1	Yes (The fact that Ce-lamin is mentioned alongside Ce-MAN1 in the context might imply an interaction between the two.)
+20	11907270	Ce-lamin	MAN1	"Yes (although the context doesn't explicitly state an interaction caused an effect, the coexistence of Ce-lamin and MAN1 suggests they might interact)"
+21	12221132	unc-43	goa-1	"Yes (From the given context, it implies that there might be some association or interaction between unc-43 and goa-1 as they are both mentioned to have gainoffunction mutants.)"
+22	12684533	Ce-lamin	Ce-MAN1	Yes
+23	12684533	Ce-lamin	MAN1	Yes
+24	12730122	src-1	gpr-1	"Yes (The context suggests that src-1 acts downstream of gpr-1 at the fourcell stage, implying some form of interaction between the two genes.)"
+25	12730122	goa-1	gpr-1	"Yes (Since both goa-1 and gpr-1 are mentioned in the same list of genes whose inactivation result in a specific outcome, it can be inferred that there might be some kind of interaction between them.)"
+26	12730122	goa-1	gpa-16	"The context does not provide enough information to determine if 'goa-1' and 'gpa-16' interact. While they are mentioned in relation as part of the Galphaio genes and they cause similar chromosomes, a"
+27	12730122	gpr-1	gpa-16	"Answer: No (though there might be a possible connection through the inactivation causing similar chromosome effects, it doesn't clearly define a direct interaction between 'gpr-1' and 'gpa-16' in the"
+28	12847081	hmp-1	jac-1	"Yes, based on the provided context, hmp-1 interacts with jac-1, as hmp-1 RNAi affects the severity and penetrance of defects caused by a mutation in the jac-1 gene."
+29	12847081	hmp-1	jac-1	Yes (The given context shows that there is a relationship between 'hmp-1' and 'jac-1' as the depletion of 'jac-1' leads to failure in the context of 'hmp-1' mutants.)
+30	15210732	LIM	unc-95	"No (However, the context doesn't explicitly mention an interaction between LIM and unc-95; it just describes unc-95 as a new LIM domain protein.)"
+31	15238519	lin-35	efl-1	"Yes (The context implies that lin-35 and efl-1 are mentioned in the same list, suggesting that they might be related genes in Caenorhabditis elegans, potentially implying an interaction.)"
+32	15238519	lin-35	efl-1	"Yes (The context shows that lin-35 and efl-1 are mentioned together in a list, potentially suggesting an interaction or relationship between them.)"
+33	15254247	smu-1	mec-8	"Yes (This is because the suppression of smu-1 mutant phenotypes is compared to the effects of mutation in mec-8, indicating some form of connection or involvement between the two genes.)"
+34	15254247	smu-1	smu-2	"Although the context does not explicitly state that 'smu-1' directly interacts with 'smu-2', their effects on similar biological processes are identical. This strong correlation suggests that they mi"
+35	15254247	mec-8	smu-2	"Yes, 'mec-8' interacts with 'smu-2', as it suppresses the 'smu-2' mutations."
+36	15254247	mec-8	smu-2	Yes
+37	15280233	lin-35	psa-1	"Yes, based on the context, lin-35 interacts with psa-1, as it mentions there are strong genetic interactions between the two."
+38	15280233	lin-35	psa-1	Yes
+39	15280233	lin-35	lin-37	"Yes (The context mentions that there are genetic interactions involving a subset of the class B synMuv genes, which includes both lin-37 and lin-35.)"
+40	15280233	lin-35	lin-37	"Yes (This answer is based on the context where lin-35 and lin-37 appear together, implying a possible interaction between the two.)"
+41	15280233	psa-1	lin-37	Yes (since lin-37 is part of a subset of class B synMuv genes mentioned in the context and these genes have strong genetic interactions with psa-1)
+42	15280233	psa-1	lin-37	Yes (The strong enhancement of defects in T cell division associated with lin-37 mutations in the presence of loss-of-function mutations in psa-1 suggests an interaction between these two genes.)
+43	15306688	fem-1	fem-3	"To determine if 'fem-1' interacts with 'fem-3', we need to understand the given context. It mentions that some entity (not specified in the context) acts upstream of genes 'fem-1', 'fem-2', and 'fem-"
+44	15306688	fem-1	fem-2	"To provide an answer to the given question, we need to focus on the information about interactions among 'fem-1', 'fem-2', and 'fem-3'. The context tells us that ""it"" (likely referring to another gen"
+45	15306688	fem-1	sel-10	"Yes (since fem-1 acts upstream of sel-10, implying that there is an interaction between these genes)"
+46	15306688	fem-1	tra-2	No
+47	15306688	fem-3	fem-2	No (The context only provides information about the position of fem-3 and fem-2 genes relative to each other but doesn't indicate any interaction between them.)
+48	15306688	fem-3	sel-10	"Yes, according to the context provided, fem-3 acts upstream of sel-10, which implies an interaction between these two genes."
+49	15306688	fem-3	tra-2	"No (The given context does not provide enough evidence to confirm an interaction between fem-3 and tra-2. Only that they are mentioned in relation to her1, but not directly to each other.)"
+50	15306688	fem-2	sel-10	"Yes, 'fem-2' interacts or acts upstream with 'sel-10', according to the given context."
+51	15306688	fem-2	tra-2	No (We cannot conclude that fem-2 interacts with tra-2 directly from this context. It only states their positions relative to other genes.)
+52	15306688	sel-10	tra-2	"No, it does not explicitly mention that sel-10 directly interacts with tra-2 in the given context. However, since sel-10 is downstream of tra-2 (indicated by ""probably""), there may be an indirect gen"
+53	15466489	LIM	smo-1	"No (However, it implies that the result of mutations in LIN11 LIM domain transcription factor is related to smo-1 phenotype, but it doesn't explicitly state an interaction between LIM and smo-1)."
+54	15563610	atp-2	synthase	No (There is no direct interaction stated between atp-2 and synthase in the context given. The context only mentions that the function of ATP atp-2 and the overexpression of synthase result in a male
+55	15563610	atp-2	lov-1	"Yes (The fact that atp-2 and lov-1 are mentioned together in the context implies an interaction between them, even though it doesn't explicitly state their interaction, the context suggests it.)"
+56	16287966	lin-35	cye-1	Yes
+57	16481471	daf-18	daf-16	"Yes (However, it's important to note that this interaction does not always result in a direct contribution to daf-16 functions in all circumstances.)"
+58	16507136	lin-35	Enhanced RNAi	"Yes, the context implies a possible interaction between 'lin-35' and 'Enhanced RNAi', as 'lin-35' is mentioned in relation to Enhanced RNAi worms. However, this interaction is through misexpression, "
+59	16951081	mrt-2	hus-1	"Yes (The given context suggests that 'mrt-2' and 'hus-1' are both part of DNA damage response mutants in the organism Caenorhabditis elegans, implying an interaction between them.)"
+60	16951081	mrt-2	hus-1	Yes (The mention of 'mrt-2' and 'hus-1' occurring together in the context suggests that they are connected or have some level of interaction.)
+61	16951081	mrt-2	ced-3	"Yes (The context suggests that there is a connection between mrt-2 and other factors, including ced-3, since they are mentioned in the context of the apoptotic branch in DNA damage response pathway m"
+62	16951081	hus-1	ced-3	"Yes (The context is indicating that hus-1 and ced-3 are mentioned in the same group of mutants, suggesting their interaction in some context.)"
+63	17075059	lin-37	lin-54	"No (The context only mentions that lin-37 and lin-54 are both synMuv genes being characterized, not that they interact directly.)"
+64	17075059	lin-37	lin-54	Yes
+65	17237514	lin-35	efl-1	"No (The context does not provide enough information to infer an interaction between lin-35 and efl-1, only that both are listed among the additional genes associated with death.)"
+66	17237514	lin-35	lin-37	"To determine if 'lin-35' interacts with 'lin-37', we need more information about these genes or their functions given that the context only mentions that they are additional genes listed together. Wi"
+67	17237514	lin-35	dpl-1	"Yes (However, it is important to note that the given context indirectly suggests that lin-35 interacts with dpl-1 since they are mentioned within the context of animal viability.)"
+68	17237514	egl-1	ced-9	"To determine if 'egl-1' interacts with 'ced-9' based on the given context, we need to consider that these genes are mentioned together, likely indicating some sort of related function or interaction "
+69	17237514	egl-1	ced-3	"The context does not explicitly state whether egl-1 interacts with ced-3. We can infer that they might have some relevance due to their roles in the programmed event, but more information is needed t"
+70	17237514	ced-9	ced-3	"In the given context, it is not explicitly mentioned if 'ced-9' interacts with 'ced-3'. The context only states that these genes 'egl1', 'ced-9', 'ced-4', and 'ced-3' all play major roles in a certai"
+71	17237514	efl-1	lin-37	"No, the context does not provide information about an interaction between 'efl-1' and 'lin-37'. It just lists genes related to 'death', implying they may have some connections or functions related to"
+72	17237514	efl-1	dpl-1	Yes
+73	17237514	lin-37	dpl-1	Yes (The context mentions that 'dpl-1' is one of the genes known to interact with lin-37.)
+74	17304241	ZYG11	CUL2	Yes
+75	17417969	lin-35	eri-1	Yes (This is inferred from the given context that lin-35 and eri-1 are mentioned together in relation to RNAi phenotypes in mutants.)
+76	17476329	cye-1	cdk-2	"The context provided does not explicitly state that 'cye-1' interacts with 'cdk-2'. However, the fact that both 'cye-1' and 'cdk-2' are mentioned in relation to mutants and RNAi animals after asymmet"
+77	17476329	cye-1	cdk-2	"Yes (From the context, it appears that cye-1 and cdk-2 are mentioned together in the form of RNAi, which suggests some level of interaction between the two.)"
+78	17609115	fem-1	fem-3	"Yes (Since fem-1 is mentioned alongside fem-3 as genes that negatively regulate something, it implies an interaction between them.)"
+79	17609115	fem-1	fem-2	Yes (as the context indicates that fem-1 is involved in the regulation alongside fem-2)
+80	17609115	fem-3	fem-2	"Yes (since all three genes are mentioned as negatively regulating something, suggesting some form of interaction or connection, even if not explicitly stated)"
+81	17890369	bec-1	unc-51	"No, the context does not explicitly state that bec-1 interacts with unc-51. It only mentions that both genes are required for normal cell functioning."
+82	17890369	bec-1	unc-51	"Yes (the reason for this answer is that both bec-1 (atg1) and unc-51 (atg6beclin1) are mentioned together as inactivation of these genes, suggesting a relationship or interaction between them in the "
+83	17890369	bec-1	unc-51	Yes (The context implies that bec-1 and unc-51 have some level of interaction as loss-of-function mutations in both genes result in the suppression of a shared phenotype.)
+84	17890369	bec-1	unc-51	"Yes (The context implies that bec-1 and unc-51 have a role together in the context of cell size control, suggesting an interaction between them.)"
+85	18049475	gck-3	wnk-1	Yes (although we can't determine the specific nature or impact of the interaction from this limited context)
+86	18049475	gck-3	wnk-1	Yes (This inference is made because the ability of a deletion mutation to partly suppress the defects of both gck-3 and wnk-1 suggests that there is some level of interaction or connection between th
+87	18056428	egl-1	ced-9	"Yes (The context indicates that egl-1 inhibits ced-9, suggesting they interact.)"
+88	18056428	egl-1	ced-9	"No (This answer suggests that 'egl-1' and 'ced-9' do not significantly impact, or interact in terms of survival, as the survival occurs independently of both.)"
+89	18094057	LIM	ZYX	Yes
+90	18094057	LIM	ZYX	"Yes (as 'LIM' refers to the domain in the protein ZYX, which implies a relationship between the two terms)"
+91	18202375	glh-1	pgl-1	Answer: Yes (As their opposing effects on germcell proliferation suggest that glh-1 and pgl-1 might be involved in the same process or interact in some way.)
+92	18248670	MAD	san-1	"Yes (Since the context mentions an investigation into the role of MAD in relation to the san-1 homologue in Caenorhabditis elegans, it implies that there might be some level of interaction or relatio"
+93	18248670	MDF-1	san-1	"In the given context, although it does not explicitly state an interaction between 'MDF-1' and 'san-1', 'san-1' is identified as a CENPF homologue, and since there is a mention of a significant reduc"
+94	18248670	san-1	bub-3	"No, the context does not provide enough information to confirm or deny an interaction between san-1 and bub-3. It only lists them both as spindle checkpoint genes."
+95	18248670	san-1	bub-3	"To accurately answer this question, I cannot simply say 'Yes' or 'No' based on the given context alone, as it does not explicitly state whether san-1 and bub-3 interact or not. While it does indicate"
+96	18425118	dyn-1	vps-34	"Answer: Yes (although the exact nature of their interaction is not specified, the context implies some level of association due to the shared result of an accumulation of internalized substances)"
+97	18477695	egl-9	hif-1	"Yes (egl-9 interacts with hif-1 indirectly through its negative regulator, hif-1 prolyl hydroxylase)"
+98	18718460	skr-1	sel-10	Yes (The context suggests that skr-1 and sel-10 have some level of interaction since a weak loss of function allele of sel-10 was isolated in a suppressor screen for skr-1 n1074.)
+99	18718460	skr-1	sel-10	"Yes (The context suggests that the skr-1 n1074 effect relies or depends on sel-10 and cul1 activity, indicating that skr-1 interacts with sel-10 in some manner.)"
+100	18722182	ced-9	ced-3	"No (In this context, ced-9 is part of cell death execution pathways that happen after it, but these pathways do not require or rely on ced-3, implying that there may not be a direct interaction betwe"
+101	18782349	akt-1	akt-2	"Although the context given is not entirely clear, it hints at the existence of mutants of both akt-1 and akt-2. Since they are mentioned together in the sentence, it is plausible to assume that they "
+102	18782349	akt-1	akt-2	The context does not explicitly state an interaction between 'akt-1' and 'akt-2'. It mentions that the pathogen resistance of 'daf2 akt-1' and 'akt-2' mutants is associated with something restricted.
+103	18828672	hcf-1	daf-16	"Yes (This is inferred because the hcf-1 inactivation affects the C. elegans lifespan in a manner dependent on daf-16, implying an interaction between hcf-1 and daf-16.)"
+104	18828672	HCF	FOXO	"To accurately answer this question, some background information about what HCF and FOXO specifically represent in this context would be beneficial. However, considering only the provided context, it "
+105	19081077	spd-2	zyg-1	"Answer: While the context indicates that both spd-2 and zyg-1 are involved in similar issues (centrosome duplication defects), it does not explicitly mention their direct interaction. However, their "
+106	19240135	akt-1	sgk-1	"Yes (This answer is based on the context as it suggests that mutants have a genetic dependence on both akt-1 and sgk-1, implying potential interaction between the two proteins.)"
+107	19240135	akt-1	akt-2	"Yes (The context implies that akt-1 and akt-2 have some level of genetic interdependence, suggesting an interaction between them.)"
+108	19240135	sgk-1	akt-2	No (The context doesn't directly indicate an interaction between sgk-1 and akt-2; it mentions genetic dependence on akt1 and serum and glucocorticoid induced kinase1 instead.)
+109	19259273	pry-1	pop-1	"Yes (Since both 'pry-1' and 'pop-1' are listed alongside other genes, it suggests they are part of the same context and hence might interact.)"
+110	19259273	pry-1	mig-5	"Yes (The context suggests that pry-1 and mig-5 are both mentioned in the same context as genes with mutations causing certain effects, indicating a possible relationship or interaction between them.)"
+111	19259273	pry-1	bar-1	"Yes (since both 'pry-1' and 'bar-1' are listed in the same context as having mutations, suggesting a possible interaction)"
+112	19259273	pry-1	gsk-3	Yes
+113	19259273	pop-1	mig-5	Yes (The interaction between pop-1 and mig-5 can be inferred from the context as both are mentioned together in relation to causing disrupted D-type axons due to mutations.)
+114	19259273	pop-1	bar-1	"Yes (However, it is implied that pop-1 and bar-1 are mentioned in the same context as genes associated with mutations causing disruption in axons, suggesting that there could be a possible interactio"
+115	19259273	pop-1	gsk-3	"Yes (Since both 'pop-1' and 'gsk-3' appear together in the list of proteins where mutations cause a disrupted D-type axon, it implies that they could potentially interact.)"
+116	19259273	mig-5	bar-1	"Yes (Since both mig-5 and bar-1 are mentioned in the context as having mutations which cause disrupted outcomes, indicating some level of interaction or relationship between them.)"
+117	19259273	mig-5	gsk-3	"Yes (The fact that mig-5 and gsk-3 appear in the same list separated by a space suggests that they are potentially related, as they both have associated mutations.)"
+118	19259273	bar-1	gsk-3	"Yes (This answer is based on the fact that 'bar-1' and 'gsk-3' are listed together in the context, which suggests that they are part of the same context and, therefore, might interact with each other"
+119	19327994	egl-1	ced-9	The context does not provide enough information to definitively conclude whether 'egl-1' interacts with 'ced-9'. It only mentions that they both have increased activity and are part of the Bcl2 famil
+120	19327994	egl-1	ced-9	"In the given context, it is not explicitly mentioned that egl-1 interacts with ced-9. However, the context shows that both genes, egl-1 and ced-9, are studied together. To clearly establish an intera"
+121	19427847	eya-1	ceh-34	"To provide an answer, let's break down the context given. The context mentions that the ""asymmetric expression"" of eya-1 and ceh-34 is regulated by a combination. An asymmetric expression typically r"
+122	19521497	lin-35	ubc-18	"Yes (The presence of double mutants suggests that lin-35 and ubc-18 are both involved in the same mutation, implying that they interact in some way.)"
+123	19570917	fos-1	eri-1	Yes (as it says that jun1 requires genetic interactions with eri-1 for fos-1 regulation of ovulation)
+124	20713707	eya-1	egl-1	Yes
+125	20713707	eya-1	ceh-34	"The given context does not explicitly explain an interaction between 'eya-1' and 'ceh-34'. However, it does establish a relationship in which the loss of function of either protein leads to the same "
+126	20713707	eya-1	ceh-34	"No, the context does not specifically state that eya-1 interacts with ceh-34. However, we can infer that they might have a functional relationship since both are mentioned as requirements for the M4 "
+127	20713707	egl-1	ceh-34	Yes
+128	20865124	egl-9	hif-1	Yes (The suppression of P. aeruginosa PAO1 resistance in hif-1 mutants by a loss-of-function mutation in egl-9 suggests a form of interaction between the two genes.)
+129	21241450	hif-1	FOXO	"Yes (hif-1 is shown to have an interaction with a specific type of FOXO, DAF16, in this context)"
+130	21408209	mab-3	nhr-25	Yes
+131	21455289	cye-1	cdk-2	"Yes (However, it's important to note that while this context suggests an association between cye-1 and cdk-2 due to sharing defects, the specific nature of the interaction can't be fully determined f"
+132	21840852	cysl-1	synthase	"Yes (In the given context, cysl-1 is mentioned in relation to ""cysl-1 homologs synthase,"" implying an interaction or similarity between cysl-1 and synthase in the HCN assimilation pathway.)"
+133	21909281	HCF	FOXO	"No (HCF does not interact directly with FOXO but rather regulates DAF16, which is a specific example of FOXO)."
+134	21909281	HCF	FOXO	"Yes, based on the context provided, HCF (specifically HCF 1) interacts with FOXO (DAF16 FOXO in this context) since it is part of the regulatory loop that connects SIR21/SIRT1 and DAF16/FOXO in both "
+135	21909281	HCF	FOXO	Yes (since HCF 1 is mentioned to repress the expression of several FOXO SIRT1 target genes)
+136	21909281	HCF	FOXO	Yes (since the context mentions the complex regulation of FOXO proteins involves HCF 1)
+137	22069193	PTEN	FOXO	Yes
+138	22209900	sao-1	sel-10	"Yes (The context mentions ""sao-1 sel-10 protein interaction,"" implying that sao-1 and sel-10 do interact with each other in the given context.)"
+139	22232551	tdp-1	HSF-1	"Yes (This answer is based on the given context, which suggests that there is some sort of relationship or interaction between tdp-1 and HSF-1, as the loss of tdp-1 has an effect on the defects in ani"
+140	22232551	HSF-1	FOXO	"No, the context does not indicate an interaction between HSF-1 and FOXO, as it states that HSF-1 requires DAF16 (a type of transcriptional factor), while FOXO is not involved in life span extension."
+141	22272187	piki-1	vps-34	"Yes (The context suggests that 'piki-1' and 'vps-34' likely interact or influence a process together, since inactivating both of them results in a common outcome - the complete abolishment of product"
+142	22280843	dop-2	gpa-14	"Yes (The context implies that dop-2 is one of the positively interacting partners and shows expression overlap with gpa-14, which indicates that they do interact.)"
+143	22383942	baf-1	lem-2	"Yes (The context implies that baf-1 and lem-2 are mentioned together in relation to mutants, suggesting that they are associated in some way, which can be regarded as an interaction.)"
+144	22396654	hif-1	aha-1	"Yes (Note: In this context, 'aha-1' is referred to as 'HIFβ', which is the binding partner of 'hif-1', indicating that they interact with each other.)"
+145	22396654	MAD	mdl-1	"Yes (Since the context mentions MAD and mdl-1 together, it implies a potential interaction between them, although the context does not explicitly state the interaction.)"
+146	2249759	mei-2	mel-26	No (The context does not provide any information about an interaction between mei-2 and mel-26. It only lists these genes as potential contributors to a certain phenomenon.)
+147	2249759	mei-2	zyg-9	No (The context does not provide enough information about interactions between genes mei-2 and zyg-9.)
+148	2249759	mel-26	zyg-9	No (The given context does not provide any direct evidence or information about an interaction between 'mel-26' and 'zyg-9'; it only mentions that they are both maternally-effect lethal mutations.)
+149	2249759	mel-26	zyg-9	No (The given context does not provide any information about an interaction between 'mel-26' and 'zyg-9'. It only mentions that these four genes could be responsible for some particular occurrence or
+150	22568582	HCF	FOXO	"Yes (HCF interacts with FOXO through its regulation of DAF16, which is a member of the FOXO family)"
+151	22792076	tdp-1	daf-16	"Yes (Explanation: In this context, oxidative stress causes tdp-1 to depend on and upregulate daf-16 expression. This implies an interaction between the two proteins.)"
+152	22916028	PTEN	FOXO	No
+153	23347407	lin-35	csr-1	"To determine an answer based solely on the given context, we need to identify any relationship between 'lin-35' and 'csr-1'. Unfortunately, there is no direct mention of interaction between the two m"
+154	23505386	csp-3	ced-3	"Yes, 'csp-3' interacts with 'ced-3' as both genes are mentioned together in the context of quadruple mutants."
+155	23607404	dop-2	gpa-14	"Yes (The context mentions an ""in vitro physical interaction between dop-2 and gpa-14,"" which implies that these two subjects do interact.)"
+156	23607404	dop-2	gpa-14	"No (However, it might imply a relation in terms of behavioral outcomes, but there's no direct evidence suggesting an interaction between dop-2 and gpa-14 in the given context.)"
+157	23760267	fem-1	fem-3	"The context provided doesn't explicitly mention an interaction between fem-1 and fem-3. However, since fem-1, fem-2, and fem-3 all share a crucial role in male development, there could be the possibi"
+158	23760267	fem-1	fem-2	"Yes (The context suggests that fem-1, fem-2, and fem-3 are mentioned together in the context of having crucial roles in the nematode Caenorhabditis elegans, which indirectly implies that there might "
+159	23760267	fem-3	fem-2	"The context does not explicitly mention an interaction between 'fem-3' and 'fem-2'. It only states that fem1, fem-3, and fem-2 have vital roles in male. Therefore, with the given information, the ans"
+160	23788625	ceh-20	ceh-40	"Yes (justification: since the context mentions that novel roles of Pbx are revealed through ceh-20 and ceh-40, it can be inferred that these two factors are interconnected or interacting in some way)"
+161	24030151	lin-35	egl-1	"Yes (The context implies that lin-35 and egl-1 are both involved in mediating apoptosis, suggesting they might interact or be related in some manner.)"
+162	24066155	lin-35	zfp-1	"In the given context, it can be inferred that there is a dependency between the defects caused by mutations in lin-35 and zfp-1 and the transgene oxIs12. Although it doesn't explicitly mention an int"
+163	24204299	CES-1	egl-1	"Yes, based on the given context, it suggests that CES-1 and egl-1 might interact as they both can suppress apoptosis."
+164	24204299	CES-1	cya-1	"No, CES-1 does not directly interact with cya-1. However, its action on the cdc252 gene leads to an impact on neuroblast division that is connected to the partial loss of cya-1's function."
+165	24314125	HSF-1	ILK	"Yes, based on the context, there is an interaction between 'HSF-1' and 'ILK', as longevity and thermotolerance induced by HSF-1 depletion are mediated by ILK, which is also referred to as a heatshock"
+166	24424777	brc-1	brd-1	Yes (The context implies a relationship between brc-1 and brd-1 since they are both mentioned as homologs of BRCA1 and BARD1 in C. elegans.)
+167	24699255	mxl-1	mml-1	"The context provided does not give any information about interactions between 'mxl-1' and 'mml-1'. It only mentions that Max (likely a protein or gene) is encoded by mml-1, and other similar entities"
+168	24699255	mxl-1	mdl-1	"No (The context only states that these genes are encoded separately, it doesn't provide information about any interactions between mxl-1 and mdl-1.)"
+169	24699255	mxl-1	mdl-1	Yes (The context implies that mxl-1 and mdl-1 have a connection since their loss affects longevity and depends on other factors such as MML1MXL2.)
+170	24699255	mxl-1	mxl-2	"The context provided does not give any information about interaction between 'mxl-1' and 'mxl-2'. It only tells that Max can be encoded by four genes; 'mml1', 'mxl-1', 'mdl1', and 'mxl-2', respective"
+171	24699255	mml-1	mdl-1	"To answer this question, we need to understand if there could be an interaction between mml-1 and mdl-1 based on the given context. The context mentions that 'and Max' are encoded by different genes "
+172	24699255	mml-1	mxl-2	"To answer this question, we need to determine if there is any information in the context indicating an interaction between mml-1 and mxl-2. However, the given context merely mentions that Max (presum"
+173	24699255	mml-1	mxl-2	"In the given context, we cannot definitively say that 'mml-1' interacts with 'mxl-2' in a direct sense. However, since they both share a common outcome of shortening the C elegans lifespan when they "
+174	24699255	mdl-1	mxl-2	The given context does not provide any direct information about the interaction between mdl-1 and mxl-2. It only states that Max (possibly a trait or characteristic) are encoded by four different ele
+175	24834345	daf-16	swsn-1	"Yes (from the given context, as daf-16 is identified as a key modulator of swsn-1 gene expression, implying an interaction between the two factors)"
+176	25562820	lin-35	CDK4/6	"No, 'lin-35' does not directly interact with 'CDK4/6' in the context provided. Instead, the simultaneous mutation of 'lin-35' and 'fzr1' eliminates the necessity of CDK4/6 and cyclin D for C. elegans"
+177	26779609	paxt-1	XRN2	Yes (The context implies that paxt-1 and XRN2 form complexes both in vitro and seem to have connections in vivo due to the recapitulation of phenotypes when their interaction is disrupted.)
+178	26783301	sorf-2	sorf-1	"No (The context does not explicitly suggest an interaction between sorf-2 and sorf-1, only that the loss of either leads to a similar effect.)"
+179	26952214	HSF-1	CUL-3	"Yes (HSF-1 interacts with CUL-3, as it activates the E3 component CUL-3 as part of the ubiquitin proteasome system.)"
+180	27039057	FOXO	zfp-1	Yes (FOXO interacts with 'zfp-1' in the given context since it is mentioned to transcriptionally regulate its expression along with DAF16 FOXO and PHA4FOXA)
+181	27650246	pgl-3	pgl-1	"The context does not explicitly state that 'pgl-3' interacts with 'pgl-1'. However, since they are expressed together ('pgl-3 andor pgl-1') in the same context, it can be inferred that they might hav"
+182	28441531	myrf-2	myrf-1	No (The context does not provide any information about interaction between myrf-2 and myrf-1).
+183	29523076	daf-16	jnk-1	"Yes (The context suggests that the loss of jnk-1 can impact the behavior associated with daf-16, indicating an interaction between the two genes.)"
+184	29523076	daf-16	jnk-1	"Yes (However, it's important to note that the context doesn't explicitly mention an interaction between daf-16 and jnk-1, but since jnk-1 function is required in neurons in the context of daf-16 anim"
+185	30921322	gsp-2	lab-1	"Yes (This is true because both gsp-2 and lab-1 are mentioned together in the context as mutant adults displaying germline degeneration during the generation of sterility, which suggests an interactio"
+186	31851340	nhr-49	cebp-1	"In the given context, 'nhr-49' is mentioned as having its expression being increased, along with other factors like 'sbp1' and 'cebp-1'. Although it implies that they are all affected in the same con"
+187	35660370	pop-1	sys-1	"Yes (Explanation: They are both mentioned as Wnt pathway effectors, which implies that they have some relationship or interaction within that pathway.)"
+188	8027178	mei-2	mel-26	"Yes (though their interaction is indirect, as they both have roles related to mei1 during meiosis and postmeiotic phases)"
+189	8027178	mei-2	mel-26	"To determine if 'mei-2' interacts with 'mel-26', we need more information beyond the provided context. The context only tells us that these genes are part of a regulatory system, but it does not expl"
+190	8415696	RNA helicase	glh-1	"Yes (However, it is implied that RNA helicase might be related to glh-1 from Caenorhabditis, but the context does not explicitly confirm an interaction between them as an interaction is often describ"
+191	8415696	RNA helicase	glh-1	"Yes (However, please note that the context implies a connection between RNA helicase and glh-1 due to their similarity, but it does not explicitly state an interaction. The question's answer suggests"
+192	8647436	LIM	vab-3	No (The context does not directly state an interaction between 'LIM' and 'vab-3'; it mentions separate mutations for lin11 LIM homeo box ham1/lin17 and vab-3 along with other genetic components.)
+193	8824590	fem-1	fem-3	"No (The context only mentions that Caenorhabditis elegans requires all three genes, fem-1, fem-2, and fem-3 but it does not specifically state that there is an interaction between fem-1 and fem-3.)"
+194	8824590	fem-1	fem-2	"To determine if 'fem-1' interacts with 'fem-2' in the given context, we need more information about the relationships between those genes. The context only states that the Caenorhabditis elegans orga"
+195	8824590	fem-3	fem-2	"No, the context does not provide enough information to determine if 'fem-3' interacts with 'fem-2'. It mentions that the 'elegans' requires these three genes, but interactions between those genes are"
+196	8943022	glh-1	glh-2	"The context provided does not explicitly mention an interaction between 'glh-1' and 'glh-2'. It only talks about the effect of injecting antisense RNA of both on wildtype worms. Therefore, based sole"
+197	9389650	lin-12	sel-10	"Yes (Explanation: The context indicates that ""lin-12"" is a ""negative regulator of sel-10 activity"" which implies interaction between them.)"
+198	9389650	lin-12	sel-10	"Yes (Explanation: The context mentions that lin-12 acts as a negative regulator on sel-10 Notch-mediated signaling, implying that there is some form of interaction between these two factors.)"
+199	9389650	lin-12	sel-10	"Yes (The context suggests that sel-10 plays a role in the regulation of lin-12 Notch activity, implying an interaction between the two.)"
+200	9501178	aha-1	AHR	"To provide an accurate answer, I need more information about the interaction between aha-1 and AHR in the context of C. elegans (a model organism). Since the given context only mentions that aha-1 an"
+201	9501178	aha-1	ahr-1	"No, the given context does not provide enough information about an interaction between aha-1 and ahr-1. It only states that both are encoded by genes in the 'C. elegans' organism."
+202	9501178	ARNT	ahr-1	"Yes (In the given context, since ARNT is mentioned as the dimerization partner for ahr-1, it can be inferred that ARNT interacts with ahr-1.)"
+203	9501178	AHR	HSP90	Yes
+204	9531567	hmp-2	hmp-1	"Yes (However, the context does not explicitly confirm the interaction, but implies that analyses of hmp-2 and hmp-1 mutants might provide evidence for their interaction.)"
+205	9531567	hmp-2	hmr-1	"Answer: Yes (although it's implied, not explicitly stated, ""Yes"" can be assumed because they are grouped together and being analyzed, suggesting a potential relationship or interaction between hmp-2 "
+206	9531567	hmp-1	hmr-1	"Yes (However, it should be noted that the context does not explicitly state that there is an interaction between hmp-1 and hmr-1, but the mention of their mutant analyses suggests a possible connecti"
+207	9716402	akt-1	akt-2	The context provided does not explicitly mention that akt-1 interacts with akt-2. It only explains that both akt-1 and akt-2 are related proteins that transmit insulin receptor-like signals in C. ele
+208	9716402	akt-1	akt-2	"No (while the context suggests they are expressed in overlapping patterns, it does not explicitly state that they interact with each other)"
+209	9885243	LIM	unc-97	"In the provided context, it is implied that LIM (specifically, the five LIM domains) might have a potential function as adapter molecules. While it doesn't explicitly state an interaction between LIM"
+210	9885243	LIM	PINCH	"In the provided context, although LIM family is described as a family of PINCH proteins, it does not explicitly mention an interactive relationship between LIM and PINCH. Therefore, based solely on t"

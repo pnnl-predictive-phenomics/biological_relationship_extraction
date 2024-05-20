@@ -1,0 +1,1233 @@
+Sentence Position in R	Relational Terms	Term1	Term2	PMID
+8		fem-3	mog-1	10022905
+		Chromosome segregation	CEntrosomal	10085292
+		Chromosome segregation	zyg-9	10085292
+		CEntrosomal	zyg-9	10085292
+		lin-10	Secreted	10359617
+		daf-16	akt-1	10364160
+		daf-16	akt-2	10364160
+8	suppress	akt-1	akt-2	10364160
+3		fem-1	fem-3	10364161
+3		fem-1	fem-2	10364161
+3		fem-1	tra-2	10364161
+3		fem-3	fem-2	10364161
+3		fem-3	tra-2	10364161
+3		fem-2	tra-2	10364161
+4		dys-1	dyb-1	10369883
+		RAN	NXT1	10567585
+		RAN	nxt1	10567585
+		RAN	NTF2-related export	10567585
+		RAN	Nuclear Pore complex	10567585
+		NXT1	Nuclear Pore complex	10567585
+		nxt1	Nuclear Pore complex	10567585
+		NTF2-related export	Nuclear Pore complex	10567585
+		CeMED6	CeMED7	10611325
+		mog-4	fem-3	10737793
+		mog-4	mog-1	10737793
+5		mog-4	mog-5	10737793
+6		mog-4	mog-5	10737793
+4	repress	fem-3	mog-1	10737793
+		fem-3	mog-5	10737793
+		mog-1	mog-5	10737793
+10	suppress	emb-30	mdf-1	10749938
+		emb-30	MDF-1	10749938
+		GCS	HSP90	10790386
+		GCS	daf-21	10790386
+		unc-112	Vinculin	10893272
+6	activate stimulate	bar-1	pal-1	10970880
+		Ce-lamin	lem-2	10982402
+8	deter	Ce-lamin	Ce-MAN1	10982402
+8	deter	Ce-lamin	MAN1	10982402
+		Secreted	unc-130	11018016
+		Secreted	daf-4	11018016
+		unc-130	daf-4	11018016
+		Chromosome segregation	lmn-1	11071918
+		Chromosome segregation	Ce-lamin	11071918
+		Chromosome segregation	CeLam-1	11071918
+		goa-1	Synembryn	11102364
+		fem-3	tra-2	11124807
+2		mes-2	mes-6	11320248
+		Chromosome segregation	NUF2	11402066
+		Chromosome segregation	him-10	11402066
+7		hif-1	aha-1	11427734
+2	attach bind suppress	smu-1	mec-8	11438655
+		smu-1	Mec-8	11438655
+		hmp-2	wrm-1	11560894
+		hmp-2	bar-1	11560894
+		wrm-1	bar-1	11560894
+		egl-9	synthase	11591663
+		ife-1	pgl-1	11641215
+		dlg-1	MAGUK family	11694581
+		dlg-1	ajm-1	11694581
+		MAGUK family	ajm-1	11694581
+		unc-37	hda-1	11742996
+		unc-37	pop-1	11742996
+		hda-1	pop-1	11742996
+		SUMO	ubc-9	11806825
+		SUMO	UbC1	11806825
+		ubc-9	UbC1	11806825
+3		gex-2	gex-3	11877381
+4		gex-2	gex-3	11877381
+7		Ce-lamin	Ce-MAN1	11907270
+7		Ce-lamin	MAN1	11907270
+		air-2	Chromosome segregation	11914278
+		air-2	mix-1	11914278
+		air-2	Mitotic chromosome	11914278
+		air-2	smc-4	11914278
+		air-2	SMC-4	11914278
+		Chromosome segregation	mix-1	11914278
+		Chromosome segregation	Mitotic chromosome	11914278
+		Chromosome segregation	smc-4	11914278
+		Chromosome segregation	SMC-4	11914278
+		mix-1	smc-4	11914278
+		mix-1	SMC-4	11914278
+		Mitotic chromosome	smc-4	11914278
+		Mitotic chromosome	SMC-4	11914278
+		air-2	Chromosome segregation	11940606
+		CEntrosomal	zyg-9	12011109
+		Homeobox	pry-1	12023307
+		Homeobox	pop-1	12023307
+		Homeobox	bar-1	12023307
+		Homeobox	GSK3	12023307
+		Homeobox	sgg-1	12023307
+		pry-1	pop-1	12023307
+		pry-1	bar-1	12023307
+		pry-1	GSK3	12023307
+		pry-1	sgg-1	12023307
+		pop-1	bar-1	12023307
+		pop-1	GSK3	12023307
+		pop-1	sgg-1	12023307
+		bar-1	GSK3	12023307
+		bar-1	sgg-1	12023307
+		mes-2	mes-6	12077420
+		mog-4	fem-3	12088146
+		mog-4	mog-1	12088146
+		mog-4	mog-5	12088146
+		mog-4	mep-1	12088146
+		fem-3	mog-1	12088146
+		fem-3	mog-5	12088146
+		fem-3	mep-1	12088146
+		mog-1	mog-5	12088146
+		mog-1	mep-1	12088146
+		mog-5	mep-1	12088146
+6		unc-43	goa-1	12221132
+		unc-43	cna-1	12221132
+		goa-1	cna-1	12221132
+		lin-12	spr-5	12381669
+		lin-12	P110b	12381669
+		Hop	spr-5	12411496
+		Chromosome segregation	Ce-lamin	12684533
+		Chromosome segregation	Ce-MAN1	12684533
+		Chromosome segregation	MAN1	12684533
+7	interact	Ce-lamin	Ce-MAN1	12684533
+9		Ce-lamin	Ce-MAN1	12684533
+7	interact	Ce-lamin	MAN1	12684533
+9		Ce-lamin	MAN1	12684533
+		icp-1	air-2	12707312
+		icp-1	csc-1	12707312
+		icp-1	Chromosome segregation	12707312
+		air-2	csc-1	12707312
+		air-2	Chromosome segregation	12707312
+		src-1	Chromosome segregation	12730122
+		src-1	goa-1	12730122
+6	relate	src-1	gpr-1	12730122
+		src-1	gpa-16	12730122
+		Chromosome segregation	goa-1	12730122
+		Chromosome segregation	gpr-1	12730122
+		Chromosome segregation	gpa-16	12730122
+5		goa-1	gpr-1	12730122
+5		goa-1	gpa-16	12730122
+5		gpr-1	gpa-16	12730122
+		hmp-1	hmr-1	12847081
+8	increase	hmp-1	jac-1	12847081
+9		hmp-1	jac-1	12847081
+		hmp-1	p120 catenin	12847081
+		hmr-1	jac-1	12847081
+		hmr-1	p120 catenin	12847081
+		cul-2	zif-1	12894212
+		cul-2	par-1	12894212
+		CUL-2	zif-1	12894212
+		CUL-2	par-1	12894212
+		zif-1	par-1	12894212
+		CeNDC-80	him-10	14522947
+		dop-2	LIM	14568548
+		dop-2	Homeobox	14568548
+		LIM	Homeobox	14568548
+		LIM	Vinculin	15210732
+		LIM	rnf-5	15210732
+2	assemble	LIM	unc-95	15210732
+		Vinculin	rnf-5	15210732
+		Vinculin	unc-95	15210732
+		rnf-5	unc-95	15210732
+9	enhance	pgl-3	pgl-1	15238518
+1	complex regulate	lin-35	efl-1	15238519
+4	complex regulate	lin-35	efl-1	15238519
+		lin-35	EFL-1	15238519
+6	associate suppress	smu-1	mec-8	15254247
+		smu-1	Mec-8	15254247
+6	associate suppress	smu-1	smu-2	15254247
+		smu-1	RED	15254247
+2	suppress	mec-8	smu-2	15254247
+6	associate suppress	mec-8	smu-2	15254247
+		mec-8	RED	15254247
+		Mec-8	smu-2	15254247
+		Mec-8	RED	15254247
+3		lin-35	psa-1	15280233
+5	interact	lin-35	psa-1	15280233
+6	associate enhance	lin-35	psa-1	15280233
+5	interact	lin-35	lin-37	15280233
+6	associate enhance	lin-35	lin-37	15280233
+5	interact	psa-1	lin-37	15280233
+6	associate enhance	psa-1	lin-37	15280233
+		lin-12	fem-1	15306688
+		lin-12	fem-3	15306688
+		lin-12	fem-2	15306688
+		lin-12	sel-10	15306688
+		lin-12	egl-41	15306688
+		lin-12	tra-2	15306688
+5		fem-1	fem-3	15306688
+5		fem-1	fem-2	15306688
+5		fem-1	sel-10	15306688
+		fem-1	egl-41	15306688
+5		fem-1	tra-2	15306688
+5		fem-3	fem-2	15306688
+5		fem-3	sel-10	15306688
+		fem-3	egl-41	15306688
+5		fem-3	tra-2	15306688
+5		fem-2	sel-10	15306688
+		fem-2	egl-41	15306688
+5		fem-2	tra-2	15306688
+5		sel-10	tra-2	15306688
+		egl-41	tra-2	15306688
+		gld-2	Cytidine deaminase	15317977
+		san-1	him-10	15371539
+		san-1	CeNuf2	15371539
+		LIM	SUMO	15466489
+5		LIM	smo-1	15466489
+		gld-2	fog-2	15514056
+		pxf-1	Secreted	15525675
+		pxf-1	Pharynx	15525675
+		Secreted	Pharynx	15525675
+		Chromosome segregation	Mitotic chromosome	15557118
+8		atp-2	synthase	15563610
+9		atp-2	lov-1	15563610
+		synthase	lov-1	15563610
+		HSF1	goa-1	15611166
+		HSF-1	goa-1	15611166
+		daf-16	jnk-1	15767565
+		rpa-1	rad51	15798199
+		rab-5	Endocytosis	15895077
+		rab-5	rme-6	15895077
+		Endocytosis	rme-6	15895077
+		icp-1	air-2	15916946
+		icp-1	Chromosome segregation	15916946
+		icp-1	Mitotic chromosome	15916946
+		icp-1	tlk-1	15916946
+		air-2	Chromosome segregation	15916946
+		air-2	Mitotic chromosome	15916946
+		air-2	tlk-1	15916946
+		Chromosome segregation	Mitotic chromosome	15916946
+		Chromosome segregation	tlk-1	15916946
+		Mitotic chromosome	tlk-1	15916946
+		src-1	Secreted	16024786
+		wrm-1	lit-1	16077003
+		pry-1	wrm-1	16077004
+		pop-1	efl-1	16198291
+		pop-1	EFL-1	16198291
+		gsk-3	synthase	16251270
+		Glycogen synthase kinase-3	synthase	16251270
+5	elevate interfere	lin-35	cye-1	16287966
+		lin-35	dcr-1	16287966
+		cye-1	dcr-1	16287966
+		tax-6	lov-1	16481400
+		tax-6	Polycystin-1	16481400
+		PTEN	daf-16	16481471
+6		daf-18	daf-16	16481471
+6	enhance	lin-35	Enhanced RNAi	16507136
+		lin-35	zfp-1	16507136
+		Enhanced RNAi	zfp-1	16507136
+		bRCA1	bARD1	16628214
+		nhr-49	mdt-15	16651656
+		kin-3	kin-10	16672054
+		kin-3	par-5	16672054
+		kin-3	ftt-1	16672054
+		kin-3	let-756	16672054
+		kin-3	ftt-2	16672054
+		kin-3	Secreted	16672054
+		kin-3	pal-1	16672054
+		kin-3	rps-16	16672054
+		kin-10	par-5	16672054
+		kin-10	ftt-1	16672054
+		kin-10	let-756	16672054
+		kin-10	ftt-2	16672054
+		kin-10	Secreted	16672054
+		kin-10	pal-1	16672054
+		kin-10	rps-16	16672054
+		par-5	let-756	16672054
+		par-5	ftt-2	16672054
+		par-5	Secreted	16672054
+		par-5	pal-1	16672054
+		par-5	rps-16	16672054
+		ftt-1	let-756	16672054
+		ftt-1	ftt-2	16672054
+		ftt-1	Secreted	16672054
+		ftt-1	pal-1	16672054
+		ftt-1	rps-16	16672054
+		let-756	ftt-2	16672054
+		let-756	Secreted	16672054
+		let-756	pal-1	16672054
+		let-756	rps-16	16672054
+		ftt-2	Secreted	16672054
+		ftt-2	pal-1	16672054
+		ftt-2	rps-16	16672054
+		Secreted	pal-1	16672054
+		Secreted	rps-16	16672054
+		pal-1	rps-16	16672054
+		zfp-1	pgl-1	16710447
+		syd-9	Endocytosis	16803962
+		Endocytosis	WDFY2	16873553
+3	increase	mrt-2	hus-1	16951081
+5	induce	mrt-2	hus-1	16951081
+5	induce	mrt-2	ced-3	16951081
+5	induce	hus-1	ced-3	16951081
+		gld-2	fem-3	17012378
+		lin-35	Hop	17070797
+6		lin-35	lin-12	17070797
+		Hop	lin-12	17070797
+		lin-35	lin-53	17075059
+		lin-35	lin-37	17075059
+		lin-35	lin-54	17075059
+		lin-53	lin-37	17075059
+		lin-53	lin-54	17075059
+4		lin-37	lin-54	17075059
+5	complex suppress	lin-37	lin-54	17075059
+		Chromosome segregation	efl-1	17096596
+		Chromosome segregation	EFL-1	17096596
+		Chromosome segregation	dpl-1	17096596
+		Chromosome segregation	mpk-1	17096596
+		efl-1	dpl-1	17096596
+		efl-1	mpk-1	17096596
+		EFL-1	dpl-1	17096596
+		EFL-1	mpk-1	17096596
+		dpl-1	mpk-1	17096596
+		daf-16	Secreted	17096597
+		DDb1	cdt-1	17145765
+		ddb-1	cdt-1	17145765
+		baf-1	vrk-1	17170708
+		baf-1	MAN1	17170708
+		vrk-1	MAN1	17170708
+		pry-1	Secreted	17213328
+		rsa-2	rsa-1	17218259
+		rsa-2	Regulator of spindle assembly 1	17218259
+		lin-35	egl-1	17237514
+		lin-35	ced-9	17237514
+6	interact promote	lin-35	efl-1	17237514
+		lin-35	EFL-1	17237514
+6	interact promote	lin-35	lin-37	17237514
+		lin-35	ced-3	17237514
+6	interact promote	lin-35	dpl-1	17237514
+2		egl-1	ced-9	17237514
+		egl-1	efl-1	17237514
+		egl-1	EFL-1	17237514
+		egl-1	lin-37	17237514
+2		egl-1	ced-3	17237514
+		egl-1	dpl-1	17237514
+		ced-9	efl-1	17237514
+		ced-9	EFL-1	17237514
+		ced-9	lin-37	17237514
+2		ced-9	ced-3	17237514
+		ced-9	dpl-1	17237514
+6	interact promote	efl-1	lin-37	17237514
+		efl-1	ced-3	17237514
+6	interact promote	efl-1	dpl-1	17237514
+		EFL-1	lin-37	17237514
+		EFL-1	ced-3	17237514
+		EFL-1	dpl-1	17237514
+		lin-37	ced-3	17237514
+6	interact promote	lin-37	dpl-1	17237514
+		ced-3	dpl-1	17237514
+		emb-30	mdf-1	17237515
+		emb-30	MDF-1	17237515
+		emb-30	ify-1	17237515
+		mdf-1	ify-1	17237515
+		MDF-1	ify-1	17237515
+		pop-1	wrm-1	17296929
+		pop-1	sys-1	17296929
+		wrm-1	sys-1	17296929
+8		ZYG11	CUL2	17304241
+		ZYG11	cul-2	17304241
+		ZYG11	CUL-2	17304241
+		zyg-11	CUL2	17304241
+		zyg-11	cul-2	17304241
+		zyg-11	CUL-2	17304241
+		cul-3	EIF3M	17403899
+		cul-3	cif-1	17403899
+		cul-3	K08F11.3	17403899
+		cul-3	COP9/Signalosome	17403899
+		cul-3	eIF3m	17403899
+		cul-3	mel-26	17403899
+		CUL-3	EIF3M	17403899
+		CUL-3	cif-1	17403899
+		CUL-3	K08F11.3	17403899
+		CUL-3	COP9/Signalosome	17403899
+		CUL-3	eIF3m	17403899
+		CUL-3	mel-26	17403899
+		EIF3M	mel-26	17403899
+		cif-1	mel-26	17403899
+		K08F11.3	mel-26	17403899
+		COP9/Signalosome	mel-26	17403899
+		eIF3m	mel-26	17403899
+4	activate enhance interact	lin-35	eri-1	17417969
+		lin-35	Enhanced RNAi	17417969
+6	repress	cye-1	CDK2	17476329
+6	repress	cye-1	cdk-2	17476329
+7		cye-1	cdk-2	17476329
+8		cye-1	cdk-2	17476329
+4	regulate	fem-1	fem-3	17609115
+4	regulate	fem-1	fem-2	17609115
+		fem-1	CUL2	17609115
+		fem-1	cul-2	17609115
+		fem-1	CUL-2	17609115
+4	regulate	fem-3	fem-2	17609115
+		fem-3	CUL2	17609115
+		fem-3	cul-2	17609115
+		fem-3	CUL-2	17609115
+		fem-2	CUL2	17609115
+		fem-2	cul-2	17609115
+		fem-2	CUL-2	17609115
+		rfs-1	rad51	17611606
+		lin-10	glr-1	17671168
+		lin-10	unc-11	17671168
+		lin-10	Endocytosis	17671168
+		glr-1	unc-11	17671168
+		glr-1	Endocytosis	17671168
+		unc-11	Endocytosis	17671168
+1		bec-1	unc-51	17890369
+2		bec-1	unc-51	17890369
+3	suppress	bec-1	unc-51	17890369
+4	interact link	bec-1	unc-51	17890369
+		Separase	Chromosome segregation	17913784
+		gck-3	WNK	18049475
+6		gck-3	wnk-1	18049475
+7	activate suppress	gck-3	wnk-1	18049475
+5	inhibit	egl-1	ced-9	18056428
+6	promote	egl-1	ced-9	18056428
+		LIM	dys-1	18094057
+1	associate interact link	LIM	ZYX	18094057
+8	interact	LIM	ZYX	18094057
+		LIM	zyx-1	18094057
+		LIM	Zyxin	18094057
+		dys-1	ZYX	18094057
+		dys-1	zyx-1	18094057
+		dys-1	Zyxin	18094057
+		glh-1	meg-2	18202375
+6	decrease increase	glh-1	pgl-1	18202375
+		meg-2	pgl-1	18202375
+		apy-1	Pharynx	18216284
+		F08C6.6	Pharynx	18216284
+		asd-2	RED	18230701
+		glh-1	pgl-1	18234720
+		Chromosome segregation	mdf-1	18248670
+		Chromosome segregation	MAD	18248670
+		Chromosome segregation	MDF-1	18248670
+		Chromosome segregation	san-1	18248670
+		Chromosome segregation	bub-3	18248670
+		mdf-1	san-1	18248670
+		mdf-1	bub-3	18248670
+3	increase interfere	MAD	san-1	18248670
+4	reduce	MAD	san-1	18248670
+		MAD	bub-3	18248670
+4	reduce	MDF-1	san-1	18248670
+		MDF-1	bub-3	18248670
+1		san-1	bub-3	18248670
+9	interact	san-1	bub-3	18248670
+		FOXO	akt-1	18358814
+		FOXO	sgk-1	18358814
+		daf-16	akt-1	18358814
+		daf-16	sgk-1	18358814
+		akt-1	sgk-1	18358814
+		aak-2	Pharynx	18408008
+		dlg-1	ajm-1	18411252
+		dlg-1	HOOK	18411252
+		MAGUK DLG-1	ajm-1	18411252
+		MAGUK DLG-1	HOOK	18411252
+		ajm-1	HOOK	18411252
+		dyn-1	rab-5	18425118
+6		dyn-1	vps-34	18425118
+		Dynamin	rab-5	18425118
+		Dynamin	vps-34	18425118
+		rab-5	vps-34	18425118
+		pop-1	sys-1	18477457
+5	eliminate	egl-9	hif-1	18477695
+		hif-1	daf-16	18524954
+		mab-3	DMD	18550714
+		par-6	Cdc-42	18583611
+		nhr-22	Rap1GAP	18629017
+		nhr-22	gpa-7	18629017
+		Rap1GAP	gpa-7	18629017
+		syg-1	syg-2	18675916
+		lin-12	Secreted	18700817
+		skr-1	lin-12	18718460
+4	deter regulate relate suppress	skr-1	sel-10	18718460
+6		skr-1	sel-10	18718460
+		lin-12	sel-10	18718460
+		Dynamin	ced-9	18722182
+		Dynamin	ced-3	18722182
+1	regulate	ced-9	ced-3	18722182
+		csp-3	ced-3	18776901
+		csp-3	Caspase ced-3	18776901
+		daf-16	akt-1	18782349
+		daf-16	sgk-1	18782349
+		daf-16	akt-2	18782349
+		akt-1	sgk-1	18782349
+9	enhance	akt-1	akt-2	18782349
+10	associate restrict	akt-1	akt-2	18782349
+		sgk-1	akt-2	18782349
+		ruvb-1	ife-2	18804378
+		hcf-1	FOXO	18828672
+4		hcf-1	daf-16	18828672
+		hcf-1	Forkhead box O	18828672
+8		HCF	FOXO	18828672
+		HCF	daf-16	18828672
+		HCF	Forkhead box O	18828672
+		oma-1	taf-4	18854162
+		oma-1	pie-1	18854162
+		taf-4	pie-1	18854162
+		Separase	air-2	18923084
+		Separase	Chromosome segregation	18923084
+		Separase	gsp-2	18923084
+		Separase	lab-1	18923084
+		air-2	Chromosome segregation	18923084
+		air-2	gsp-2	18923084
+		air-2	lab-1	18923084
+		Chromosome segregation	gsp-2	18923084
+		Chromosome segregation	lab-1	18923084
+		gsp-2	lab-1	18923084
+		Chromosome segregation	mdf-1	18936247
+		Chromosome segregation	MDF-1	18936247
+		Chromosome segregation	san-1	18936247
+		mdf-1	san-1	18936247
+		MDF-1	san-1	18936247
+6	suppress	spd-2	zyg-1	19081077
+		ppfr-1	ppfr-4	19087961
+		ppfr-1	pph-4.1	19087961
+		ppfr-4	pph-4.1	19087961
+		ndc-80	mdf-1	19109417
+		ndc-80	MDF-1	19109417
+		ndc-80	san-1	19109417
+		ndc-80	bub-3	19109417
+		mdf-1	san-1	19109417
+		mdf-1	bub-3	19109417
+		MDF-1	san-1	19109417
+		MDF-1	bub-3	19109417
+		san-1	bub-3	19109417
+		lim-7	Pharynx	19116151
+		LIM	Pharynx	19116151
+9	inhibit suppress	CUL3	rpy-1	19158078
+		CUL3	C18H9.7	19158078
+		CUL3	RAPsyn	19158078
+		CUL3	ubc-1	19158078
+		cul-3	rpy-1	19158078
+		cul-3	C18H9.7	19158078
+		cul-3	RAPsyn	19158078
+		cul-3	ubc-1	19158078
+		CUL-3	rpy-1	19158078
+		CUL-3	C18H9.7	19158078
+		CUL-3	RAPsyn	19158078
+		CUL-3	ubc-1	19158078
+		rpy-1	ubc-1	19158078
+		C18H9.7	ubc-1	19158078
+		RAPsyn	ubc-1	19158078
+9	induce	akt-1	sgk-1	19240135
+9	induce	akt-1	akt-2	19240135
+9	induce	sgk-1	akt-2	19240135
+		daf-16	pptr-1	19249087
+		daf-16	akt-1	19249087
+		pptr-1	akt-1	19249087
+5		pry-1	pop-1	19259273
+5		pry-1	mig-5	19259273
+		pry-1	Secreted	19259273
+5		pry-1	bar-1	19259273
+5		pry-1	gsk-3	19259273
+5		pop-1	mig-5	19259273
+		pop-1	Secreted	19259273
+5		pop-1	bar-1	19259273
+5		pop-1	gsk-3	19259273
+		mig-5	Secreted	19259273
+5		mig-5	bar-1	19259273
+5		mig-5	gsk-3	19259273
+		Secreted	bar-1	19259273
+		Secreted	gsk-3	19259273
+5		bar-1	gsk-3	19259273
+		FOXO	sgk-1	19260765
+		daf-16	sgk-1	19260765
+		pop-1	wrm-1	19298786
+		pop-1	mig-5	19298786
+		pop-1	sys-1	19298786
+		wrm-1	mig-5	19298786
+		wrm-1	sys-1	19298786
+		mig-5	sys-1	19298786
+4	increase induce inhibit	egl-1	ced-9	19327994
+5	connect	egl-1	ced-9	19327994
+		eya-1	pop-1	19427847
+5	regulate	eya-1	ceh-34	19427847
+		pop-1	ceh-34	19427847
+		egl-9	hif-1	19461873
+		hcf-1	lin-35	19521497
+		hcf-1	ubc-18	19521497
+		HCF	lin-35	19521497
+		HCF	ubc-18	19521497
+5		lin-35	ubc-18	19521497
+6	associate suppress	lin-35	ubc-18	19521497
+		FOXO	ubc-18	19553937
+		FOXO	wwp-1	19553937
+		daf-16	ubc-18	19553937
+		daf-16	wwp-1	19553937
+		ubc-18	wwp-1	19553937
+7	interact interfere	fos-1	eri-1	19570917
+		csp-3	ced-9	19575016
+		csp-3	ced-3	19575016
+		ced-9	ced-3	19575016
+		egl-9	hif-1	19737748
+		oma-1	mel-26	19786575
+		oma-1	spn-2	19786575
+		mel-26	spn-2	19786575
+		wve-1	ajm-1	19798448
+		wve-1	abi-1	19798448
+		wve-1	Endocytosis	19798448
+		ajm-1	abi-1	19798448
+		ajm-1	Endocytosis	19798448
+		abi-1	Endocytosis	19798448
+		nud-2	egal-1	20005871
+		nud-2	Egalitarian	20005871
+		nud-2	dlc-1	20005871
+		nud-2	bICD	20005871
+		nud-2	bicd-1	20005871
+		egal-1	dlc-1	20005871
+		egal-1	bICD	20005871
+		egal-1	bicd-1	20005871
+		Egalitarian	dlc-1	20005871
+		Egalitarian	bICD	20005871
+		Egalitarian	bicd-1	20005871
+		dlc-1	bICD	20005871
+		dlc-1	bicd-1	20005871
+		Separase	Chromosome segregation	20116245
+		PTEN	daf-16	20207731
+		PTEN	mpz-1	20207731
+		daf-18	daf-16	20207731
+		daf-18	mpz-1	20207731
+		daf-16	mpz-1	20207731
+		daf-16	wwp-1	20209166
+		dcr-1	ced-3	20223951
+		cyy-1	pct-1	20510931
+		hif-1	Secreted	20520707
+		nrde-2	nrde-3	20543824
+		Nuclear RNAi defective-2	nrde-3	20543824
+		daf-16	mpk-1	20624915
+		hmp-2	hmp-1	20689042
+		hmp-2	hmr-1	20689042
+		hmp-1	hmr-1	20689042
+		daf-3	hmbx-1	20713521
+		Homeobox	eya-1	20713707
+		Homeobox	egl-1	20713707
+		Homeobox	ceh-34	20713707
+7		eya-1	egl-1	20713707
+4		eya-1	ceh-34	20713707
+7		eya-1	ceh-34	20713707
+7		egl-1	ceh-34	20713707
+		hmp-2	pop-1	20805471
+		hmp-2	wrm-1	20805471
+		pop-1	wrm-1	20805471
+7	suppress	egl-9	hif-1	20865124
+		egl-9	swan-1	20865124
+		egl-9	mbk-1	20865124
+		hif-1	swan-1	20865124
+		hif-1	mbk-1	20865124
+		swan-1	mbk-1	20865124
+		let-418	hda-1	21060680
+		let-418	lin-53	21060680
+		let-418	mep-1	21060680
+		hda-1	lin-53	21060680
+		hda-1	mep-1	21060680
+		lin-53	mep-1	21060680
+		dyn-1	lst-4	21148288
+		Dynamin	lst-4	21148288
+		bec-1	Endocytosis	21183797
+		bec-1	unc-51	21183797
+		bec-1	vps-34	21183797
+		beclin	Endocytosis	21183797
+		beclin	unc-51	21183797
+		beclin	vps-34	21183797
+		Endocytosis	unc-51	21183797
+		Endocytosis	vps-34	21183797
+		unc-51	vps-34	21183797
+		SHANK	Pharynx	21191812
+		shn-1	Pharynx	21191812
+		shank	Pharynx	21191812
+9		hif-1	FOXO	21241450
+		hif-1	daf-16	21241450
+		pgl-3	pgl-1	21402787
+9	complex regulate	mab-3	nhr-25	21408209
+		mab-3	DMD	21408209
+		mab-3	Cdc-42	21408209
+		nhr-25	DMD	21408209
+		nhr-25	Cdc-42	21408209
+		DMD	Cdc-42	21408209
+		cye-1	CDK2	21455289
+9		cye-1	cdk-2	21455289
+		cye-1	fbf-1	21455289
+		CDK2	fbf-1	21455289
+		cdk-2	fbf-1	21455289
+		dyn-1	rab-5	21494661
+		dyn-1	lst-4	21494661
+		dyn-1	vps-34	21494661
+		rab-5	lst-4	21494661
+		rab-5	vps-34	21494661
+		lst-4	vps-34	21494661
+		daf-16	atx-3	21526185
+		daf-16	Ataxin-3	21526185
+		lin-12	Secreted	21549604
+		Endocytosis	cnt-2	21596567
+		kgb-1	rpm-1	21670305
+		hif-1	cysl-1	21840852
+		hif-1	synthase	21840852
+		Hypoxia-inducible factor 1	cysl-1	21840852
+		Hypoxia-inducible factor 1	synthase	21840852
+7		cysl-1	synthase	21840852
+		syg-1	syg-2	21858180
+		hcf-1	FOXO	21909281
+		hcf-1	daf-16	21909281
+1	deter regulate	HCF	FOXO	21909281
+4	link	HCF	FOXO	21909281
+8	repress	HCF	FOXO	21909281
+10	complex deter interact	HCF	FOXO	21909281
+		HCF	daf-16	21909281
+		egl-1	ced-9	21949250
+		glr-1	rpm-1	21968191
+		glr-1	Pam/highwire/rpm-1	21968191
+		glr-1	fsn-1	21968191
+		rpm-1	fsn-1	21968191
+		Pam/highwire/rpm-1	fsn-1	21968191
+		FOXO	zfp-1	21980302
+		daf-16	zfp-1	21980302
+		ufd-1	cdt-1	21981920
+1	regulate	PTEN	FOXO	22069193
+		PTEN	daf-16	22069193
+		daf-18	FOXO	22069193
+		daf-18	daf-16	22069193
+		FOXO	ftt-2	22081913
+		daf-16	ftt-2	22081913
+		Dynamin	Endocytosis	22157748
+		hif-1	SmF	22194696
+		LIM	Homeobox	22207033
+		LIM	ceh-14	22207033
+		Homeobox	ceh-14	22207033
+8	interact	sao-1	sel-10	22209900
+		lin-10	glr-1	22213799
+8	reduce	tdp-1	HSF-1	22232551
+		tdp-1	FOXO	22232551
+		tdp-1	daf-16	22232551
+11		HSF-1	FOXO	22232551
+		HSF-1	daf-16	22232551
+		egl-9	lin-10	22252129
+		egl-9	glr-1	22252129
+		lin-10	glr-1	22252129
+		unc-97	unc-112	22253611
+		PINCH	unc-112	22253611
+		HSF-1	ddl-1	22265419
+		HSF-1	ddl-2	22265419
+		ddl-1	ddl-2	22265419
+		piki-1	dyn-1	22272187
+		piki-1	Dynamin	22272187
+9	abolish	piki-1	vps-34	22272187
+		dyn-1	vps-34	22272187
+		Dynamin	vps-34	22272187
+7	interact	dop-2	gpa-14	22280843
+		rpm-1	fsn-1	22357847
+		rpm-1	Rae1	22357847
+		fsn-1	Rae1	22357847
+10		baf-1	lem-2	22383942
+		egl-9	HSF-1	22396654
+		egl-9	hif-1	22396654
+		egl-9	aha-1	22396654
+		egl-9	FOXO	22396654
+		egl-9	daf-16	22396654
+		egl-9	MAD	22396654
+		egl-9	mdl-1	22396654
+		HSF-1	hif-1	22396654
+		HSF-1	aha-1	22396654
+		HSF-1	FOXO	22396654
+		HSF-1	daf-16	22396654
+		HSF-1	MAD	22396654
+		HSF-1	mdl-1	22396654
+8	bind induce repress	hif-1	aha-1	22396654
+		hif-1	FOXO	22396654
+		hif-1	daf-16	22396654
+		hif-1	MAD	22396654
+		hif-1	mdl-1	22396654
+		aha-1	FOXO	22396654
+		aha-1	daf-16	22396654
+		aha-1	MAD	22396654
+		aha-1	mdl-1	22396654
+		FOXO	MAD	22396654
+		FOXO	mdl-1	22396654
+		daf-16	MAD	22396654
+		daf-16	mdl-1	22396654
+7		MAD	mdl-1	22396654
+		egl-9	hif-1	22405203
+		egl-9	cysl-1	22405203
+		hif-1	cysl-1	22405203
+		lgg-1	rab-5	22451698
+11		mei-2	mel-26	2249759
+11		mei-2	zyg-9	2249759
+3		mel-26	zyg-9	2249759
+11		mel-26	zyg-9	2249759
+		nhr-49	nhr-13	22511885
+		FOXO	kgb-1	22554143
+		daf-16	kgb-1	22554143
+		hcf-1	FOXO	22568582
+		hcf-1	daf-16	22568582
+2		HCF	FOXO	22568582
+		HCF	daf-16	22568582
+		cul-3	mel-26	22621901
+		CUL-3	mel-26	22621901
+		egl-1	ced-9	22629231
+		egl-1	ced-3	22629231
+		ced-9	ced-3	22629231
+		unc-112	pat-4	22761445
+		unc-112	ILK	22761445
+		egl-9	hif-1	22792069
+6	activate associate bind relate	tdp-1	daf-16	22792076
+		daf-16	Glutathione S-transferase	22875284
+		daf-16	Glutathione S-Transferase	22875284
+		Glutathione S-transferase	Glutathione S-Transferase	22875284
+		FOXO	akt-1	22916022
+		FOXO	sgk-1	22916022
+		FOXO	akt-2	22916022
+		daf-16	akt-1	22916022
+		daf-16	sgk-1	22916022
+		daf-16	akt-2	22916022
+		akt-1	sgk-1	22916022
+		akt-1	akt-2	22916022
+		sgk-1	akt-2	22916022
+6	inhibit	PTEN	FOXO	22916028
+		PTEN	daf-16	22916028
+		daf-18	FOXO	22916028
+		daf-18	daf-16	22916028
+		air-2	gsp-2	22927794
+		air-2	lab-1	22927794
+		air-2	gsp-1	22927794
+		gsp-2	lab-1	22927794
+		gsp-2	gsp-1	22927794
+		lab-1	gsp-1	22927794
+		kgb-1	goa-1	23072806
+		Chromosome segregation	NDC80	23085020
+		lgg-1	RNF5	23093945
+		lgg-1	rnf-5	23093945
+		sel-10	mpk-1	23154983
+		dop-2	goa-1	23166505
+		dop-2	gpa-7	23166505
+		goa-1	gpa-7	23166505
+		LIM	pat-6	23283987
+		LIM	Actopaxin	23283987
+5	bind promote	lin-35	csr-1	23347407
+		LIM	Vinculin	23427270
+		LIM	ZYX	23427270
+		LIM	zyx-1	23427270
+		LIM	Zyxin	23427270
+		Vinculin	ZYX	23427270
+		Vinculin	zyx-1	23427270
+		Vinculin	Zyxin	23427270
+		egl-1	ced-9	23431138
+		egl-1	dre-1	23431138
+		egl-1	ced-3	23431138
+		egl-1	Caspase ced-3	23431138
+		ced-9	dre-1	23431138
+		ced-9	ced-3	23431138
+		ced-9	Caspase ced-3	23431138
+		dre-1	ced-3	23431138
+		dre-1	Caspase ced-3	23431138
+		fos-1	kgb-1	23437011
+		csp-3	ced-9	23505386
+5	promote	csp-3	ced-3	23505386
+10		csp-3	ced-3	23505386
+		ced-9	ced-3	23505386
+		AHA1	STI1	23569206
+		AHA1	HSP90	23569206
+		STI1	HSP90	23569206
+5	interact pair	dop-2	gpa-14	23607404
+7	interact	dop-2	gpa-14	23607404
+		unc-43	syd-2	23663262
+		gst-1	ced-3	23721876
+		gst-1	Glutathione S-transferase	23721876
+		gst-1	jnk-1	23721876
+		gst-1	Glutathione S-Transferase	23721876
+		ced-3	Glutathione S-transferase	23721876
+		ced-3	jnk-1	23721876
+		ced-3	Glutathione S-Transferase	23721876
+		Glutathione S-transferase	jnk-1	23721876
+		Glutathione S-transferase	Glutathione S-Transferase	23721876
+		jnk-1	Glutathione S-Transferase	23721876
+2		fem-1	fem-3	23760267
+2		fem-1	fem-2	23760267
+2		fem-3	fem-2	23760267
+7		ceh-20	ceh-40	23788625
+		FOXO	unc-43	23805378
+		FOXO	PP2b	23805378
+		FOXO	tax-6	23805378
+		daf-16	unc-43	23805378
+		daf-16	PP2b	23805378
+		daf-16	tax-6	23805378
+		unc-43	PP2b	23805378
+		unc-43	tax-6	23805378
+		zfp-1	dot-1.1	23806335
+		ppfr-1	cul-3	23918937
+		ppfr-1	CUL-3	23918937
+		ppfr-1	mel-26	23918937
+		cul-3	mel-26	23918937
+		CUL-3	mel-26	23918937
+8	induce	lin-35	egl-1	24030151
+		lin-35	dlc-1	24030151
+		egl-1	dlc-1	24030151
+8	induce	lin-35	zfp-1	24066155
+		hif-1	aha-1	24107417
+		hif-1	nhr-49	24107417
+		hif-1	taf-4	24107417
+		aha-1	nhr-49	24107417
+		aha-1	taf-4	24107417
+		nhr-49	taf-4	24107417
+		ces-1	egl-1	24204299
+		ces-1	cya-1	24204299
+5	repress suppress	CES-1	egl-1	24204299
+7	block repress	CES-1	cya-1	24204299
+		egl-1	cya-1	24204299
+		lin-35	ubc-18	24214340
+		lin-35	Pharynx	24214340
+		ubc-18	Pharynx	24214340
+		Chromosome segregation	NDC80	24231804
+		SUMO	bet-1	24285704
+		SUMO	SUMO- ligase	24297748
+		SUMO	sun-1	24297748
+		SUMO- ligase	sun-1	24297748
+6	induce	HSF-1	ILK	24314125
+10	enhance inhibit reduce regulate	HSF-1	ILK	24314125
+		SUMO	ubc-9	24349540
+		SUMO	bet-1	24349540
+		smo-1	ubc-9	24349540
+		smo-1	bet-1	24349540
+		ubc-9	bet-1	24349540
+		glr-1	Endocytosis	24356955
+		FOXO	aak-2	24385923
+		daf-16	aak-2	24385923
+		egl-9	hif-1	24385935
+		bRCA1	Chromosome segregation	24424777
+		bRCA1	bARD1	24424777
+		bRCA1	brd-1	24424777
+		brc-1	Chromosome segregation	24424777
+		brc-1	bARD1	24424777
+9	suppress	brc-1	brd-1	24424777
+		Chromosome segregation	bARD1	24424777
+		Chromosome segregation	brd-1	24424777
+		syg-1	wve-1	24439377
+		syg-1	syg-2	24485456
+		FOXO	zfp-1	24558261
+		daf-16	zfp-1	24558261
+		pat-6	unc-97	24692564
+		pat-6	PINCH	24692564
+		pat-6	unc-112	24692564
+		pat-6	pat-4	24692564
+		pat-6	ILK	24692564
+		Actopaxin	unc-97	24692564
+		Actopaxin	PINCH	24692564
+		Actopaxin	unc-112	24692564
+		Actopaxin	pat-4	24692564
+		Actopaxin	ILK	24692564
+		unc-97	unc-112	24692564
+		unc-97	pat-4	24692564
+		unc-97	ILK	24692564
+		PINCH	unc-112	24692564
+		PINCH	pat-4	24692564
+		PINCH	ILK	24692564
+		unc-112	pat-4	24692564
+		unc-112	ILK	24692564
+		mxl-1	FOXO	24699255
+		mxl-1	daf-16	24699255
+4		mxl-1	mml-1	24699255
+		mxl-1	MAD	24699255
+4		mxl-1	mdl-1	24699255
+7	increase	mxl-1	mdl-1	24699255
+4		mxl-1	mxl-2	24699255
+		FOXO	mml-1	24699255
+		FOXO	MAD	24699255
+		FOXO	mdl-1	24699255
+		FOXO	mxl-2	24699255
+		daf-16	mml-1	24699255
+		daf-16	MAD	24699255
+		daf-16	mdl-1	24699255
+		daf-16	mxl-2	24699255
+		mml-1	MAD	24699255
+4		mml-1	mdl-1	24699255
+4		mml-1	mxl-2	24699255
+6		mml-1	mxl-2	24699255
+		MAD	mdl-1	24699255
+		MAD	mxl-2	24699255
+4		mdl-1	mxl-2	24699255
+		pgl-3	glh-1	24746798
+		pgl-3	pgl-1	24746798
+		glh-1	pgl-1	24746798
+		lin-35	ced-9	24752899
+		FOXO	swsn-1	24834345
+9	complex	daf-16	swsn-1	24834345
+		Forkhead box O	swsn-1	24834345
+		FOXO	Endocytosis	24957743
+		daf-16	Endocytosis	24957743
+		lgg-1	lgg-2	25126728
+		gcs-1	ufd-2	25204677
+		GCS	ufd-2	25204677
+		vps-33.1	rab-5	25273556
+		atfs-1	Secreted	25274306
+		FOXO	kin-29	25357003
+		daf-16	kin-29	25357003
+		daf-16	zfp-1	25422944
+		lin-28	ced-3	25432023
+		air-2	SUMO	25475837
+		air-2	Mitotic chromosome	25475837
+		air-2	ubc-9	25475837
+		SUMO	Mitotic chromosome	25475837
+		SUMO	ubc-9	25475837
+		Mitotic chromosome	ubc-9	25475837
+		dop-2	goa-1	25536037
+		lin-35	cyd-1	25562820
+5	eliminate relate	lin-35	CDK4	25562820
+		lin-35	cdk-4	25562820
+5	eliminate relate	lin-35	CDK4/6	25562820
+		cyd-1	CDK4	25562820
+		cyd-1	cdk-4	25562820
+		cyd-1	CDK4/6	25562820
+		hmp-2	pop-1	25850673
+		hmp-2	hmr-1	25850673
+		hmp-2	Hammerhead	25850673
+		hmp-2	sys-1	25850673
+		pop-1	hmr-1	25850673
+		pop-1	Hammerhead	25850673
+		pop-1	sys-1	25850673
+		hmr-1	sys-1	25850673
+		Hammerhead	sys-1	25850673
+		picc-1	hmp-1	25938815
+		picc-1	hmr-1	25938815
+		picc-1	jac-1	25938815
+		picc-1	p120 catenin	25938815
+		hmp-1	hmr-1	25938815
+		hmp-1	jac-1	25938815
+		hmp-1	p120 catenin	25938815
+		hmr-1	jac-1	25938815
+		hmr-1	p120 catenin	25938815
+		Separase	bUB3	25987605
+		Separase	bub-3	25987605
+		lin-35	dpl-1	26100681
+		lin-35	pgl-1	26100681
+		dpl-1	pgl-1	26100681
+		SGK1	Endocytosis	26115433
+		sgk-1	Endocytosis	26115433
+		glucocorticoid-inducible kinase	Endocytosis	26115433
+		dop-2	HOOK	26156999
+		tac-1	zyg-8	26339988
+		tac-1	Doublecortin-like	26339988
+		mig-5	dsh-1	26460008
+		Chromosome segregation	MAD	26483555
+		Chromosome segregation	sun-1	26483555
+		Chromosome segregation	bub-3	26483555
+		MAD	sun-1	26483555
+		MAD	bub-3	26483555
+		sun-1	bub-3	26483555
+		goa-1	gbas-1	26659249
+5	complex connect interact	paxt-1	XRN2	26779609
+		sorf-2	bec-1	26783301
+4	elevate inhibit	sorf-2	sorf-1	26783301
+		bec-1	sorf-1	26783301
+		zip-2	cebp-2	26876169
+		Transcription factor zip-2	cebp-2	26876169
+		HSF-1	cul-3	26952214
+9	promote	HSF-1	CUL-3	26952214
+		HSF-1	siah-1	26952214
+		cul-3	siah-1	26952214
+		CUL-3	siah-1	26952214
+		mml-1	MAD	27001890
+		mml-1	mdl-1	27001890
+		mml-1	synthase	27001890
+		mml-1	mxl-2	27001890
+		MAD	mdl-1	27001890
+		MAD	synthase	27001890
+		MAD	mxl-2	27001890
+		mdl-1	synthase	27001890
+		mdl-1	mxl-2	27001890
+		synthase	mxl-2	27001890
+4	regulate	FOXO	zfp-1	27039057
+		daf-16	zfp-1	27039057
+		lin-35	cyb-1	27104746
+		FOXO	sgk-1	27401555
+		daf-16	sgk-1	27401555
+		mxl-1	mml-1	27402359
+		mxl-1	MAD	27402359
+		mxl-1	mdl-1	27402359
+		mxl-1	mxl-2	27402359
+		mml-1	MAD	27402359
+		mml-1	mdl-1	27402359
+		mml-1	mxl-2	27402359
+		MAD	mdl-1	27402359
+		MAD	mxl-2	27402359
+		mdl-1	mxl-2	27402359
+		HSF-1	nhr-67	27472063
+		Pharynx	mpk-1	27525822
+6	repress	pgl-3	pgl-1	27650246
+		atx-3	ufd-2	27669035
+		Ataxin-3	ufd-2	27669035
+		Chromosome segregation	spd-5	27689799
+		Chromosome segregation	zyg-1	27689799
+		spd-5	zyg-1	27689799
+		Homeobox	unc-39	27855782
+		Secreted	cebp-1	27927200
+		sun-1	fan-1	27956467
+		sun-1	zyg-12	27956467
+		fan-1	zyg-12	27956467
+2	complex	FEM1	CUL2	28118078
+		PTEN	FOXO	28285998
+		PTEN	daf-16	28285998
+		PTEN	bec-1	28285998
+		daf-18	FOXO	28285998
+		daf-18	daf-16	28285998
+		daf-18	bec-1	28285998
+		FOXO	bec-1	28285998
+		daf-16	bec-1	28285998
+		dpy-27	smc-4	28301465
+		dpy-27	SMC-4	28301465
+		CUL2	ufd-1	28368371
+3		myrf-2	myrf-1	28441531
+		lin-28	ced-3	28602583
+		zip-4	zip-2	28662060
+		zip-4	cebp-2	28662060
+		zip-4	Secreted	28662060
+		zip-4	cebp-1	28662060
+		zip-2	cebp-2	28662060
+		zip-2	Secreted	28662060
+		zip-2	cebp-1	28662060
+		cebp-2	Secreted	28662060
+		cebp-2	cebp-1	28662060
+		Secreted	cebp-1	28662060
+		lim-7	ceh-14	28676648
+		LIM	ceh-14	28676648
+		pgl-3	sepa-1	28806108
+		pgl-3	pgl-1	28806108
+		sepa-1	pgl-1	28806108
+		sorb-1	Vinculin	28978740
+		sorb-1	ZYX	28978740
+		sorb-1	zyx-1	28978740
+		sorb-1	Zyxin	28978740
+		Sorbin	Vinculin	28978740
+		Sorbin	ZYX	28978740
+		Sorbin	zyx-1	28978740
+		Sorbin	Zyxin	28978740
+		Vinculin	ZYX	28978740
+		Vinculin	zyx-1	28978740
+		Vinculin	Zyxin	28978740
+		HSF-1	mxl-2	29036198
+		lin-12	unc-130	29155044
+		unc-45	ufd-2	29396393
+		UNC-45	ufd-2	29396393
+		Chromosome segregation	lab-1	29483514
+		Chromosome segregation	zhp-1	29521627
+		Chromosome segregation	zhp-2	29521627
+		zhp-1	zhp-2	29521627
+		FOXO	jnk-1	29523076
+8	increase reduce	daf-16	jnk-1	29523076
+10		daf-16	jnk-1	29523076
+		bRCA1	bARD1	30383754
+		bRCA1	brd-1	30383754
+		brc-1	bARD1	30383754
+		brc-1	brd-1	30383754
+		FOXO	Secreted	30409788
+		daf-16	Secreted	30409788
+		SUMO	atfs-1	30642431
+		atfs-1	Secreted	30850535
+		atfs-1	zip-3	30850535
+		Secreted	zip-3	30850535
+		unc-16	lgg-1	30880001
+		Chromosome segregation	gsp-2	30921322
+		Chromosome segregation	Mitotic chromosome	30921322
+		Chromosome segregation	lab-1	30921322
+		gsp-2	Mitotic chromosome	30921322
+6		gsp-2	lab-1	30921322
+		Mitotic chromosome	lab-1	30921322
+		phm-2	Pharynx	30965033
+		ife-3	pid-3	31147388
+		ife-3	tost-1	31147388
+		ife-3	pid-1	31147388
+		ife-3	tofu-6	31147388
+		ife-3	erh-2	31147388
+		pid-3	tost-1	31147388
+		pid-3	pid-1	31147388
+		pid-3	tofu-6	31147388
+		pid-3	erh-2	31147388
+		tost-1	pid-1	31147388
+		tost-1	tofu-6	31147388
+		tost-1	erh-2	31147388
+		pid-1	tofu-6	31147388
+		pid-1	erh-2	31147388
+		tofu-6	erh-2	31147388
+		hrpk-1	ain-1	31584932
+8	increase	nhr-49	cebp-1	31851340
+		zip-2	atfs-1	32350153
+		zip-2	cebp-2	32350153
+		zip-2	Pharynx	32350153
+		Transcription factor zip-2	atfs-1	32350153
+		Transcription factor zip-2	cebp-2	32350153
+		Transcription factor zip-2	Pharynx	32350153
+		atfs-1	cebp-2	32350153
+		atfs-1	Pharynx	32350153
+		cebp-2	Pharynx	32350153
+		piRNA biogenesis	edg-1	32843637
+		cebp-2	zip-11	34804026
+		cebp-2	Transcription factor zip-11	34804026
+		FOXO	nhr-49	35140229
+		daf-16	nhr-49	35140229
+5		pop-1	sys-1	35660370
+		pop-1	tbx-38	35660370
+		sys-1	tbx-38	35660370
+10	inhibit interact	mei-2	mel-26	8027178
+12	confine	mei-2	mel-26	8027178
+1		RNA helicase	glh-1	8415696
+5		RNA helicase	glh-1	8415696
+7		LIM	vab-3	8647436
+2		fem-1	fem-3	8824590
+2		fem-1	fem-2	8824590
+2		fem-3	fem-2	8824590
+7		glh-1	glh-2	8943022
+		dyn-1	Endocytosis	9294229
+		Dynamin	Endocytosis	9294229
+		daf-3	daf-4	9334330
+		lin-12	Notch4	9389650
+1		lin-12	sel-10	9389650
+3		lin-12	sel-10	9389650
+6	promote	lin-12	sel-10	9389650
+		Notch4	sel-10	9389650
+3		aha-1	AHR	9501178
+3		aha-1	ahr-1	9501178
+		aha-1	HSP90	9501178
+		Aryl hydrocarbon receptor nuclear translocator	AHR	9501178
+		Aryl hydrocarbon receptor nuclear translocator	ahr-1	9501178
+		Aryl hydrocarbon receptor nuclear translocator	HSP90	9501178
+3		ARNT	AHR	9501178
+3		ARNT	ahr-1	9501178
+		ARNT	HSP90	9501178
+5	bind interact	AHR	HSP90	9501178
+		ahr-1	HSP90	9501178
+10	adhere	hmp-2	hmp-1	9531567
+10	adhere	hmp-2	hmr-1	9531567
+10	adhere	hmp-1	hmr-1	9531567
+		daf-16	akt-1	9716402
+		daf-16	akt-2	9716402
+4	inhibit	akt-1	akt-2	9716402
+8		akt-1	akt-2	9716402
+		air-2	Chromosome segregation	9852156
+3	attach restrict	LIM	unc-97	9885243
+3	attach restrict	LIM	PINCH	9885243
