@@ -32,6 +32,7 @@ Link to publication: Publication coming soon.
 | data | benchmark3 | Contains the *E. coli* synonyms from UniProt. Also contains csvs of PubMed IDs and whether they were "clean text", PDF, or title and abstract |
 | plots | --- | Holds scripts for building the plots in this publication, including networks and all figures, tables, and supplemental figures and tables | 
 | processing | --- | Scripts for various tasks |
+| processing | calculate_metrics | Calculate true positive rates, etc. For network metrics, using build_networks.R in the plots folder |
 | processing | clean_relationships | Script for converting tool outputs to unique protein-protein interactions |
 | processing | format_BERT | Script for formatting inputs for BERT models |
 | processing | format_LLMs | Script for formatting inputs for BioGPT, SOLAR, and Gemini |
