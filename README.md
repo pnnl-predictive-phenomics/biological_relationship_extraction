@@ -15,13 +15,13 @@ Link to publication: Publication coming soon.
 | benchmarks | --- | Contains all output file for the 3 main studies in this publication |
 | benchmarks | benchmark1 | Results from the study with the GPGP and BioRed datasets |
 | benchmarks | benchmark1/.../raw_output/ | Raw results from the tools without any processing |
-| benchmarks | benchmark1/.../processed_output/ | Cleaned "raw output" with truth annotations, following processing by ___ |
+| benchmarks | benchmark1/.../processed_output/ | Cleaned "raw output" with truth annotations, following processing by clean_relationships |
 | benchmarks | benchmark2 | Results from the *C. elegans* interactome from UniProt study |
 | benchmarks | benchmark2/full_vs_title_abstract | Mini-study to determine algorithm performance of "full text" versus titles & abstracts only | 
 | benchmarks | benchmark2/pdf_vs_clean | Mini-study to determine algorithm performance of two "full text" methods - pdfs or "clean text" |
 | benchmarks | benchmark2/complete_results | Results of using each tool to reconstruct the UniProt *C. elegans* interactome network | 
 | benchmarks | benchmark2/.../extracted_relationships | Raw output of each tool |
-| benchmarks | benchmark2/.../binary_relationships | Cleaned raw output, "extracted relationships", with unique protein-protein interactions, using ___ | 
+| benchmarks | benchmark2/.../binary_relationships | Cleaned raw output, "extracted relationships", with unique protein-protein interactions, using clea_relationships | 
 | benchmarks | benchmark2/.../networks | PNG of each network from each study | 
 | benchmarks | benchmark3 | Results from the *E. coli* PubMed query. Folder structure follows the extracted relationships, binary relationships, and networks folders from benchmark 2 |
 | data | --- | Contains all input files for training and running the NLP tools |
@@ -32,6 +32,7 @@ Link to publication: Publication coming soon.
 | data | benchmark3 | Contains the *E. coli* synonyms from UniProt. Also contains csvs of PubMed IDs and whether they were "clean text", PDF, or title and abstract |
 | plots | --- | Holds scripts for building the plots in this publication, including networks and all figures, tables, and supplemental figures and tables | 
 | processing | --- | Scripts for various tasks |
+| processing | clean_relationships | Script for converting tool outputs to unique protein-protein interactions |
 | processing | format_BERT | Script for formatting inputs for BERT models |
 | processing | format_LLMs | Script for formatting inputs for BioGPT, SOLAR, and Gemini |
 | processing | pull_papers | Script for extracting papers as either "clean text", pdf, or titles and abstracts |
