@@ -23,5 +23,4 @@ def run_llm(system_prompt, content):
     response = requests.post(URL, headers=REQUEST_HEADERS, json=data, verify=False)
     clean_response = response.json()["choices"][0]["message"]["content"]
     clean_response = clean_response.strip("\n")
-    clean_response = clean_response[0:4]
     return(clean_response)
