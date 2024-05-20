@@ -1,0 +1,344 @@
+Biomolecule1	Biomolecule2	Score	ScoreName	PMID
+NDUFS2	NDUFS3	1	pubmed.mineR & Cosine	9647766
+NDUFS2	casein kinase II	0.577350269189626	pubmed.mineR & Cosine	9647766
+NDUFS3	casein kinase II	0.577350269189626	pubmed.mineR & Cosine	9647766
+CD72	FCGR2B	0.850420064270761	pubmed.mineR & Cosine	15459183
+U-II	prolactin	0.333333333333333	pubmed.mineR & Cosine	16160878
+U-II	thyrotropin	0.333333333333333	pubmed.mineR & Cosine	16160878
+prolactin	thyrotropin	1	pubmed.mineR & Cosine	16160878
++2740 A>G	-1123 G>C	1	pubmed.mineR & Cosine	17000021
+-31T/C	-31TT	0	pubmed.mineR & Cosine	17006606
+-31T/C	-511C/T	1	pubmed.mineR & Cosine	17006606
+-31TT	-511CC	1	pubmed.mineR & Cosine	17006606
+DISC1	NDE1	0.436435780471985	pubmed.mineR & Cosine	17185386
+IRF6	TGFA	0.408248290463863	pubmed.mineR & Cosine	17318851
+cyclooxygenase	prostaglandin E2	1	pubmed.mineR & Cosine	18165598
+ABCE1	RNASEL	0.235702260395516	pubmed.mineR & Cosine	18189233
+BMPs	Bone morphogenetic protein-4	0	pubmed.mineR & Cosine	18310445
+BMPs	FSHbeta	0.353553390593274	pubmed.mineR & Cosine	18310445
+BMPs	GnRH	0.188982236504614	pubmed.mineR & Cosine	18310445
+BMPs	activin	0.426401432711221	pubmed.mineR & Cosine	18310445
+BMPs	gonadotrophin	0.408248290463863	pubmed.mineR & Cosine	18310445
+Bone morphogenetic protein-4	GnRH	0.267261241912424	pubmed.mineR & Cosine	18310445
+Bone morphogenetic protein-4	activin	0.301511344577764	pubmed.mineR & Cosine	18310445
+Bone morphogenetic protein-4	gonadotrophin	0.577350269189626	pubmed.mineR & Cosine	18310445
+ERK1/2	GnRH	0.534522483824849	pubmed.mineR & Cosine	18310445
+FSH	GnRH	0.306569669742483	pubmed.mineR & Cosine	18310445
+FSH	activin	0.345857231933037	pubmed.mineR & Cosine	18310445
+FSH	bone morphogenetic proteins (BMP)-4	0.458831467741124	pubmed.mineR & Cosine	18310445
+FSHbeta	GnRH	0.133630620956212	pubmed.mineR & Cosine	18310445
+FSHbeta	activin	0.301511344577764	pubmed.mineR & Cosine	18310445
+GnRH	LH	0.478091443733757	pubmed.mineR & Cosine	18310445
+GnRH	activin	0.886405260427918	pubmed.mineR & Cosine	18310445
+GnRH	cAMP response element-binding	0.534522483824849	pubmed.mineR & Cosine	18310445
+GnRH	gonadotrophin	0.462910049886276	pubmed.mineR & Cosine	18310445
+LH	activin	0.269679944985297	pubmed.mineR & Cosine	18310445
+Smad1/5	activin	0.301511344577764	pubmed.mineR & Cosine	18310445
+Smad2	activin	0.603022689155527	pubmed.mineR & Cosine	18310445
+activin	gonadotrophin	0.522232967867094	pubmed.mineR & Cosine	18310445
+JAK/STAT3	SOCS3	0.577350269189626	pubmed.mineR & Cosine	18674790
+JAK/STAT3	erythropoietin	0.577350269189626	pubmed.mineR & Cosine	18674790
+JAK/STAT3	erythropoietin	0.577350269189626	pubmed.mineR & Cosine	18674790
+ARG2	ENT3	1	pubmed.mineR & Cosine	18772193
+ARG2	alpha-syn	0.208514414057075	pubmed.mineR & Cosine	18772193
+ENT3	alpha-syn	0.208514414057075	pubmed.mineR & Cosine	18772193
+Ent3p	alpha-syn	0.294883912309794	pubmed.mineR & Cosine	18772193
+HSP82	alpha-syn	0.208514414057075	pubmed.mineR & Cosine	18772193
+IDP3	alpha-syn	0.208514414057075	pubmed.mineR & Cosine	18772193
+JEM1	alpha-syn	0.208514414057075	pubmed.mineR & Cosine	18772193
+DGC	laminin	0.577350269189626	pubmed.mineR & Cosine	18808529
+aggrecan	tenascin-C	0.301511344577764	pubmed.mineR & Cosine	19110214
+NRG-1	laminin	0.478091443733757	pubmed.mineR & Cosine	19306381
+AKT	c-Jun N-terminal kinase	0	pubmed.mineR & Cosine	19463742
+AKT	melanocortin	0.235702260395516	pubmed.mineR & Cosine	19463742
+Melanocortin-4 receptor	c-Jun N-terminal kinase	0.707106781186548	pubmed.mineR & Cosine	19463742
+BMPR	MAP kinase	0.5	pubmed.mineR & Cosine	19536134
+BMPR	TAK1	0.267261241912424	pubmed.mineR & Cosine	19536134
+MAP kinase	TAK1	0.534522483824849	pubmed.mineR & Cosine	19536134
+Smad1	TAK1	0.654653670707977	pubmed.mineR & Cosine	19536134
+Tak1	col2	0.707106781186548	pubmed.mineR & Cosine	19536134
+hepcidin	matriptase-2	0.577350269189626	pubmed.mineR & Cosine	19592582
+CDK	p21	0.942809041582063	pubmed.mineR & Cosine	19672862
+CDK	p27	0.942809041582063	pubmed.mineR & Cosine	19672862
+p21	p27	1	pubmed.mineR & Cosine	19672862
+bone morphogenetic protein (BMP)-2	bone morphogenetic protein-2	0	pubmed.mineR & Cosine	19811499
+bone morphogenetic protein (BMP)-2	nuclear factor (NF)-kappaB	1	pubmed.mineR & Cosine	19811499
+bone morphogenetic protein-2	nuclear factor-kappaB	1	pubmed.mineR & Cosine	19811499
+bone morphogenetic protein-2	tumor necrosis factor-alpha	1	pubmed.mineR & Cosine	19811499
+nuclear factor-kappaB	tumor necrosis factor-alpha	1	pubmed.mineR & Cosine	19811499
+CCL2	CCR2	0.452910813657838	pubmed.mineR & Cosine	20034406
+rs10954213	rs2004640	0.577350269189626	pubmed.mineR & Cosine	20080916
+Keratin 12	Prox1	0	pubmed.mineR & Cosine	20105280
+Keratin 12	Ras	0.288675134594813	pubmed.mineR & Cosine	20105280
+Prox1	Ras	0.288675134594813	pubmed.mineR & Cosine	20105280
+Raf	Spry 1	1	pubmed.mineR & Cosine	20105280
+Raf	Spry 2	1	pubmed.mineR & Cosine	20105280
+Ras	Spry 1	0.288675134594813	pubmed.mineR & Cosine	20105280
+Ras	Spry 2	0.288675134594813	pubmed.mineR & Cosine	20105280
+Ras	cyclin D1 and D2	0.288675134594813	pubmed.mineR & Cosine	20105280
+Ras	p57Kip2	0.288675134594813	pubmed.mineR & Cosine	20105280
+cdk	p57Kip2	1	pubmed.mineR & Cosine	20105280
+ASP	C5L2	0.755928946018454	pubmed.mineR & Cosine	20105310
+ASP	adipsin	0.267261241912424	pubmed.mineR & Cosine	20105310
+adipsin	factor B	1	pubmed.mineR & Cosine	20105310
+BMP	Chd	0.816496580927726	pubmed.mineR & Cosine	20226780
+BMP	Chl	0.632455532033676	pubmed.mineR & Cosine	20226780
+Chd	Chl	0.774596669241483	pubmed.mineR & Cosine	20226780
+TGF-beta-isoforms and their receptors I and II	TGF-beta1	0.333333333333333	pubmed.mineR & Cosine	20428796
+NFkappaB	glutathione peroxidase	0.316227766016838	pubmed.mineR & Cosine	20477932
+DBH	IL1A	0.774596669241483	pubmed.mineR & Cosine	21070631
+BMP	Brat	0.377964473009227	pubmed.mineR & Cosine	21238926
+BMP	Mad	0	pubmed.mineR & Cosine	21238926
+Brat	Dpp	0.338061701891407	pubmed.mineR & Cosine	21238926
+Brat	Mad	0.377964473009227	pubmed.mineR & Cosine	21238926
+Brat	Nos	0.338061701891407	pubmed.mineR & Cosine	21238926
+Brat	Pum	0.358568582800318	pubmed.mineR & Cosine	21238926
+Brat	dMyc	0.377964473009227	pubmed.mineR & Cosine	21238926
+Mad	Pum	0.632455532033676	pubmed.mineR & Cosine	21238926
+Pum	dMyc	0.632455532033676	pubmed.mineR & Cosine	21238926
+IDO	SERT	0.25	pubmed.mineR & Cosine	21810259
+IDO	Tat	0.639009650422694	pubmed.mineR & Cosine	21810259
+SERT	Tat	0.547722557505166	pubmed.mineR & Cosine	21810259
+Tat	iNOS	0.547722557505166	pubmed.mineR & Cosine	21810259
+Tat	indoleamine 2,3 dioxygenase	0.182574185835055	pubmed.mineR & Cosine	21810259
+Derp1	GM-CSF	0.707106781186548	pubmed.mineR & Cosine	22303482
+Derp1	HLX1	0.235702260395516	pubmed.mineR & Cosine	22303482
+GM-CSF	HLX1	0.333333333333333	pubmed.mineR & Cosine	22303482
+HLX1	IFN-g	0.333333333333333	pubmed.mineR & Cosine	22303482
+HLX1	IL-5	0.577350269189626	pubmed.mineR & Cosine	22303482
+IL-5	TBX21	0.408248290463863	pubmed.mineR & Cosine	22303482
+Bim	Btg3	0	pubmed.mineR & Cosine	22808010
+Bim	EPO	0.152498570332605	pubmed.mineR & Cosine	22808010
+Btg3	EPO	0.304997140665209	pubmed.mineR & Cosine	22808010
+Btg3	EPOR	0.277350098112615	pubmed.mineR & Cosine	22808010
+Cdc25a	EPO	0.304997140665209	pubmed.mineR & Cosine	22808010
+Cdc25a	EPOR	0.277350098112615	pubmed.mineR & Cosine	22808010
+Cyclin-d2	EPO	0.304997140665209	pubmed.mineR & Cosine	22808010
+Cyclin-d2	EPOR	0.277350098112615	pubmed.mineR & Cosine	22808010
+Cyclin-g2	EPO	0.304997140665209	pubmed.mineR & Cosine	22808010
+Cyclin-g2	EPOR	0.277350098112615	pubmed.mineR & Cosine	22808010
+CyclinB1-IP-1	EPO	0.304997140665209	pubmed.mineR & Cosine	22808010
+CyclinB1-IP-1	EPOR	0.277350098112615	pubmed.mineR & Cosine	22808010
+EPO	Eaf1	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Gas5	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Lyl1	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Pim1	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Pim3	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Serpina 3g	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Socs2	0.215665546406877	pubmed.mineR & Cosine	22808010
+EPO	Socs3	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Spred1	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Spred2	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPO	Tnfr-sf13c	0.304997140665209	pubmed.mineR & Cosine	22808010
+EPO	Trib3	0.152498570332605	pubmed.mineR & Cosine	22808010
+EPOR	Tnfr-sf13c	0.277350098112615	pubmed.mineR & Cosine	22808010
+NADPH oxidase	NOX4	0.2	pubmed.mineR & Cosine	24623966
+NADPH oxidase	vascular endothelial growth factor	0.316227766016838	pubmed.mineR & Cosine	24623966
+NOX4	STAT3	0.461690258438319	pubmed.mineR & Cosine	24623966
+NOX4	VEGFR2	0.6	pubmed.mineR & Cosine	24623966
+Bmp	Shh	0.176776695296637	pubmed.mineR & Cosine	24632946
+Bmp	b-catenin	0.433012701892219	pubmed.mineR & Cosine	24632946
+Shh	b-catenin	0.612372435695795	pubmed.mineR & Cosine	24632946
+CD11c	CSF-1	0.809039834955891	pubmed.mineR & Cosine	24743235
+CD11c	IL-3	0.717137165600636	pubmed.mineR & Cosine	24743235
+CD11c	c-Fos	0.447213595499958	pubmed.mineR & Cosine	24743235
+CSF-1	IL-3	0.886405260427918	pubmed.mineR & Cosine	24743235
+CSF-1	c-Fos	0.603022689155527	pubmed.mineR & Cosine	24743235
+CSF-1R	c-Fos	1	pubmed.mineR & Cosine	24743235
+Ala204Asp	Ala539Thr	0.707106781186548	pubmed.mineR & Cosine	25054547
+Ala204Asp	Asp70Gly	0.707106781186548	pubmed.mineR & Cosine	25054547
+Ala204Asp	Val204Asp	0	pubmed.mineR & Cosine	25054547
+Ala539Thr	Asp70Gly	1	pubmed.mineR & Cosine	25054547
+Ala539Thr	Val204Asp	0.353553390593274	pubmed.mineR & Cosine	25054547
+Asp70Gly	Val204Asp	0.353553390593274	pubmed.mineR & Cosine	25054547
+PRAS40	RagA-D	0	pubmed.mineR & Cosine	25218136
+PRAS40	raptor	0.801783725737273	pubmed.mineR & Cosine	25218136
+RagA-D	raptor	0.267261241912424	pubmed.mineR & Cosine	25218136
+RagC	raptor	0.956182887467515	pubmed.mineR & Cosine	25218136
+Bcl2	Bcl6	0	pubmed.mineR & Cosine	25263533
+Bcl2	CD25	0.288675134594813	pubmed.mineR & Cosine	25263533
+Bcl6	IL-2	0.28347335475692	pubmed.mineR & Cosine	25263533
+Bcl6	T-cell receptor	0.353553390593274	pubmed.mineR & Cosine	25263533
+CD25	CD45RO	0.577350269189626	pubmed.mineR & Cosine	25263533
+CD25	ICOS	0.288675134594813	pubmed.mineR & Cosine	25263533
+CD25	IL-2	0.231455024943138	pubmed.mineR & Cosine	25263533
+CD25	IL-21	0.288675134594813	pubmed.mineR & Cosine	25263533
+CD25	IgA	0.577350269189626	pubmed.mineR & Cosine	25263533
+CD25	IgG	0.577350269189626	pubmed.mineR & Cosine	25263533
+CD25	MHC class II	0.577350269189626	pubmed.mineR & Cosine	25263533
+CD25	OX40	0.288675134594813	pubmed.mineR & Cosine	25263533
+CD25	cMaf	0.288675134594813	pubmed.mineR & Cosine	25263533
+IL-2	T-cell receptor	0.801783725737273	pubmed.mineR & Cosine	25263533
+IL-2	cMaf	0.534522483824849	pubmed.mineR & Cosine	25263533
+IL-2 receptor	T-cell receptor	1	pubmed.mineR & Cosine	25263533
+FoxP3	VPAC2	0.408248290463863	pubmed.mineR & Cosine	25305591
+Cdkn2a	Fbxw7	0	pubmed.mineR & Cosine	25622904
+Cdkn2a	Sag	0.377964473009227	pubmed.mineR & Cosine	25622904
+Fbxw7	Jun-B	1	pubmed.mineR & Cosine	25622904
+Jun-B	p16	0.5	pubmed.mineR & Cosine	25622904
+Sag	p16	0.668153104781061	pubmed.mineR & Cosine	25622904
+P38	TIPE2	0.530330085889911	pubmed.mineR & Cosine	25946186
+P38	caspase-9	0.5	pubmed.mineR & Cosine	25946186
+TIPE2	caspase-9	0.530330085889911	pubmed.mineR & Cosine	25946186
+CCK	CCK1-receptor	0.603022689155527	pubmed.mineR & Cosine	25979836
+CCK	PAK2	0.818181818181818	pubmed.mineR & Cosine	25979836
+CCK	PKC	0.452267016866646	pubmed.mineR & Cosine	25979836
+CCK	PLC	0.426401432711221	pubmed.mineR & Cosine	25979836
+CCK	SFK	0.301511344577764	pubmed.mineR & Cosine	25979836
+CCK	amylase	0.603022689155527	pubmed.mineR & Cosine	25979836
+CCK	small-GTPase	0.639602149066831	pubmed.mineR & Cosine	25979836
+CCK1-receptor	PAK2	0.301511344577764	pubmed.mineR & Cosine	25979836
+PAK2	PKC	0.452267016866646	pubmed.mineR & Cosine	25979836
+PAK2	PLC	0.426401432711221	pubmed.mineR & Cosine	25979836
+PAK2	SFK	0.301511344577764	pubmed.mineR & Cosine	25979836
+PAK2	small-GTPase	0.639602149066831	pubmed.mineR & Cosine	25979836
+LDHA	MMP-9	0.277350098112615	pubmed.mineR & Cosine	25983002
+LDHA	PLAU	0.277350098112615	pubmed.mineR & Cosine	25983002
+MMP-9	PLAU	1	pubmed.mineR & Cosine	25983002
+GPCR	autotaxin	1	pubmed.mineR & Cosine	26027517
+LPA1    '3	gamma-H2AX	0.408248290463863	pubmed.mineR & Cosine	26027517
+autotaxin	gamma-H2AX	0	pubmed.mineR & Cosine	26027517
+Androgen Receptor	ERG	0	pubmed.mineR & Cosine	26411452
+Androgen Receptor	Melanophilin	1	pubmed.mineR & Cosine	26411452
+ERG	TMPRSS2	1	pubmed.mineR & Cosine	26411452
+Smac	cIAP1	1	pubmed.mineR & Cosine	27014915
+Smac	cIAP2	1	pubmed.mineR & Cosine	27014915
+cIAP1	cIAP2	1	pubmed.mineR & Cosine	27014915
+CD133	N1ICD	0.894427190999916	pubmed.mineR & Cosine	27084744
+CD133	NOTCH1	0.516397779494322	pubmed.mineR & Cosine	27084744
+CD133	SKP2	0.365148371670111	pubmed.mineR & Cosine	27084744
+CD133	SOX10	0.316227766016838	pubmed.mineR & Cosine	27084744
+CD133	g-secretase	0.632455532033676	pubmed.mineR & Cosine	27084744
+N1ICD	g-secretase	0.707106781186548	pubmed.mineR & Cosine	27084744
+SKP2	g-secretase	0.577350269189626	pubmed.mineR & Cosine	27084744
+HIF1a	MCT4	1	pubmed.mineR & Cosine	27134166
+HIF-1alpha	Hsp90beta	0.639602149066831	pubmed.mineR & Cosine	27248656
+HIF-1alpha	IKKalpha/beta	0.707106781186548	pubmed.mineR & Cosine	27248656
+Hsp90beta	IKKalpha/beta	0.603022689155527	pubmed.mineR & Cosine	27248656
+Hsp90beta	Raptor	0.603022689155527	pubmed.mineR & Cosine	27248656
+Hsp90beta	TAK1	0.603022689155527	pubmed.mineR & Cosine	27248656
+Hsp90beta	p38	0.426401432711221	pubmed.mineR & Cosine	27248656
+Epo-R	LYN	0.666666666666667	pubmed.mineR & Cosine	27640183
+Epo-R	p38MAPK	0.666666666666667	pubmed.mineR & Cosine	27640183
+Epo-R	p70s6k	0.666666666666667	pubmed.mineR & Cosine	27640183
+LYN	p38MAPK	1	pubmed.mineR & Cosine	27640183
+IL-1b	NF-kB	0	pubmed.mineR & Cosine	27860244
+IL-1b	PRMT5	0.25	pubmed.mineR & Cosine	27860244
+NF-kB	PRMT5	0.25	pubmed.mineR & Cosine	27860244
+BBSome	GTPase	0.577350269189626	pubmed.mineR & Cosine	27930654
+BBSome	RAB-28	0.566946709513841	pubmed.mineR & Cosine	27930654
+GTPase	RAB-28	0.436435780471985	pubmed.mineR & Cosine	27930654
+Bach1	antioxidant factor	0.223606797749979	pubmed.mineR & Cosine	27959382
+Bach1	antioxidant factors	0.223606797749979	pubmed.mineR & Cosine	27959382
+Bach1	glutathione peroxidase 1	0.223606797749979	pubmed.mineR & Cosine	27959382
+Bach1	heme oxygenase-1	0.223606797749979	pubmed.mineR & Cosine	27959382
+Bach1	interleukin-6	0.223606797749979	pubmed.mineR & Cosine	27959382
+Bach1	transforming growth factor (TGF)-b1	0.447213595499958	pubmed.mineR & Cosine	27959382
+Toll-like receptor 4	interferon-g	0.707106781186548	pubmed.mineR & Cosine	28075473
+Toll-like receptor 4	interleukin-17	0.707106781186548	pubmed.mineR & Cosine	28075473
+Toll-like receptor 4	interleukin-23	0.707106781186548	pubmed.mineR & Cosine	28075473
+interferon-g	interleukin-17	1	pubmed.mineR & Cosine	28075473
+Akt	BDNF	0.436435780471985	pubmed.mineR & Cosine	28098423
+Akt	Bad	0.5	pubmed.mineR & Cosine	28098423
+Akt	Brain-derived neurotrophic factor	0.353553390593274	pubmed.mineR & Cosine	28098423
+BDNF	Bad	0.218217890235992	pubmed.mineR & Cosine	28098423
+BDNF	TrkB	0.77151674981046	pubmed.mineR & Cosine	28098423
+BDNF	mammalian target of rapamycin	0.218217890235992	pubmed.mineR & Cosine	28098423
+MMP-2	NEK2	0.458831467741124	pubmed.mineR & Cosine	28101574
+ADAM12	claudin	0.554700196225229	pubmed.mineR & Cosine	28148288
+Bax	Bcl-2	1	pubmed.mineR & Cosine	28204828
+Bax	TIEG1	0.316227766016838	pubmed.mineR & Cosine	28204828
+Bcl-2	TIEG1	0.316227766016838	pubmed.mineR & Cosine	28204828
+Pten	TIEG1	0.547722557505166	pubmed.mineR & Cosine	28204828
+IGF-1R	Insulin-like growth factor 1 receptor	0	pubmed.mineR & Cosine	28260056
+IGF-1R	PI3K	0.50709255283711	pubmed.mineR & Cosine	28260056
+Insulin-like growth factor 1 receptor	PI3K	0.377964473009227	pubmed.mineR & Cosine	28260056
+LKB1	VEGF receptor 2	0.408248290463863	pubmed.mineR & Cosine	28346429
+FGFR2	SOX2	0.577350269189626	pubmed.mineR & Cosine	28348168
+B-cell receptor	BCR	0.223606797749979	pubmed.mineR & Cosine	28368423
+B-cell receptor	Myc	0.534522483824849	pubmed.mineR & Cosine	28368423
+BCR	MYC	0.316227766016838	pubmed.mineR & Cosine	28368423
+BCR	Myc	0.717137165600636	pubmed.mineR & Cosine	28368423
+Btk	Myc	0.436435780471985	pubmed.mineR & Cosine	28368423
+CD79a	Myc	0.377964473009227	pubmed.mineR & Cosine	28368423
+Myc	Plcg2	0.377964473009227	pubmed.mineR & Cosine	28368423
+JAK	LIF	0	pubmed.mineR & Cosine	28368537
+JAK	STAT	0.577350269189626	pubmed.mineR & Cosine	28368537
+LIF	Lifr	0.183339699405642	pubmed.mineR & Cosine	28368537
+LIF	Msx1	0.242535625036333	pubmed.mineR & Cosine	28368537
+Lifr	Ltf	0.77151674981046	pubmed.mineR & Cosine	28368537
+Lifr	Msx1	0.377964473009227	pubmed.mineR & Cosine	28368537
+N-type voltage-gated calcium channels	hippocalcin	0.353553390593274	pubmed.mineR & Cosine	28398555
+N-type voltage-gated calcium channels	voltage-gated calcium channels	0.707106781186548	pubmed.mineR & Cosine	28398555
+hippocalcin	voltage-gated calcium channels	0.5	pubmed.mineR & Cosine	28398555
+Iba1	TSPO	0.353553390593274	pubmed.mineR & Cosine	28416580
+EP4	Rap1/Rac1 GTPase	0.408248290463863	pubmed.mineR & Cosine	28428256
+EP4	protein kinase A	0.408248290463863	pubmed.mineR & Cosine	28428256
+Rap1/Rac1 GTPase	protein kinase A	1	pubmed.mineR & Cosine	28428256
+Smad	caveolin-1	0.458349248514106	pubmed.mineR & Cosine	28468941
+ABCA4	ACTA2	1	pubmed.mineR & Cosine	28472177
+ABCA4	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+ACTA2	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+ALK	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+AQP3	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+AQP4	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+Beta catenin	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+CALB1	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+FBXL7	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+FBXW11	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+FGF2	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+GDF15	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+HEY2	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+IGLL5	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+LIF	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+PDGFB	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+POSTN	UCHL1	0.353553390593274	pubmed.mineR & Cosine	28472177
+UCHL1	Wnt	0.5	pubmed.mineR & Cosine	28472177
+ghrelin	glucagon	0.462910049886276	pubmed.mineR & Cosine	28487437
+ESCRT-III	Vps4	0.447213595499958	pubmed.mineR & Cosine	28604678
+ESCRT-III	endosomal sorting complex required for transport (ESCRT)-III	0	pubmed.mineR & Cosine	28604678
+AT1a	F4/80	0.108147614087175	pubmed.mineR & Cosine	28660748
+AT1a	angiotensin	0.166666666666667	pubmed.mineR & Cosine	28660748
+AT1a	collagen	0.235702260395516	pubmed.mineR & Cosine	28660748
+angiotensin	renin	0.707106781186548	pubmed.mineR & Cosine	28660748
+CASP-7	CASP-9	1	pubmed.mineR & Cosine	28747658
+CASP-7	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+CASP-9	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+CDK2	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+CDK8	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+CHEK1	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+CHEK2	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+DFF-45	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+GSK-3 beta	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+MAPK8	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+NPM	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+PAK1	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+PAX2	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+PP2C-alpha	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+Src	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+YWHAZ	refp17	0.577350269189626	pubmed.mineR & Cosine	28747658
+Bmi1	Gankyrin	0.447213595499958	pubmed.mineR & Cosine	28777492
+Bmi1	interleukin (IL)-6	1	pubmed.mineR & Cosine	28777492
+Gankyrin	interleukin (IL)-6	0.447213595499958	pubmed.mineR & Cosine	28777492
+BCL11A	HbF	0.707106781186548	pubmed.mineR & Cosine	28851297
+BCL11A	MYB	1	pubmed.mineR & Cosine	28851297
+HbF	MYB	0.707106781186548	pubmed.mineR & Cosine	28851297
+BICD2	dynactin	0.577350269189626	pubmed.mineR & Cosine	28883039
+BICD2	dynein	0.577350269189626	pubmed.mineR & Cosine	28883039
+dynactin	dynein	1	pubmed.mineR & Cosine	28883039
+BNIP3	HIF-1a	0.333333333333333	pubmed.mineR & Cosine	29045486
+BNIP3	MCP1	1	pubmed.mineR & Cosine	29045486
+HIF-1a	MCP1	0.333333333333333	pubmed.mineR & Cosine	29045486
+HIF-1a	Nix	0.333333333333333	pubmed.mineR & Cosine	29045486
+HIF-1a	Noxa	0.333333333333333	pubmed.mineR & Cosine	29045486
+HIF-1a	YC1	0.666666666666667	pubmed.mineR & Cosine	29045486
+HEB	Id3	0.577350269189626	pubmed.mineR & Cosine	29222418
+HEB	RORgt	0.288675134594813	pubmed.mineR & Cosine	29222418
+HEB	Rorc	0.577350269189626	pubmed.mineR & Cosine	29222418
+HEB	Sox13	0.577350269189626	pubmed.mineR & Cosine	29222418
+HEB	Sox4	0.577350269189626	pubmed.mineR & Cosine	29222418
+HEB	Vg4	0.288675134594813	pubmed.mineR & Cosine	29222418
+Id3	RORgt	0	pubmed.mineR & Cosine	29222418
+Id3	Rorc	1	pubmed.mineR & Cosine	29222418
+Id3	Sox13	1	pubmed.mineR & Cosine	29222418
+Id3	Sox4	1	pubmed.mineR & Cosine	29222418

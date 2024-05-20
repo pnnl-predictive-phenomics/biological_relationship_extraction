@@ -1,0 +1,720 @@
+Co-Occurring Sentences	Sentence Position in R	Fixed Term	Term1	Term2	PMID
+ ER-60 is a thiol oxidoreductase family protein of the endoplasmic reticulum that facilitates the oxidative folding of glycoproteins via interaction with calnexin (CNX) and calreticulin (CRT).	2	facilitate|interacts facilitate|interaction	ER-60	CNX	15236594
+			ER-60	CNX	15236594
+ ER-60 is a thiol oxidoreductase family protein of the endoplasmic reticulum that facilitates the oxidative folding of glycoproteins via interaction with calnexin (CNX) and calreticulin (CRT).	2	facilitate|interacts facilitate|interaction	ER-60	CRT	15236594
+			ER-60	CRT	15236594
+			CNX	CRT	15236594
+			CNX	CRT	15236594
+			CNX	CRT	15236594
+			Cox-2	EGFR	15246187
+" Epidermal growth factor receptor (EGFR) signaling regulates Cox-2 expression, which has not been thoroughly examined in bronchial carcinomas."	3	regulates	Cox-2	EGFR	15246187
+			Cox-2	EGFR	15246187
+ Higher Cox-2 expression (more than 10% immunoreactivities in tumor cells) was strongly associated with higher EGFR and P53 expression as well as a Ki-67 LI above 20% (P &lt; 0.01).	6	immunoassociate|reactivities associate|reactd	Cox-2	EGFR	15246187
+			Cox-2	EGFR	15246187
+ Higher Cox-2 expression might be associated with tumor progression and worse prognosis through EGFR signaling interaction in Stage I bronchial adenocarcinomas.	9	associate|interactd	Cox-2	EGFR	15246187
+			Cox-2	P53	15246187
+ Higher Cox-2 expression (more than 10% immunoreactivities in tumor cells) was strongly associated with higher EGFR and P53 expression as well as a Ki-67 LI above 20% (P &lt; 0.01).	6	immunoassociate|reactivities associate|reactd	Cox-2	P53	15246187
+			Cox-2	Ki-67	15246187
+ Higher Cox-2 expression (more than 10% immunoreactivities in tumor cells) was strongly associated with higher EGFR and P53 expression as well as a Ki-67 LI above 20% (P &lt; 0.01).	6	immunoassociate|reactivities associate|reactd	Cox-2	Ki-67	15246187
+			EGFR	P53	15246187
+			EGFR	P53	15246187
+			EGFR	Ki-67	15246187
+			EGFR	Ki-67	15246187
+			P53	Ki-67	15246187
+			P53	Ki-67	15246187
+			AQP1	AQP3	15248066
+			AQP1	AQP3	15248066
+			AQP1	AQP4	15248066
+			AQP1	AQP4	15248066
+			AQP1	AQP4	15248066
+			AQP1	AQP5	15248066
+			AQP1	AQP5	15248066
+			AQP1	AQP5	15248066
+			AQP1	ENaC	15248066
+			AQP1	CFTR	15248066
+			AQP3	AQP4	15248066
+			AQP3	AQP4	15248066
+			AQP3	AQP5	15248066
+			AQP3	AQP5	15248066
+			AQP3	ENaC	15248066
+			AQP3	CFTR	15248066
+			AQP4	AQP5	15248066
+			AQP4	AQP5	15248066
+			AQP4	AQP5	15248066
+			AQP4	ENaC	15248066
+			AQP4	CFTR	15248066
+			AQP5	ENaC	15248066
+			AQP5	CFTR	15248066
+			ENaC	CFTR	15248066
+" Stimulation of CD14+ synovial cells from RA patients by recombinant soluble CD154 (rsCD154) significantly induced expression of tumor necrosis factor alpha (TNFalpha), interleukin-1alpha (IL-1alpha), and IL-1beta."	9	induced	rsCD154	TNFalpha	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated uninduce|stimulated	rsCD154	TNFalpha	15248214
+			rsCD154	TNFalpha	15248214
+" Stimulation of CD14+ synovial cells from RA patients by recombinant soluble CD154 (rsCD154) significantly induced expression of tumor necrosis factor alpha (TNFalpha), interleukin-1alpha (IL-1alpha), and IL-1beta."	9	induced	rsCD154	IL-1alpha	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated uninduce|stimulated	rsCD154	IL-1alpha	15248214
+" Stimulation of CD14+ synovial cells from RA patients by recombinant soluble CD154 (rsCD154) significantly induced expression of tumor necrosis factor alpha (TNFalpha), interleukin-1alpha (IL-1alpha), and IL-1beta."	9	induced	rsCD154	IL-1beta	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated uninduce|stimulated	rsCD154	IL-1beta	15248214
+			rsCD154	IL-1beta	15248214
+			rsCD154	IFNgamma	15248214
+			rsCD154	IFNgamma	15248214
+			rsCD154	IFNgamma	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated	rsCD154	IL-6	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated	rsCD154	IL-8	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated	rsCD154	monocyte chemoattractant protein 1	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	rsCD154	ERK-1	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	rsCD154	ERK-1	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	rsCD154	ERK-2	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	rsCD154	ERK-2	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	rsCD154	p38 MAPK	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	rsCD154	p38 MAPK	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	rsCD154	NF-kappaB	15248214
+			rsCD154	CD40	15248214
+			rsCD154	CD154	15248214
+			TNFalpha	IL-1alpha	15248214
+			TNFalpha	IL-1alpha	15248214
+			TNFalpha	IL-1alpha	15248214
+			TNFalpha	IL-1beta	15248214
+			TNFalpha	IL-1beta	15248214
+			TNFalpha	IL-1beta	15248214
+			TNFalpha	IL-1beta	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated uninduce|stimulated	TNFalpha	IFNgamma	15248214
+			TNFalpha	IFNgamma	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	TNFalpha	IL-6	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	TNFalpha	IL-8	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	TNFalpha	monocyte chemoattractant protein 1	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	TNFalpha	ERK-1	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	TNFalpha	ERK-2	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	TNFalpha	p38 MAPK	15248214
+			TNFalpha	NF-kappaB	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	TNFalpha	CD40	15248214
+" Stimulation of CD14+ synovial cells from RA patients by recombinant soluble CD154 (rsCD154) significantly induced expression of tumor necrosis factor alpha (TNFalpha), interleukin-1alpha (IL-1alpha), and IL-1beta."	9	induced induced	TNFalpha	CD154	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	TNFalpha	CD154	15248214
+			IL-1alpha	IL-1beta	15248214
+			IL-1alpha	IL-1beta	15248214
+			IL-1alpha	IL-1beta	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated uninduce|stimulated	IL-1alpha	IFNgamma	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	IL-1alpha	IL-6	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	IL-1alpha	IL-8	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	IL-1alpha	monocyte chemoattractant protein 1	15248214
+			IL-1alpha	ERK-1	15248214
+			IL-1alpha	ERK-2	15248214
+			IL-1alpha	p38 MAPK	15248214
+			IL-1alpha	NF-kappaB	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	IL-1alpha	CD40	15248214
+" Stimulation of CD14+ synovial cells from RA patients by recombinant soluble CD154 (rsCD154) significantly induced expression of tumor necrosis factor alpha (TNFalpha), interleukin-1alpha (IL-1alpha), and IL-1beta."	9	induced induced	IL-1alpha	CD154	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	IL-1alpha	CD154	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated uninduce|stimulated	IL-1beta	IFNgamma	15248214
+			IL-1beta	IFNgamma	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	IL-1beta	IL-6	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	IL-1beta	IL-8	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	uninduce|stimulated	IL-1beta	monocyte chemoattractant protein 1	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	IL-1beta	ERK-1	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	IL-1beta	ERK-2	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	IL-1beta	p38 MAPK	15248214
+			IL-1beta	NF-kappaB	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	IL-1beta	CD40	15248214
+" Stimulation of CD14+ synovial cells from RA patients by recombinant soluble CD154 (rsCD154) significantly induced expression of tumor necrosis factor alpha (TNFalpha), interleukin-1alpha (IL-1alpha), and IL-1beta."	9	induced induced	IL-1beta	CD154	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	IL-1beta	CD154	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated	IFNgamma	IL-6	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated	IFNgamma	IL-8	15248214
+" CD14+ RA synovial cells stimulated with rsCD154 plus interferon-gamma (IFNgamma) induced significantly higher production of IL-6, IL-8, and monocyte chemoattractant protein 1 by FLS compared with unstimulated CD14+ synovial cells, through TNFalpha, IL-1alpha, and IL-1beta mediated pathways."	10	induce|stimulated	IFNgamma	monocyte chemoattractant protein 1	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	IFNgamma	ERK-1	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	IFNgamma	ERK-1	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	IFNgamma	ERK-2	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	IFNgamma	ERK-2	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	IFNgamma	p38 MAPK	15248214
+" Specific inhibitors of MAPK ERK-1 ERK-2 kinases and p38 MAPK significantly reduced the production of TNFalpha and IL-1beta by rsCD154 plus IFNgamma-stimulated CD14+ synovial cells, and also inhibited production of these cytokines by freshly isolated synovial cells from RA patients."	12	inhibit|reduce|stimulated	IFNgamma	p38 MAPK	15248214
+" Stimulation with rsCD154 plus IFNgamma induced the activation of ERK-1, ERK-2, p38 MAPK, and NF-kappaB."	11	induced	IFNgamma	NF-kappaB	15248214
+			IFNgamma	CD40	15248214
+			IFNgamma	CD154	15248214
+			IL-6	IL-8	15248214
+			IL-6	monocyte chemoattractant protein 1	15248214
+			IL-6	ERK-1	15248214
+			IL-6	ERK-2	15248214
+			IL-6	p38 MAPK	15248214
+			IL-6	NF-kappaB	15248214
+			IL-6	CD40	15248214
+			IL-6	CD154	15248214
+			IL-8	monocyte chemoattractant protein 1	15248214
+			IL-8	ERK-1	15248214
+			IL-8	ERK-2	15248214
+			IL-8	p38 MAPK	15248214
+			IL-8	NF-kappaB	15248214
+			IL-8	CD40	15248214
+			IL-8	CD154	15248214
+			monocyte chemoattractant protein 1	ERK-1	15248214
+			monocyte chemoattractant protein 1	ERK-2	15248214
+			monocyte chemoattractant protein 1	p38 MAPK	15248214
+			monocyte chemoattractant protein 1	NF-kappaB	15248214
+			monocyte chemoattractant protein 1	CD40	15248214
+			monocyte chemoattractant protein 1	CD154	15248214
+			ERK-1	ERK-2	15248214
+			ERK-1	ERK-2	15248214
+			ERK-1	p38 MAPK	15248214
+			ERK-1	p38 MAPK	15248214
+			ERK-1	NF-kappaB	15248214
+			ERK-1	CD40	15248214
+			ERK-1	CD154	15248214
+			ERK-2	p38 MAPK	15248214
+			ERK-2	p38 MAPK	15248214
+			ERK-2	NF-kappaB	15248214
+			ERK-2	CD40	15248214
+			ERK-2	CD154	15248214
+			p38 MAPK	NF-kappaB	15248214
+			p38 MAPK	CD40	15248214
+			p38 MAPK	CD154	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	NF-kappaB	CD40	15248214
+" These data indicate that the CD40 CD154 interaction activates the ERK, p38, and NF-kappaB pathways in CD14+ synovial cells from RA patients to produce TNFalpha, IL-1alpha, and IL-1beta, which in turn amplifies inflammatory responses by stimulating FLS."	13	activate|interaction activate|interacts	NF-kappaB	CD154	15248214
+			CD40	CD154	15248214
+			CD40	CD154	15248214
+			HO-1	AT1	15251861
+			HO-1	PKC	15251861
+			HO-1	HO-2	15251861
+			AT1	PKC	15251861
+			AT1	HO-2	15251861
+			PKC	HO-2	15251861
+			Hsp90	Cdc37	15258137
+			Hsp90	Cdc37	15258137
+			Hsp90	Cdc37	15258137
+" Two parameters were assayed: the ability and extent to which the constructs bound to Hsp90 and Cdc37, and the ability of the constructs to trigger salt-resistant high affinity complexes with Hsp90 and Cdc37 independent of the presence of molybdate."	4	complex|trigger complex|trigger complex|triggeres complex|triggeres	Hsp90	Cdc37	15258137
+			Hsp90	Cdc37	15258137
+			Hsp90	Cdc37	15258137
+" In this report, the crystal structure of the Src family tyrosine kinase Lck was used to guide the creation of kinase constructs to determine features recognized by Hsp90 and its \kinase-specific\ co-chaperone Cdc37."	3	determine	Hsp90	Lck	15258137
+" In this report, the crystal structure of the Src family tyrosine kinase Lck was used to guide the creation of kinase constructs to determine features recognized by Hsp90 and its \kinase-specific\ co-chaperone Cdc37."	3	determine	Cdc37	Lck	15258137
+ Cdc37 interacted with only the NL and minimally required the alpha-C-helix and beta4- and beta5-strands of this lobe of Lck.	8	interacted	Cdc37	Lck	15258137
+			PLTP	HDL	15258196
+			PLTP	HDL	15258196
+			PLTP	HDL	15258196
+			PLTP	HDL	15258196
+PLTP deficiency improves the anti-inflammatory properties of HDL and reduces the ability of LDL to induce monocyte chemotactic activity.	1	induce|reduces	PLTP	LDL	15258196
+" Because the decreased atherosclerosis was accompanied by a significant decrease in plasma HDL levels, we examined the properties of PLTP knockout (PLTP0) HDL and tested its ability to prevent LDL-induced monocyte chemotactic activity in human artery wall cell cocultures."	3	decrease|induce|prevent decrease|induce|prevent	PLTP	LDL	15258196
+			PLTP	LDL	15258196
+ We conclude that PLTP deficiency improves the anti-inflammatory properties of HDL in mice and reduces the ability of LDL to induce monocyte chemotactic activity.	10	induce|reduces	PLTP	LDL	15258196
+PLTP deficiency improves the anti-inflammatory properties of HDL and reduces the ability of LDL to induce monocyte chemotactic activity.	1	induce|reduces	HDL	LDL	15258196
+" Because the decreased atherosclerosis was accompanied by a significant decrease in plasma HDL levels, we examined the properties of PLTP knockout (PLTP0) HDL and tested its ability to prevent LDL-induced monocyte chemotactic activity in human artery wall cell cocultures."	3	decrease|induce|prevent decrease|induce|prevent	HDL	LDL	15258196
+			HDL	LDL	15258196
+ The ability of HDL from LDLr0/PLTP0 and apoBTg/PLTP0 mice to prevent the induction of monocyte chemotactic activity in human artery wall cell cocultures exposed to human LDL was dramatically better than that in controls.	7	prevent	HDL	LDL	15258196
+			HDL	LDL	15258196
+ We conclude that PLTP deficiency improves the anti-inflammatory properties of HDL in mice and reduces the ability of LDL to induce monocyte chemotactic activity.	10	induce|reduces	HDL	LDL	15258196
+			Cyclin D1	Cyclin E	15263796
+			Cyclin D1	p21	15263796
+			Cyclin D1	p27	15263796
+			Cyclin D1	pRb	15263796
+			Cyclin D1	p53	15263796
+			Cyclin D1	Ki-67	15263796
+			Cyclin D1	PCNA	15263796
+			Cyclin E	p21	15263796
+			Cyclin E	p27	15263796
+			Cyclin E	pRb	15263796
+			Cyclin E	p53	15263796
+			Cyclin E	Ki-67	15263796
+			Cyclin E	PCNA	15263796
+			p21	p27	15263796
+			p21	p27	15263796
+			p21	p27	15263796
+			p21	p27	15263796
+			p21	p27	15263796
+			p21	pRb	15263796
+"Expression patterns of cyclins D1, E and cyclin-dependent kinase inhibitors p21(Waf1/Cip1) and p27(Kip1) in urothelial carcinoma: correlation with other cell-cycle-related proteins (Rb, p53, Ki-67 and PCNA) and clinicopathological features."	1	cell-cycle-inhibit|related	p21	p53	15263796
+"Expression patterns of cyclins D1, E and cyclin-dependent kinase inhibitors p21(Waf1/Cip1) and p27(Kip1) in urothelial carcinoma: correlation with other cell-cycle-related proteins (Rb, p53, Ki-67 and PCNA) and clinicopathological features."	1	cell-cycle-inhibit|related	p21	Ki-67	15263796
+			p21	Ki-67	15263796
+"Expression patterns of cyclins D1, E and cyclin-dependent kinase inhibitors p21(Waf1/Cip1) and p27(Kip1) in urothelial carcinoma: correlation with other cell-cycle-related proteins (Rb, p53, Ki-67 and PCNA) and clinicopathological features."	1	cell-cycle-inhibit|related	p21	PCNA	15263796
+			p27	pRb	15263796
+"Expression patterns of cyclins D1, E and cyclin-dependent kinase inhibitors p21(Waf1/Cip1) and p27(Kip1) in urothelial carcinoma: correlation with other cell-cycle-related proteins (Rb, p53, Ki-67 and PCNA) and clinicopathological features."	1	cell-cycle-inhibit|related	p27	p53	15263796
+			p27	p53	15263796
+"Expression patterns of cyclins D1, E and cyclin-dependent kinase inhibitors p21(Waf1/Cip1) and p27(Kip1) in urothelial carcinoma: correlation with other cell-cycle-related proteins (Rb, p53, Ki-67 and PCNA) and clinicopathological features."	1	cell-cycle-inhibit|related	p27	Ki-67	15263796
+			p27	Ki-67	15263796
+			p27	Ki-67	15263796
+"Expression patterns of cyclins D1, E and cyclin-dependent kinase inhibitors p21(Waf1/Cip1) and p27(Kip1) in urothelial carcinoma: correlation with other cell-cycle-related proteins (Rb, p53, Ki-67 and PCNA) and clinicopathological features."	1	cell-cycle-inhibit|related	p27	PCNA	15263796
+			p27	PCNA	15263796
+			pRb	p53	15263796
+" The expression of these proteins was also analyzed along with other cell-cycle-related proteins such as: p53, pRb and the proliferation-associated indices Ki-67 and proliferating cell nuclear antigen (PCNA)."	3	proliferation-associate|related	pRb	Ki-67	15263796
+" The expression of these proteins was also analyzed along with other cell-cycle-related proteins such as: p53, pRb and the proliferation-associated indices Ki-67 and proliferating cell nuclear antigen (PCNA)."	3	proliferation-associate|related	pRb	PCNA	15263796
+			p53	Ki-67	15263796
+" The expression of these proteins was also analyzed along with other cell-cycle-related proteins such as: p53, pRb and the proliferation-associated indices Ki-67 and proliferating cell nuclear antigen (PCNA)."	3	proliferation-associate|related	p53	Ki-67	15263796
+			p53	Ki-67	15263796
+			p53	PCNA	15263796
+" The expression of these proteins was also analyzed along with other cell-cycle-related proteins such as: p53, pRb and the proliferation-associated indices Ki-67 and proliferating cell nuclear antigen (PCNA)."	3	proliferation-associate|related	p53	PCNA	15263796
+			p53	PCNA	15263796
+			Ki-67	PCNA	15263796
+			Ki-67	PCNA	15263796
+			Ki-67	PCNA	15263796
+			PDGF	Sp1	15297375
+ Overexpression of Ets-1 but not the mutant form of Ets-1 activates the PDGF promoter cooperatively with Sp1.	9	activate|promoter	PDGF	Sp1	15297375
+" Sp1, which interacts with Ets-1, failed to induce PDGF promoter-dependent expression if the promoter contained a site-specific mutation in this novel Ets-binding site."	10	bind|induce|interact|promotes bind|induce|interact|promote	PDGF	Sp1	15297375
+ Small interfering RNA to Ets-1 and Sp1 blocked PDGF and serum-inducible PDGF expression.	11	blocked blocked	PDGF	Sp1	15297375
+ These findings identify a functional cis-acting element for Ets-1 in the PDGF promoter and demonstrate that Sp1 and Ets-1 cooperatively activate PDGF transcription in vascular SMCs.	14	activate|promoter activate|promote	PDGF	Sp1	15297375
+			PDGF	Sp3	15297375
+			PDGF	Egr-1	15297375
+			PDGF	GCF2	15297375
+			PDGF	NF-1	15297375
+			PDGF	WT-1	15297375
+" In this article, we demonstrate that Ets-1 induces PDGF expression in primary rat aortic SMCs at the level of transcription and mRNA expression."	5	induces	PDGF	Ets-1	15297375
+" Electrophoretic mobility shift, supershift, and mutational analyses revealed a functional role for the (-555)TTCC(-552) motif in the PDGF promoter that binds endogenous Ets-1."	6	bind|promoter bind|promotes	PDGF	Ets-1	15297375
+" Chromatin immunoprecipitation analysis showed the interaction of endogenous and exogenous Ets-1 or glutathione S-transferase-tagged Ets-1, bearing only the DNA-binding domain with the authentic PDGF promoter."	7	DNA-bind|interact|promoteing DNA-bind|interact|promoteing	PDGF	Ets-1	15297375
+ Overexpression of Ets-1 but not the mutant form of Ets-1 activates the PDGF promoter cooperatively with Sp1.	9	activate|promotes activate|promotes	PDGF	Ets-1	15297375
+" Sp1, which interacts with Ets-1, failed to induce PDGF promoter-dependent expression if the promoter contained a site-specific mutation in this novel Ets-binding site."	10	bind|induce|interact|promote	PDGF	Ets-1	15297375
+ Small interfering RNA to Ets-1 and Sp1 blocked PDGF and serum-inducible PDGF expression.	11	blocked blocked	PDGF	Ets-1	15297375
+" Ets-1-inducible mitogenesis is blocked by antibodies neutralizing PDGF and involves activation of the PDGF alpha-receptor, which binds PDGF."	13	bind|blocked bind|blocked bind|blocked bind|blocks	PDGF	Ets-1	15297375
+ These findings identify a functional cis-acting element for Ets-1 in the PDGF promoter and demonstrate that Sp1 and Ets-1 cooperatively activate PDGF transcription in vascular SMCs.	14	activate|promoter activate|promoter activate|promote activate|promote	PDGF	Ets-1	15297375
+			Sp1	Sp3	15297375
+			Sp1	Egr-1	15297375
+			Sp1	GCF2	15297375
+			Sp1	NF-1	15297375
+			Sp1	WT-1	15297375
+Ets-1 stimulates platelet-derived growth factor A-chain gene transcription and vascular smooth muscle cell growth via cooperative interactions with Sp1.	1	chain|interact|stimulates A-chain|interact|stimulate chain|interact|stimulateions	Sp1	Ets-1	15297375
+ Overexpression of Ets-1 but not the mutant form of Ets-1 activates the PDGF promoter cooperatively with Sp1.	9	activate|promotes activate|promotes activate|promoter activate|promoter	Sp1	Ets-1	15297375
+" Sp1, which interacts with Ets-1, failed to induce PDGF promoter-dependent expression if the promoter contained a site-specific mutation in this novel Ets-binding site."	10	bind|induce|interact|promotes	Sp1	Ets-1	15297375
+			Sp1	Ets-1	15297375
+			Sp1	Ets-1	15297375
+ These findings identify a functional cis-acting element for Ets-1 in the PDGF promoter and demonstrate that Sp1 and Ets-1 cooperatively activate PDGF transcription in vascular SMCs.	14	activate|promoter	Sp1	Ets-1	15297375
+			Sp3	Egr-1	15297375
+			Sp3	GCF2	15297375
+			Sp3	NF-1	15297375
+			Sp3	WT-1	15297375
+			Sp3	Ets-1	15297375
+			Egr-1	GCF2	15297375
+			Egr-1	NF-1	15297375
+			Egr-1	WT-1	15297375
+			Egr-1	Ets-1	15297375
+			GCF2	NF-1	15297375
+			GCF2	WT-1	15297375
+			GCF2	Ets-1	15297375
+			NF-1	WT-1	15297375
+			NF-1	Ets-1	15297375
+			WT-1	Ets-1	15297375
+CD46 mediated costimulation induces a Th1 biased response and enhances early TCR CD3 signaling in human CD4+ T lymphocytes.	1	enhance|induces enhance|induces	CD46	CD3	15307176
+			CD46	CD3	15307176
+			CD46	CD3	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced enhance|induced enhance|induced	CD46	CD3	15307176
+" However, CD46 cross-linking by itself did not induce cell proliferation or lymphokine secretion, and pretreatment of CD4+ T lymphocytes with anti-CD46 antibodies did not significantly alter TCR CD3 activation."	11	cross-induce|linking induce|link	CD46	CD3	15307176
+			CD46	CD28	15307176
+			CD46	CD28	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD46	IL-2	15307176
+ CD46 also enhanced IL-2 or IFN-gamma secretion by CD4+ blasts.	5	enhanced	CD46	IL-2	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD46	IFN-gamma	15307176
+ CD46 also enhanced IL-2 or IFN-gamma secretion by CD4+ blasts.	5	enhanced	CD46	IFN-gamma	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD46	IL-10	15307176
+			CD46	IL-10	15307176
+			CD46	IL-12	15307176
+" In contrast, IL-5 secretion was inhibited upon CD46 CD3 coligation, in all the cells analyzed."	6	inhibited	CD46	IL-5	15307176
+CD46 mediated costimulation induces a Th1 biased response and enhances early TCR CD3 signaling in human CD4+ T lymphocytes.	1	enhance|induces enhance|induces	CD46	TCR	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	CD46	TCR	15307176
+" However, CD46 cross-linking by itself did not induce cell proliferation or lymphokine secretion, and pretreatment of CD4+ T lymphocytes with anti-CD46 antibodies did not significantly alter TCR CD3 activation."	11	cross-induce|linking induce|link	CD46	TCR	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced enhance|induced	CD46	CD3zeta	15307176
+ Cross-linking CD46 alone induced weak tyrosine phosphorylation of CD3zeta and ZAP-70.	10	induce|linkd	CD46	CD3zeta	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced enhance|induced	CD46	ZAP-70	15307176
+ Cross-linking CD46 alone induced weak tyrosine phosphorylation of CD3zeta and ZAP-70.	10	induce|linkd	CD46	ZAP-70	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced enhance|induced	CD46	ERK	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced enhance|induced	CD46	JNK	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced enhance|induced	CD46	p38	15307176
+			CD3	CD28	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD3	IL-2	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD3	IFN-gamma	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD3	IL-10	15307176
+			CD3	IL-12	15307176
+" In contrast, IL-5 secretion was inhibited upon CD46 CD3 coligation, in all the cells analyzed."	6	inhibited	CD3	IL-5	15307176
+			CD3	TCR	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	CD3	TCR	15307176
+			CD3	TCR	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	CD3	CD3zeta	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	CD3	ZAP-70	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	CD3	ERK	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	CD3	JNK	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	CD3	p38	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD28	IL-2	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD28	IFN-gamma	15307176
+" Coligation of CD3 and CD46 in the presence of PMA or CD28 costimuli enhanced IL-2, IFN-gamma, or IL-10 secretion by CD4+ T lymphocytes."	3	enhanced	CD28	IL-10	15307176
+			CD28	IL-10	15307176
+			CD28	IL-12	15307176
+			CD28	IL-5	15307176
+			CD28	TCR	15307176
+			CD28	CD3zeta	15307176
+			CD28	ZAP-70	15307176
+			CD28	ERK	15307176
+			CD28	JNK	15307176
+			CD28	p38	15307176
+			IL-2	IFN-gamma	15307176
+			IL-2	IFN-gamma	15307176
+			IL-2	IL-10	15307176
+			IL-2	IL-12	15307176
+			IL-2	IL-5	15307176
+			IL-2	TCR	15307176
+			IL-2	CD3zeta	15307176
+			IL-2	ZAP-70	15307176
+			IL-2	ERK	15307176
+			IL-2	JNK	15307176
+			IL-2	p38	15307176
+			IFN-gamma	IL-10	15307176
+			IFN-gamma	IL-12	15307176
+			IFN-gamma	IL-5	15307176
+			IFN-gamma	TCR	15307176
+			IFN-gamma	CD3zeta	15307176
+			IFN-gamma	ZAP-70	15307176
+			IFN-gamma	ERK	15307176
+			IFN-gamma	JNK	15307176
+			IFN-gamma	p38	15307176
+			IL-10	IL-12	15307176
+			IL-10	IL-5	15307176
+			IL-10	TCR	15307176
+			IL-10	CD3zeta	15307176
+			IL-10	ZAP-70	15307176
+			IL-10	ERK	15307176
+			IL-10	JNK	15307176
+			IL-10	p38	15307176
+			IL-12	IL-5	15307176
+			IL-12	TCR	15307176
+			IL-12	CD3zeta	15307176
+			IL-12	ZAP-70	15307176
+			IL-12	ERK	15307176
+			IL-12	JNK	15307176
+			IL-12	p38	15307176
+			IL-5	TCR	15307176
+			IL-5	CD3zeta	15307176
+			IL-5	ZAP-70	15307176
+			IL-5	ERK	15307176
+			IL-5	JNK	15307176
+			IL-5	p38	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	TCR	CD3zeta	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	TCR	ZAP-70	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	TCR	ERK	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	TCR	JNK	15307176
+" CD46 enhanced TCR CD3 induced tyrosine phosphorylation of CD3zeta and ZAP-70, as well as the activation of the ERK, JNK, and p38, but did not modify intracellular calcium."	8	enhance|induced	TCR	p38	15307176
+			CD3zeta	ZAP-70	15307176
+			CD3zeta	ZAP-70	15307176
+			CD3zeta	ERK	15307176
+			CD3zeta	JNK	15307176
+			CD3zeta	p38	15307176
+			ZAP-70	ERK	15307176
+			ZAP-70	JNK	15307176
+			ZAP-70	p38	15307176
+			ERK	JNK	15307176
+			ERK	p38	15307176
+			JNK	p38	15307176
+			PDGF	IL-10	15309723
+			PDGF	IL-10	15309723
+			PDGF	IL-10	15309723
+			PDGF	IL-10	15309723
+			PDGF	Fas	15309723
+			PDGF	FasL	15309723
+			PDGF	Bcl-2	15309723
+			PDGF	Bcl-2	15309723
+			PDGF	Bax	15309723
+" Contrast to the control group, after treated with PDGF and IL-10, either alone or in combination, Bcl-2 mRNA expression was down-regulated and Bax mRNA expression was up-regulated, both following the turn from group P, group I to group C."	9	down-regulated	PDGF	Bax	15309723
+			IL-10	Fas	15309723
+" IL-10 may promote the apoptosis of HSCs by up-regulating the expressions of FasL and Bax and down-regulating the expression of Bcl-2, which may be involved in its antifibrosis mechanism."	16	promote	IL-10	FasL	15309723
+			IL-10	Bcl-2	15309723
+			IL-10	Bcl-2	15309723
+" IL-10 may promote the apoptosis of HSCs by up-regulating the expressions of FasL and Bax and down-regulating the expression of Bcl-2, which may be involved in its antifibrosis mechanism."	16	promote	IL-10	Bcl-2	15309723
+			IL-10	Bax	15309723
+" Contrast to the control group, after treated with PDGF and IL-10, either alone or in combination, Bcl-2 mRNA expression was down-regulated and Bax mRNA expression was up-regulated, both following the turn from group P, group I to group C."	9	down-regulated	IL-10	Bax	15309723
+" IL-10 may promote the apoptosis of HSCs by up-regulating the expressions of FasL and Bax and down-regulating the expression of Bcl-2, which may be involved in its antifibrosis mechanism."	16	promote	IL-10	Bax	15309723
+			Fas	FasL	15309723
+			Fas	Bcl-2	15309723
+			Fas	Bcl-2	15309723
+			Fas	Bcl-2	15309723
+			Fas	Bax	15309723
+			Fas	Bax	15309723
+			Fas	Bax	15309723
+			FasL	Bcl-2	15309723
+			FasL	Bcl-2	15309723
+			FasL	Bax	15309723
+			FasL	Bax	15309723
+			Bcl-2	Bax	15309723
+			Bcl-2	Bax	15309723
+			Bcl-2	Bax	15309723
+" Contrast to the control group, after treated with PDGF and IL-10, either alone or in combination, Bcl-2 mRNA expression was down-regulated and Bax mRNA expression was up-regulated, both following the turn from group P, group I to group C."	9	down-regulated	Bcl-2	Bax	15309723
+			Bcl-2	Bax	15309723
+			GILZ	Bcl-xL	15319285
+			GILZ	Bcl-xL	15319285
+" Moreover, GILZ delivered inside WT thymocytes by a fusion protein with the transactivator of transcription (TAT) peptide decreased Bcl-xL and promoted their apoptosis."	8	decrease|promoted	GILZ	Bcl-xL	15319285
+ Time-course experiments showed that in wild-type (WT) thymocytes GILZ up-regulation was followed by sequential Bcl-xL decreased expression and activation of caspase-8 and of caspase-3.	7	decreased	GILZ	caspase-8	15319285
+ Time-course experiments showed that in wild-type (WT) thymocytes GILZ up-regulation was followed by sequential Bcl-xL decreased expression and activation of caspase-8 and of caspase-3.	7	decreased	GILZ	caspase-3	15319285
+			GILZ	TAT	15319285
+ Apoptotic pathway analysis detected reduced antiapoptotic B-cell leukemia XL (Bcl-xL) expression and increased activation of caspase-8 and caspase-3.	6	increase|reduced	Bcl-xL	caspase-8	15319285
+ Time-course experiments showed that in wild-type (WT) thymocytes GILZ up-regulation was followed by sequential Bcl-xL decreased expression and activation of caspase-8 and of caspase-3.	7	decreased	Bcl-xL	caspase-8	15319285
+ Apoptotic pathway analysis detected reduced antiapoptotic B-cell leukemia XL (Bcl-xL) expression and increased activation of caspase-8 and caspase-3.	6	increase|reduced	Bcl-xL	caspase-3	15319285
+ Time-course experiments showed that in wild-type (WT) thymocytes GILZ up-regulation was followed by sequential Bcl-xL decreased expression and activation of caspase-8 and of caspase-3.	7	decreased	Bcl-xL	caspase-3	15319285
+" Moreover, GILZ delivered inside WT thymocytes by a fusion protein with the transactivator of transcription (TAT) peptide decreased Bcl-xL and promoted their apoptosis."	8	decrease|promoted	Bcl-xL	TAT	15319285
+			caspase-8	caspase-3	15319285
+			caspase-8	caspase-3	15319285
+			caspase-8	TAT	15319285
+			caspase-3	TAT	15319285
+" We therefore investigated whether nicotine could promote tumor growth and neovascularization in vivo, and the biological mechanism(s) in connection with the signaling cascade involving COX-2 and extracellular signal-regulated protein kinase (ERK)."	5	signal-connect|promote|regulated	COX-2	ERK	15319299
+			COX-2	ERK	15319299
+" Consistent with our animal model, an in vitro study also demonstrated that incubation with nicotine (50-200 microg/ml) for 5 h stimulated cell proliferation dose-dependently and increased COX-2 expression, prostaglandin E(2) (PGE(2)) and VEGF release, as well as activation of ERK phosphorylation."	9	"increase|release|stimulate,"	COX-2	ERK	15319299
+			COX-2	ERK	15319299
+			COX-2	PCNA	15319299
+			COX-2	VEGF	15319299
+			COX-2	VEGF	15319299
+" Furthermore, the stimulatory action of nicotine on cancer cell growth and angiogenic factor VEGF production was suppressed by inhibitors of MEK (U0126) and COX-2 (SC-236)."	11	inhibit|suppressed inhibit|suppressors	COX-2	VEGF	15319299
+			COX-2	VEGF	15319299
+			COX-2	PGE(2)	15319299
+			ERK	PCNA	15319299
+			ERK	VEGF	15319299
+" Consistent with our animal model, an in vitro study also demonstrated that incubation with nicotine (50-200 microg/ml) for 5 h stimulated cell proliferation dose-dependently and increased COX-2 expression, prostaglandin E(2) (PGE(2)) and VEGF release, as well as activation of ERK phosphorylation."	9	"increase|release|stimulate,"	ERK	VEGF	15319299
+			ERK	VEGF	15319299
+			ERK	PGE(2)	15319299
+			PCNA	VEGF	15319299
+			PCNA	PGE(2)	15319299
+			VEGF	PGE(2)	15319299
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silenced complex|decrease|silence	XBP-1	HMGB1	22504285
+" Moreover, XBP-1 silenced DCs after treatment with HMGB1 failed to stimulate notable proliferation and differentiation of T cells, unlike normal DCs or nontargeting-transfected DCs (all P&lt;0.05)."	6	silence|stimulated	XBP-1	HMGB1	22504285
+ Gene silence of XBP-1 resulted in down-regulation of the receptor for advanced glycation end products (RAGE) expression on the surface of splenic DCs induced by HMGB1 stimulation (P&lt;0.05).	7	induce|silenced	XBP-1	HMGB1	22504285
+			XBP-1	HMGB1	22504285
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silenced	XBP-1	CD80	22504285
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silenced	XBP-1	CD86	22504285
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silenced complex|decrease|silence	XBP-1	MHC-II	22504285
+			XBP-1	RAGE	22504285
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silence	HMGB1	CD80	22504285
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silence	HMGB1	CD86	22504285
+			HMGB1	MHC-II	22504285
+ Gene silence of XBP-1 resulted in down-regulation of the receptor for advanced glycation end products (RAGE) expression on the surface of splenic DCs induced by HMGB1 stimulation (P&lt;0.05).	7	induce|silenced	HMGB1	RAGE	22504285
+			CD80	CD86	22504285
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silence	CD80	MHC-II	22504285
+			CD80	RAGE	22504285
+" Gene silence of XBP-1 in splenic DCs decreased the levels of CD80, CD86 as well as major histocompatibility complex MHC-II expression and cytokine secretion after HMGB1 treatment, when compared with untransfected or nontargeting-transfected DCs (all P&lt;0.05)."	5	complex|decrease|silence	CD86	MHC-II	22504285
+			CD86	RAGE	22504285
+			MHC-II	RAGE	22504285
+"GDF-9 and bFGF enhance the effect of FSH on the survival, activation, and growth of cattle primordial follicles."	1	enhance	FSH	GDF-9	22516229
+			FSH	GDF-9	22516229
+			FSH	GDF-9	22516229
+			FSH	GDF-9	22516229
+			FSH	GDF-9	22516229
+			FSH	GDF-9	22516229
+"GDF-9 and bFGF enhance the effect of FSH on the survival, activation, and growth of cattle primordial follicles."	1	enhance	FSH	bFGF	22516229
+			FSH	bFGF	22516229
+			FSH	bFGF	22516229
+ FSH+bFGF medium appeared to increase the percentage of primary follicles after 14 days of culture and secondary follicles at day 14 of culture than FSH medium (P&lt;0.05).	6	increase	FSH	bFGF	22516229
+			FSH	bFGF	22516229
+			FSH	bFGF	22516229
+			GDF-9	bFGF	22516229
+			GDF-9	bFGF	22516229
+			GDF-9	bFGF	22516229
+			GDF-9	bFGF	22516229
+			GDF-9	bFGF	22516229
+Increased expression of TLR9 associated with pro-inflammatory S100A8 and IL-8 in diabetic wounds could lead to unresolved inflammation in type 2 diabetes mellitus (T2DM) cases with impaired wound healing.	1	associate|impair|paird	TLR9	S100A8	26525587
+ TLR9 activation induces release of pro-inflammatory molecules like S100A8 and interleukin-8 (IL-8) by myeloid cells causing migration of myeloid cells to the site of inflammation.	5	induce|releases induce|release	TLR9	S100A8	26525587
+			TLR9	S100A8	26525587
+" TLR9 down-stream effector molecules S100A8 and IL-8 were also increased in diabetic wounds (p=0.003, t=3.1 for S100A8 mRNA; p=0.04, t=2.04 for IL-8)."	10	increased	TLR9	S100A8	26525587
+Increased expression of TLR9 associated with pro-inflammatory S100A8 and IL-8 in diabetic wounds could lead to unresolved inflammation in type 2 diabetes mellitus (T2DM) cases with impaired wound healing.	1	associate|impair|paird	TLR9	IL-8	26525587
+ TLR9 activation induces release of pro-inflammatory molecules like S100A8 and interleukin-8 (IL-8) by myeloid cells causing migration of myeloid cells to the site of inflammation.	5	induce|releases induce|release	TLR9	IL-8	26525587
+			TLR9	IL-8	26525587
+" TLR9 down-stream effector molecules S100A8 and IL-8 were also increased in diabetic wounds (p=0.003, t=3.1 for S100A8 mRNA; p=0.04, t=2.04 for IL-8)."	10	increased	TLR9	IL-8	26525587
+			S100A8	IL-8	26525587
+			S100A8	IL-8	26525587
+			S100A8	IL-8	26525587
+			S100A8	IL-8	26525587
+" TLR9 down-stream effector molecules S100A8 and IL-8 were also increased in diabetic wounds (p=0.003, t=3.1 for S100A8 mRNA; p=0.04, t=2.04 for IL-8)."	10	increased increased	S100A8	IL-8	26525587
+			S100A8	IL-8	26525587
+			FXR	NR0B2	26812075
+			FXR	ABCB11	26812075
+			FXR	SLC51A	26812075
+			FXR	SLC51B	26812075
+			FXR	ABCB4	26812075
+" ChIP-sequencing in mouse liver confirmed FXR binding to IR1 sequences of AKAP13, CGNL1, DYRK3, PDIA5, PPP1R3B and TBX6."	11	binding	FXR	AKAP13	26812075
+" ChIP-sequencing in mouse liver confirmed FXR binding to IR1 sequences of AKAP13, CGNL1, DYRK3, PDIA5, PPP1R3B and TBX6."	11	binding	FXR	CGNL1	26812075
+" ChIP-sequencing in mouse liver confirmed FXR binding to IR1 sequences of AKAP13, CGNL1, DYRK3, PDIA5, PPP1R3B and TBX6."	11	binding	FXR	DYRK3	26812075
+" ChIP-sequencing in mouse liver confirmed FXR binding to IR1 sequences of AKAP13, CGNL1, DYRK3, PDIA5, PPP1R3B and TBX6."	11	binding	FXR	PDIA5	26812075
+" ChIP-sequencing in mouse liver confirmed FXR binding to IR1 sequences of AKAP13, CGNL1, DYRK3, PDIA5, PPP1R3B and TBX6."	11	binding	FXR	PPP1R3B	26812075
+" ChIP-sequencing in mouse liver confirmed FXR binding to IR1 sequences of AKAP13, CGNL1, DYRK3, PDIA5, PPP1R3B and TBX6."	11	binding	FXR	TBX6	26812075
+			NR0B2	ABCB11	26812075
+			NR0B2	SLC51A	26812075
+			NR0B2	SLC51B	26812075
+			NR0B2	ABCB4	26812075
+			NR0B2	AKAP13	26812075
+			NR0B2	CGNL1	26812075
+			NR0B2	DYRK3	26812075
+			NR0B2	PDIA5	26812075
+			NR0B2	PPP1R3B	26812075
+			NR0B2	TBX6	26812075
+			ABCB11	SLC51A	26812075
+			ABCB11	SLC51B	26812075
+			ABCB11	ABCB4	26812075
+			ABCB11	AKAP13	26812075
+			ABCB11	CGNL1	26812075
+			ABCB11	DYRK3	26812075
+			ABCB11	PDIA5	26812075
+			ABCB11	PPP1R3B	26812075
+			ABCB11	TBX6	26812075
+			SLC51A	SLC51B	26812075
+			SLC51A	ABCB4	26812075
+			SLC51A	AKAP13	26812075
+			SLC51A	CGNL1	26812075
+			SLC51A	DYRK3	26812075
+			SLC51A	PDIA5	26812075
+			SLC51A	PPP1R3B	26812075
+			SLC51A	TBX6	26812075
+			SLC51B	ABCB4	26812075
+			SLC51B	AKAP13	26812075
+			SLC51B	CGNL1	26812075
+			SLC51B	DYRK3	26812075
+			SLC51B	PDIA5	26812075
+			SLC51B	PPP1R3B	26812075
+			SLC51B	TBX6	26812075
+			ABCB4	AKAP13	26812075
+			ABCB4	CGNL1	26812075
+			ABCB4	DYRK3	26812075
+			ABCB4	PDIA5	26812075
+			ABCB4	PPP1R3B	26812075
+			ABCB4	TBX6	26812075
+			AKAP13	CGNL1	26812075
+			AKAP13	DYRK3	26812075
+			AKAP13	PDIA5	26812075
+			AKAP13	PPP1R3B	26812075
+			AKAP13	TBX6	26812075
+			CGNL1	DYRK3	26812075
+			CGNL1	PDIA5	26812075
+			CGNL1	PPP1R3B	26812075
+			CGNL1	TBX6	26812075
+			DYRK3	PDIA5	26812075
+			DYRK3	PPP1R3B	26812075
+			DYRK3	TBX6	26812075
+			PDIA5	PPP1R3B	26812075
+			PDIA5	TBX6	26812075
+			PPP1R3B	TBX6	26812075
+			Akh	AHR	27100621
+			Akh	NR1I2	27100621
+			Akh	ABCB1	27100621
+			Akh	ABCC3	27100621
+			Akh	CYP3A4	27100621
+			AHR	NR1I2	27100621
+			AHR	ABCB1	27100621
+			AHR	ABCC3	27100621
+			AHR	CYP3A4	27100621
+			NR1I2	ABCB1	27100621
+			NR1I2	ABCC3	27100621
+			NR1I2	CYP3A4	27100621
+			ABCB1	ABCC3	27100621
+			ABCB1	CYP3A4	27100621
+			ABCC3	CYP3A4	27100621
+			TCF7L2	HHEX	27551309
+			TCF7L2	HNF1A	27551309
+			TCF7L2	NOTCH2	27551309
+			TCF7L2	NOTCH2	27551309
+			TCF7L2	TLE4	27551309
+			TCF7L2	PPARG	27551309
+			TCF7L2	ZBED3	27551309
+			TCF7L2	ZBED3	27551309
+			HHEX	HNF1A	27551309
+			HHEX	NOTCH2	27551309
+			HHEX	TLE4	27551309
+			HHEX	PPARG	27551309
+			HHEX	ZBED3	27551309
+			HNF1A	NOTCH2	27551309
+			HNF1A	TLE4	27551309
+			HNF1A	PPARG	27551309
+			HNF1A	ZBED3	27551309
+			NOTCH2	TLE4	27551309
+			NOTCH2	PPARG	27551309
+			NOTCH2	ZBED3	27551309
+			NOTCH2	ZBED3	27551309
+			NOTCH2	ZBED3	27551309
+			TLE4	PPARG	27551309
+			TLE4	ZBED3	27551309
+			PPARG	ZBED3	27551309
+			IL-6	IL-10	30445175
+" Additionally, an immunomodulatory effect of the probiotics was seen; production of anti-inflammatory cytokines (IL-6 and IL-10) was increased and production of inflammatory chemokines (MCP-1, CXCL10 and IL-8.) was reduced."	7	increase|reduced	IL-6	MCP-1	30445175
+" Additionally, an immunomodulatory effect of the probiotics was seen; production of anti-inflammatory cytokines (IL-6 and IL-10) was increased and production of inflammatory chemokines (MCP-1, CXCL10 and IL-8.) was reduced."	7	increase|reduced	IL-6	CXCL10	30445175
+" Additionally, an immunomodulatory effect of the probiotics was seen; production of anti-inflammatory cytokines (IL-6 and IL-10) was increased and production of inflammatory chemokines (MCP-1, CXCL10 and IL-8.) was reduced."	7	increase|reduced	IL-6	IL-8	30445175
+" Additionally, an immunomodulatory effect of the probiotics was seen; production of anti-inflammatory cytokines (IL-6 and IL-10) was increased and production of inflammatory chemokines (MCP-1, CXCL10 and IL-8.) was reduced."	7	increase|reduced	IL-10	MCP-1	30445175
+" Additionally, an immunomodulatory effect of the probiotics was seen; production of anti-inflammatory cytokines (IL-6 and IL-10) was increased and production of inflammatory chemokines (MCP-1, CXCL10 and IL-8.) was reduced."	7	increase|reduced	IL-10	CXCL10	30445175
+" Additionally, an immunomodulatory effect of the probiotics was seen; production of anti-inflammatory cytokines (IL-6 and IL-10) was increased and production of inflammatory chemokines (MCP-1, CXCL10 and IL-8.) was reduced."	7	increase|reduced	IL-10	IL-8	30445175
+			MCP-1	CXCL10	30445175
+			MCP-1	IL-8	30445175
+			CXCL10	IL-8	30445175
+" In the previous studies, we have shown that FLCN could inhibit the binding of overexpressed PAT1, which is a membrane-bound amino acid transporter, to the lysosome in human embryonic kidney 293 cells."	3	bind|inhibit bind|inhibiting	FLCN	PAT1	30446510
+ Suppression of either Rab11A or FLCN facilitated the localization of the overexpressed PAT1 to the lysosome and inhibited its targeting on the plasma membrane.	7	facilitate|inhibitd	FLCN	PAT1	30446510
+" Instead, we found FLCN promoted the loading of PAT1 on Rab11A."	10	promoted	FLCN	PAT1	30446510
+FLCN is a novel Rab11A-interacting protein that is involved in the Rab11A-mediated recycling transport.	1	Rab11A-interacting	FLCN	Rab11A	30446510
+" Here we report that FLCN can bind through its C-terminal DENN-like domain to the recycling transport regulator, Rab11A."	6	bind	FLCN	Rab11A	30446510
+			FLCN	Rab11A	30446510
+			FLCN	Rab11A	30446510
+" Instead, we found FLCN promoted the loading of PAT1 on Rab11A."	10	promoted	FLCN	Rab11A	30446510
+			FLCN	Rab11A	30446510
+ Suppression of either Rab11A or FLCN facilitated the localization of the overexpressed PAT1 to the lysosome and inhibited its targeting on the plasma membrane.	7	facilitate|inhibitd	PAT1	Rab11A	30446510
+			PAT1	Rab11A	30446510
+			MCT1	MCT2	30446621
+			MCT1	MCT4	30446621
+" The transport activity of MCT1, MCT2, and MCT4 can be facilitated by the extracellular carbonic anhydrase IV (CAIV) via a noncatalytic mechanism."	3	facilitated	MCT1	CAIV	30446621
+			MCT1	CD147	30446621
+			MCT1	GP70	30446621
+			MCT2	MCT4	30446621
+" The transport activity of MCT1, MCT2, and MCT4 can be facilitated by the extracellular carbonic anhydrase IV (CAIV) via a noncatalytic mechanism."	3	facilitated	MCT2	CAIV	30446621
+			MCT2	CD147	30446621
+			MCT2	GP70	30446621
+" The transport activity of MCT1, MCT2, and MCT4 can be facilitated by the extracellular carbonic anhydrase IV (CAIV) via a noncatalytic mechanism."	3	facilitated	MCT4	CAIV	30446621
+			MCT4	CD147	30446621
+			MCT4	GP70	30446621
+			CAIV	CD147	30446621
+" In human CD147, binding of CAIV was mediated by the negatively charged Glu-73 and in rat CD147 by the positively charged Lys-73."	8	binding	CAIV	CD147	30446621
+			CAIV	GP70	30446621
+			CD147	GP70	30446621
+			CD147	GP70	30446621
+			SETDB1	DPPA2	30446626
+			SETDB1	OTX2	30446626
+			SETDB1	UTF1	30446626
+			SETDB1	SMAD1	30446626
+			DPPA2	OTX2	30446626
+			DPPA2	UTF1	30446626
+" Furthermore, DPPA2, OTX2 and UTF1 binding is increased in genes encoding BMP4 signaling-related proteins, including SMAD1."	6	bind|increase|relateing bind|increase|related signaling-bind|increase|related	DPPA2	SMAD1	30446626
+			OTX2	UTF1	30446626
+" Furthermore, DPPA2, OTX2 and UTF1 binding is increased in genes encoding BMP4 signaling-related proteins, including SMAD1."	6	bind|increase|relateing bind|increase|related signaling-bind|increase|related	OTX2	SMAD1	30446626
+" Furthermore, DPPA2, OTX2 and UTF1 binding is increased in genes encoding BMP4 signaling-related proteins, including SMAD1."	6	bind|increase|relateing bind|increase|related signaling-bind|increase|related	UTF1	SMAD1	30446626
+" Molecularly, the results revealed that knock down of TSG101 significantly decreased the cell cycle related regulatory factor p53 and p21."	5	decrease|related decrease|related	TSG101	p53	30450735
+" Further investigation showed that TSG101 interacted with PEG10 and protected&#xa0;it&#xa0;from&#xa0;proteasomal&#xa0;degradation thereby regulating the expression of p53, p21 and MMPs."	9	interacted	TSG101	p53	30450735
+" Molecularly, the results revealed that knock down of TSG101 significantly decreased the cell cycle related regulatory factor p53 and p21."	5	decrease|related decrease|related	TSG101	p21	30450735
+" Further investigation showed that TSG101 interacted with PEG10 and protected&#xa0;it&#xa0;from&#xa0;proteasomal&#xa0;degradation thereby regulating the expression of p53, p21 and MMPs."	9	interacted	TSG101	p21	30450735
+" In another point, knock down of TSG101 also obviously decreased the level of metallopeptidase inhibitor TIMP1 (Tissue inhibitors of metalloproteinases 1), which results in inhibition of MMP2, MMP7 and MMP9."	6	decrease|inhibitd decrease|inhibitor	TSG101	TIMP1	30450735
+" In another point, knock down of TSG101 also obviously decreased the level of metallopeptidase inhibitor TIMP1 (Tissue inhibitors of metalloproteinases 1), which results in inhibition of MMP2, MMP7 and MMP9."	6	decrease|inhibitd decrease|inhibitor decrease|inhibitors decrease|inhibition	TSG101	MMP2	30450735
+" In another point, knock down of TSG101 also obviously decreased the level of metallopeptidase inhibitor TIMP1 (Tissue inhibitors of metalloproteinases 1), which results in inhibition of MMP2, MMP7 and MMP9."	6	decrease|inhibitd decrease|inhibitor decrease|inhibitors decrease|inhibition	TSG101	MMP7	30450735
+" In another point, knock down of TSG101 also obviously decreased the level of metallopeptidase inhibitor TIMP1 (Tissue inhibitors of metalloproteinases 1), which results in inhibition of MMP2, MMP7 and MMP9."	6	decrease|inhibitd decrease|inhibitor decrease|inhibitors decrease|inhibition	TSG101	MMP9	30450735
+"TSG101 promotes the proliferation, migration and invasion of hepatocellular carcinoma cells by regulating the PEG10."	1	promotes	TSG101	PEG10	30450735
+			TSG101	PEG10	30450735
+" Further investigation showed that TSG101 interacted with PEG10 and protected&#xa0;it&#xa0;from&#xa0;proteasomal&#xa0;degradation thereby regulating the expression of p53, p21 and MMPs."	9	interacted	TSG101	PEG10	30450735
+			TSG101	PEG10	30450735
+" In conclusion, these results suggest that TSG101 is up-regulated in human HCC patients, which may accelerate the proliferation, migration and invasion of HCC cells through regulating PEG10."	11	up-regulated	TSG101	PEG10	30450735
+			p53	p21	30450735
+			p53	p21	30450735
+			p53	TIMP1	30450735
+			p53	MMP2	30450735
+			p53	MMP7	30450735
+			p53	MMP9	30450735
+			p53	PEG10	30450735
+			p21	TIMP1	30450735
+			p21	MMP2	30450735
+			p21	MMP7	30450735
+			p21	MMP9	30450735
+			p21	PEG10	30450735
+" In another point, knock down of TSG101 also obviously decreased the level of metallopeptidase inhibitor TIMP1 (Tissue inhibitors of metalloproteinases 1), which results in inhibition of MMP2, MMP7 and MMP9."	6	decrease|inhibitors decrease|inhibition	TIMP1	MMP2	30450735
+" In another point, knock down of TSG101 also obviously decreased the level of metallopeptidase inhibitor TIMP1 (Tissue inhibitors of metalloproteinases 1), which results in inhibition of MMP2, MMP7 and MMP9."	6	decrease|inhibitors decrease|inhibition	TIMP1	MMP7	30450735
+" In another point, knock down of TSG101 also obviously decreased the level of metallopeptidase inhibitor TIMP1 (Tissue inhibitors of metalloproteinases 1), which results in inhibition of MMP2, MMP7 and MMP9."	6	decrease|inhibitors decrease|inhibition	TIMP1	MMP9	30450735
+			TIMP1	PEG10	30450735
+			MMP2	MMP7	30450735
+			MMP2	MMP9	30450735
+			MMP2	PEG10	30450735
+			MMP7	MMP9	30450735
+			MMP7	PEG10	30450735
+			MMP9	PEG10	30450735
+			ATF4	DEFA1	30452920
+			ATF4	DEFA4	30452920
+			ATF4	DEFA5	30452920
+			ATF4	CAMP	30452920
+			ATF4	LYZ1	30452920
+" We found that expression of solute carrier family 1 member 5 (SLC1A5), a glutamine transporter, was directly regulated by ATF4 in cell lines."	17	regulated	ATF4	SLC1A5	30452920
+" Knockdown of ATF4 in IEC-18 cells increased expression of inflammatory cytokines, whereas overexpression of SLC1A5 in the knockdown cells reduced cytokine expression."	19	increase|reduced	ATF4	SLC1A5	30452920
+ Levels of SLC1A5 were decreased in inflamed intestinal mucosa of patients with CD and UC and correlated with levels of ATF4.	20	decrease|related cordecrease|related	ATF4	SLC1A5	30452920
+			DEFA1	DEFA4	30452920
+			DEFA1	DEFA5	30452920
+			DEFA1	CAMP	30452920
+			DEFA1	LYZ1	30452920
+			DEFA1	SLC1A5	30452920
+			DEFA4	DEFA5	30452920
+			DEFA4	CAMP	30452920
+			DEFA4	LYZ1	30452920
+			DEFA4	SLC1A5	30452920
+			DEFA5	CAMP	30452920
+			DEFA5	LYZ1	30452920
+			DEFA5	SLC1A5	30452920
+			CAMP	LYZ1	30452920
+			CAMP	SLC1A5	30452920
+			LYZ1	SLC1A5	30452920

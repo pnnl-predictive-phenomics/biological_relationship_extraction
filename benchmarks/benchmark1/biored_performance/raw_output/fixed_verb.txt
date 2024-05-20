@@ -1,0 +1,487 @@
+Term1	Term2	PMID	Co-Occurring Sentences	Sentence Position in R	Fixed Term
+NDUFS2	NDUFS3	9647766			
+NDUFS2	NDUFS3	9647766			
+NDUFS2	NDUFS3	9647766			
+casein kinase II	NDUFS3	9647766			
+NDUFS2	casein kinase II	9647766			
+CD72	FCGR2B	15459183	CD72 polymorphisms associated with alternative splicing modify susceptibility to human systemic lupus erythematosus through epistatic interaction with FCGR2B.	1	associate|interactd associate|interaction
+CD72	FCGR2B	15459183	 Because polymorphism of CD72, another inhibitory receptor of B cells, was associated with murine SLE, we identified human CD72 polymorphisms, tested their association with SLE and examined genetic interaction with FCGR2B in the Japanese (160 SLE, 277 controls), Thais (87 SLE, 187 controls) and Caucasians (94 families containing SLE members).	3	associate|inhibit|interactory associate|inhibit|interactd associate|inhibit|interaction associate|inhibit|interaction
+CD72	FCGR2B	15459183			
+CD72	FCGR2B	15459183	 These results indicated that the presence of CD72-*2 allele decreases risk for human SLE conferred by FCGR2B-232Thr, possibly by increasing the AS isoform of CD72.	12	decreases
+prolactin	U-II	16160878	 Intracerebroventricular (i.c.v.) injection of U-II causes hypertension and bradycardia and stimulates prolactin and thyrotropin secretion.	3	stimulates
+thyrotropin	U-II	16160878	 Intracerebroventricular (i.c.v.) injection of U-II causes hypertension and bradycardia and stimulates prolactin and thyrotropin secretion.	3	stimulates
+prolactin	thyrotropin	16160878			
+-1123 G>C	+2740 A>G	17000021			
+-31T/C	-511C/T	17006606			
+-31TT	-511CC	17006606			
+-31T/C	-31TT	17006606			
+DISC1	NDE1	17185386	Families with the risk allele of DISC1 reveal a link between schizophrenia and another component of the same molecular pathway, NDE1.	1	link
+DISC1	NDE1	17185386	 Two additional loci displayed an evidence of linkage (LOD > 3) and included a locus on 16p13, proximal to the gene encoding NDE1, which has been shown to biologically interact with DISC1.	6	interact|link
+IRF6	TGFA	17318851	 There were statistically significant data suggesting that IRF6 interacts not only with MSX1 (P = 0.001), but also with TGFA (P = 0.03).	13	interacts
+cyclooxygenase	prostaglandin E2	18165598	The differential effects of bupivacaine and lidocaine on prostaglandin E2 release, cyclooxygenase gene expression and pain in a clinical pain model.	1	release,
+cyclooxygenase	prostaglandin E2	18165598			
+ABCE1	RNASEL	18189233			
+BMPs	FSHbeta	18310445	 In contrast, in mouse LbetaT2 gonadotrophs, others have shown a stimulatory effect of BMPs on basal or activin-stimulated FSHbeta promoter-driven transcription.	3	activin-promote|stimulated
+BMPs	GnRH	18310445			
+BMPs	gonadotrophin	18310445	 These results confirm BMPs as important modulators of activin and/or GnRH stimulated gonadotrophin synthesis and release and important species differences in these effects, which could relate to differences in BMP receptor expression in gonadotrophs.	12	relate|release|stimulated
+Bone morphogenetic protein-4	GnRH	18310445	Bone morphogenetic protein-4 interacts with activin and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs.	1	interact|modulates
+Bone morphogenetic protein-4	gonadotrophin	18310445	Bone morphogenetic protein-4 interacts with activin and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs.	1	interact|modulates interact|modulate
+ERK1/2	GnRH	18310445	 We hypothesized that activin and/or GnRH pathways may be modulated by BMP-4, but neither the activin stimulated phosphorylation of Smad2 nor the GnRH-induced ERK1/2 or cAMP response element-binding phosphorylation were modified.	9	bind|induce|modulate|stimulated bind|induce|modulate|stimulated GnRH-bind|induce|modulate|stimulated
+FSH	GnRH	18310445	 BMP-4 alone had no effect on FSH production, but enhanced the activin GnRH induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA.	5	enhance|induced enhance|induced enhance|induced
+FSH	GnRH	18310445	 BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH activin and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion.	6	decrease|reduced
+FSHbeta	GnRH	18310445	 BMP-4 alone had no effect on FSH production, but enhanced the activin GnRH induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA.	5	enhance|induced
+GnRH	LH	18310445	 BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH activin and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion.	6	decrease|reduced decrease|reduced
+GnRH	gonadotrophin	18310445	Bone morphogenetic protein-4 interacts with activin and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs.	1	interact|modulate
+GnRH	gonadotrophin	18310445	 As a species comparison with our previous results, we used LbetaT2 cells to investigate the effects of BMP-4 on gonadotrophin mRNA and secretion modulated by activin and GnRH.	4	modulated
+GnRH	gonadotrophin	18310445	 These results confirm BMPs as important modulators of activin and/or GnRH stimulated gonadotrophin synthesis and release and important species differences in these effects, which could relate to differences in BMP receptor expression in gonadotrophs.	12	relate|release|stimulated
+activin	BMPs	18310445			
+activin	BMPs	18310445			
+activin	Bone morphogenetic protein-4	18310445	Bone morphogenetic protein-4 interacts with activin and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs.	1	interact|modulates
+activin	FSH	18310445	 BMP-4 alone had no effect on FSH production, but enhanced the activin GnRH induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA.	5	enhance|induced enhance|induced enhance|induced
+activin	FSH	18310445	 BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH activin and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion.	6	decrease|reduced
+activin	FSHbeta	18310445			
+activin	FSHbeta	18310445	 BMP-4 alone had no effect on FSH production, but enhanced the activin GnRH induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA.	5	enhance|induced
+activin	GnRH	18310445			
+activin	GnRH	18310445			
+activin	GnRH	18310445			
+activin	GnRH	18310445	 BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH activin and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion.	6	decrease|reduced
+activin	GnRH	18310445			
+activin	GnRH	18310445	 We hypothesized that activin and/or GnRH pathways may be modulated by BMP-4, but neither the activin stimulated phosphorylation of Smad2 nor the GnRH-induced ERK1/2 or cAMP response element-binding phosphorylation were modified.	9	bind|induce|modulate|stimulated bind|induce|modulate|stimulated bind|induce|modulate|stimulated bind|induce|modulate|stimulated
+activin	GnRH	18310445			
+activin	LH	18310445	 BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH activin and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion.	6	decrease|reduced
+activin	Smad1/5	18310445	 Smad1/5 phosphorylation induced by BMP-4, indicating activation of BMP signalling, was the same whether BMP-4 was used alone or combined with activin GnRH.	8	combine|induced combine|induced
+activin	Smad2	18310445	 We hypothesized that activin and/or GnRH pathways may be modulated by BMP-4, but neither the activin stimulated phosphorylation of Smad2 nor the GnRH-induced ERK1/2 or cAMP response element-binding phosphorylation were modified.	9	bind|induce|modulate|stimulated bind|induce|modulate|stimulated bind|induce|modulate|stimulated
+activin	gonadotrophin	18310445	Bone morphogenetic protein-4 interacts with activin and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs.	1	interact|modulate
+activin	gonadotrophin	18310445	 As a species comparison with our previous results, we used LbetaT2 cells to investigate the effects of BMP-4 on gonadotrophin mRNA and secretion modulated by activin and GnRH.	4	modulated
+activin	gonadotrophin	18310445	 These results confirm BMPs as important modulators of activin and/or GnRH stimulated gonadotrophin synthesis and release and important species differences in these effects, which could relate to differences in BMP receptor expression in gonadotrophs.	12	relate|release|stimulated
+bone morphogenetic proteins (BMP)-4	FSH	18310445			
+cAMP response element-binding	GnRH	18310445			
+BMPs	Bone morphogenetic protein-4	18310445			
+JAK/STAT3	SOCS3	18674790	 Decreased cardiac erythropoietin and increased SOCS3 further downregulated the cardioprotective JAK/STAT3 pathway.	9	downincrease|regulated
+erythropoietin	JAK/STAT3	18674790	 Decreased cardiac erythropoietin and increased SOCS3 further downregulated the cardioprotective JAK/STAT3 pathway.	9	increase|regulated downincrease|regulated
+JAK/STAT3	erythropoietin	18674790	 Decreased cardiac erythropoietin and increased SOCS3 further downregulated the cardioprotective JAK/STAT3 pathway.	9	increase|regulated downincrease|regulated
+alpha-syn	ARG2	18772193	 Five of the forty genes ENT3, IDP3, JEM1, ARG2 and HSP82 ranked highest in their ability to block alpha-syn induced reactive oxygen species accumulation, and these five genes were characterized in more detail.	5	block|induce|react
+alpha-syn	ENT3	18772193	 Five of the forty genes ENT3, IDP3, JEM1, ARG2 and HSP82 ranked highest in their ability to block alpha-syn induced reactive oxygen species accumulation, and these five genes were characterized in more detail.	5	block|induce|react
+alpha-syn	Ent3p	18772193			
+alpha-syn	Ent3p	18772193			
+alpha-syn	HSP82	18772193	 Five of the forty genes ENT3, IDP3, JEM1, ARG2 and HSP82 ranked highest in their ability to block alpha-syn induced reactive oxygen species accumulation, and these five genes were characterized in more detail.	5	block|induce|react
+alpha-syn	IDP3	18772193	 Five of the forty genes ENT3, IDP3, JEM1, ARG2 and HSP82 ranked highest in their ability to block alpha-syn induced reactive oxygen species accumulation, and these five genes were characterized in more detail.	5	block|induce|react
+alpha-syn	JEM1	18772193	 Five of the forty genes ENT3, IDP3, JEM1, ARG2 and HSP82 ranked highest in their ability to block alpha-syn induced reactive oxygen species accumulation, and these five genes were characterized in more detail.	5	block|induce|react
+ARG2	ENT3	18772193			
+DGC	laminin	18808529	 Taking into account that the sarcolemmal integrity is stabilized by the dystrophin-glycoprotein complex (DGC) that connects actin and laminin in contractile machinery and extracellular matrix and by integrins, this study tests the hypothesis that isoproterenol affects sarcolemmal stability through changes in the DGC and integrins.	4	complex|connects
+aggrecan	tenascin-C	19110214			
+laminin	NRG-1	19306381	 Hypothesizing that NRG-1 beta and/or NRG-1 alpha promote MPNST invasion, we found that NRG-1 beta promoted MPNST migration in a substrate-specific manner, markedly enhancing migration on laminin but not on collagen type I or fibronectin.	6	promote promote promoted promoted promoted
+laminin	NRG-1	19306381			
+AKT	melanocortin	19463742	 The melanocortin agonist melanotan II increased insulin-stimulated AKT phosphorylation in the rat hypothalamus in vivo.	7	increase|stimulated insulin-increase|stimulated
+c-Jun N-terminal kinase	Melanocortin-4 receptor	19463742	Melanocortin-4 receptor activation inhibits c-Jun N-terminal kinase activity and promotes insulin signaling.	1	inhibit|promotes
+AKT	c-Jun N-terminal kinase	19463742			
+BMPR	TAK1	19536134	 BMPR signalling was markedly impaired in TAK1 deficient chondrocytes as evidenced by reduced expression of known BMP target genes as well as reduced phosphorylation of Smad1/5/8 and p38/Jnk/Erk MAP kinases.	6	impair|pair|reduceed
+MAP kinase	TAK1	19536134			
+Smad1	TAK1	19536134	 BMPR signalling was markedly impaired in TAK1 deficient chondrocytes as evidenced by reduced expression of known BMP target genes as well as reduced phosphorylation of Smad1/5/8 and p38/Jnk/Erk MAP kinases.	6	impair|pair|reduced impair|pair|reduced
+Smad1	TAK1	19536134			
+Smad1	TAK1	19536134			
+col2	Tak1	19536134			
+BMPR	MAP kinase	19536134			
+hepcidin	matriptase-2	19592582	 Mutations leading to abrogation of matriptase-2 proteolytic activity in humans are associated with an iron-refractory iron deficiency anemia (IRIDA) due to elevated hepcidin levels.	2	associate|elevated associate|elevated
+hepcidin	matriptase-2	19592582	 Functional analysis of both variant matriptase-2 proteases has revealed that they lead to ineffective suppression of hepcidin transcription.	6	suppression
+CDK	p21	19672862	 Consistent with impaired growth, PKCalpha knockdown increased levels of the cyclin-dependent kinase (CDK) inhibitors p21(Cip1/WAF1) (p21) and p27(Kip1) (p27).	5	impair|increase|inhibit|pairors impair|increase|inhibit|pairors
+CDK	p21	19672862	 PKCalpha knockdown also resulted in decreased basal ERK phosphorylation and attenuated ERK activation following EGF stimulation. p21 and p27 expression was not increased by treatment of Ishikawa cells with ERK and Akt inhibitors, suggesting that PKCalpha regulates CDK expression independently of Akt and ERK.	7	attenuate|decrease|increase|inhibit|regulated attenuate|decrease|increase|inhibit|regulateors, attenuate|decrease|increase|inhibit|regulates
+CDK	p21	19672862	 These studies demonstrate a critical role for PKCalpha signaling in endometrial tumorigenesis by regulating expression of CDK inhibitors p21 and p27 and activation of Akt and ERK-dependent proliferative pathways.	9	inhibitors
+CDK	p27	19672862	 Consistent with impaired growth, PKCalpha knockdown increased levels of the cyclin-dependent kinase (CDK) inhibitors p21(Cip1/WAF1) (p21) and p27(Kip1) (p27).	5	impair|increase|inhibit|pairors impair|increase|inhibit|pairors
+CDK	p27	19672862	 PKCalpha knockdown also resulted in decreased basal ERK phosphorylation and attenuated ERK activation following EGF stimulation. p21 and p27 expression was not increased by treatment of Ishikawa cells with ERK and Akt inhibitors, suggesting that PKCalpha regulates CDK expression independently of Akt and ERK.	7	attenuate|decrease|increase|inhibit|regulated attenuate|decrease|increase|inhibit|regulateors, attenuate|decrease|increase|inhibit|regulates
+CDK	p27	19672862	 These studies demonstrate a critical role for PKCalpha signaling in endometrial tumorigenesis by regulating expression of CDK inhibitors p21 and p27 and activation of Akt and ERK-dependent proliferative pathways.	9	inhibitors
+p21	p27	19672862			
+p21	p27	19672862			
+p21	p27	19672862			
+bone morphogenetic protein (BMP)-2	nuclear factor (NF)-kappaB	19811499			
+bone morphogenetic protein-2	nuclear factor-kappaB	19811499			
+bone morphogenetic protein-2	tumor necrosis factor-alpha	19811499			
+nuclear factor-kappaB	tumor necrosis factor-alpha	19811499			
+bone morphogenetic protein (BMP)-2	bone morphogenetic protein-2	19811499			
+CCL2	CCR2	20034406			
+CCL2	CCR2	20034406			
+CCL2	CCR2	20034406			
+CCL2	CCR2	20034406			
+rs10954213	rs2004640	20080916			
+Keratin 12	Ras	20105280	 Expression of Keratin 12, a marker of corneal epithelial differentiation, was reduced in the Ras transgenic corneas.	15	reduced
+Prox1	Ras	20105280			
+Raf	Spry 1	20105280			
+Raf	Spry 2	20105280			
+Ras	Spry 1	20105280			
+Ras	Spry 2	20105280			
+cdk	p57Kip2	20105280	 Coincidentally, cdk inhibitors p27Kip1 and p57Kip2 were upregulated in the Ras transgenic lenses but not in the corneas.	10	inhibit|regulateors
+cyclin D1 and D2	Ras	20105280	 RESULTS: Ras transgenic lenses and corneal epithelial cells showed increased proliferation with concomitant increases in cyclin D1 and D2 expression.	8	increased increases
+p57Kip2	Ras	20105280	 Coincidentally, cdk inhibitors p27Kip1 and p57Kip2 were upregulated in the Ras transgenic lenses but not in the corneas.	10	upinhibit|regulated
+Keratin 12	Prox1	20105280			
+ASP	C5L2	20105310			
+ASP	C5L2	20105310	 CONCLUSION: Taken together, the profile of C5L2 receptor, ASP gene expression and metabolic factors in adipose tissue from morbidly obese HAT subjects suggests a compensatory response associated with the increased plasma ASP and TG.	13	associate|increased associate|increased
+adipsin	factor B	20105310			
+ASP	adipsin	20105310	 ASP related genes tended to be increased in the HAT group and were correlated (factor B, adipsin, complement C3, p < 0.01 each).	7	increase|related increase|related corincrease|related
+BMP	Chd	20226780			
+BMP	Chl	20226780			
+Chd	Chl	20226780			
+Chd	Chl	20226780			
+Chd	Chl	20226780			
+TGF-beta-isoforms and their receptors I and II	TGF-beta1	20428796			
+glutathione peroxidase	NFkappaB	20477932	 NFkappaB activity was decreased in the frontal cortex of cocaine treated rats, as well as GSH concentration and glutathione peroxidase activity in the hippocampus, whereas nNOS activity in the hippocampus was increased.	5	decrease|increased
+DBH	IL1A	21070631			
+DBH	IL1A	21070631			
+DBH	IL1A	21070631			
+BMP	Brat	21238926	Brat promotes stem cell differentiation via control of a bistable switch that restricts BMP signaling.	1	promote|restricts promote|restricts
+Brat	Dpp	21238926			
+Brat	Mad	21238926	 Brat is excluded from GSCs by Pum Nos but functions with Pum in CBs to translationally repress distinct targets, including the Mad and dMyc mRNAs.	6	repress
+Brat	Nos	21238926			
+Brat	Nos	21238926			
+Brat	Pum	21238926			
+Brat	Pum	21238926			
+Brat	dMyc	21238926	 Brat is excluded from GSCs by Pum Nos but functions with Pum in CBs to translationally repress distinct targets, including the Mad and dMyc mRNAs.	6	repress
+Mad	Pum	21238926	 Brat is excluded from GSCs by Pum Nos but functions with Pum in CBs to translationally repress distinct targets, including the Mad and dMyc mRNAs.	6	repress repress
+dMyc	Pum	21238926	 Brat is excluded from GSCs by Pum Nos but functions with Pum in CBs to translationally repress distinct targets, including the Mad and dMyc mRNAs.	6	repress repress
+BMP	Mad	21238926			
+IDO	Tat	21810259	 Because human immunodeficiency virus type 1 (HIV-1) Tat protein causes depressive-like behavior in mice, we investigated its ability to activate IDO in organotypic hippocampal slice cultures (OHSCs) derived from neonatal C57BL/6 mice.	3	activate|slice
+IDO	Tat	21810259	 Addition of Tat (40 ng/slice) to the medium of OHSCs induced IDO steady-state mRNA that peaked at 6 h.	7	ng/induce|slice) induce|sliced
+IDO	Tat	21810259	 To explore the mechanisms of Tat-induced IDO expression, slices were pretreated with the p38 mitogen-activated protein kinase (MAPK) inhibitor SB 202190 for 30 min before Tat treatment.	11	activate|induce|inhibit|slices mitogen-activate|induce|inhibit|sliced activate|induce|inhibit|sliceor
+IDO	Tat	21810259	 SB 202190 significantly decreased IDO expression induced by Tat, and this effect was accompanied by a reduction of Tat-induced expression of TNFa, IL-6, iNOS and SERT.	12	decrease|induced decrease|induced
+IDO	Tat	21810259	 CONCLUSION: These data establish that Tat induces IDO expression via an IFNg-independent mechanism that depends upon activation of p38 MAPK.	13	induces
+SERT	Tat	21810259	 Tat also induced the synthesis and release of TNFa and IL-6 protein in the supernatant of the slices and increased expression of the inducible isoform of nitric oxide synthase (iNOS) and the serotonin transporter (SERT).	9	increase|induce|release|sliced increase|induce|release|slice increase|induce|release|slices increase|induce|release|sliced
+SERT	Tat	21810259	 SB 202190 significantly decreased IDO expression induced by Tat, and this effect was accompanied by a reduction of Tat-induced expression of TNFa, IL-6, iNOS and SERT.	12	Tat-decrease|induced
+iNOS	Tat	21810259	 Tat also induced the synthesis and release of TNFa and IL-6 protein in the supernatant of the slices and increased expression of the inducible isoform of nitric oxide synthase (iNOS) and the serotonin transporter (SERT).	9	increase|induce|release|sliced increase|induce|release|slice increase|induce|release|slices increase|induce|release|sliced
+iNOS	Tat	21810259	 SB 202190 significantly decreased IDO expression induced by Tat, and this effect was accompanied by a reduction of Tat-induced expression of TNFa, IL-6, iNOS and SERT.	12	Tat-decrease|induced
+indoleamine 2,3 dioxygenase	Tat	21810259	HIV-1 Tat activates indoleamine 2,3 dioxygenase in murine organotypic hippocampal slice cultures in a p38 mitogen-activated protein kinase-dependent manner.	1	activate|slices
+IDO	SERT	21810259	 SB 202190 significantly decreased IDO expression induced by Tat, and this effect was accompanied by a reduction of Tat-induced expression of TNFa, IL-6, iNOS and SERT.	12	decrease|induced Tat-decrease|induced
+Derp1	HLX1	22303482	 Carriers of HLX1 exon 1 SNP rs12141189 showed increased IL-5 (LpA, p = 0.007; Ppg, p = 0.10), trendwise increased IL-13 (LpA), higher GM-CSF (LpA/Ppg, p<0.05) and trendwise decreased IFN-g secretion (Derp1 LpA-stimulation, p = 0.1).	10	decrease|increased decrease|increased decrease|increased
+GM-CSF	HLX1	22303482	 Carriers of HLX1 exon 1 SNP rs12141189 showed increased IL-5 (LpA, p = 0.007; Ppg, p = 0.10), trendwise increased IL-13 (LpA), higher GM-CSF (LpA/Ppg, p<0.05) and trendwise decreased IFN-g secretion (Derp1 LpA-stimulation, p = 0.1).	10	decrease|increased decrease|increased
+HLX1	IFN-g	22303482	 Carriers of HLX1 exon 1 SNP rs12141189 showed increased IL-5 (LpA, p = 0.007; Ppg, p = 0.10), trendwise increased IL-13 (LpA), higher GM-CSF (LpA/Ppg, p<0.05) and trendwise decreased IFN-g secretion (Derp1 LpA-stimulation, p = 0.1).	10	decrease|increased decrease|increased decrease|increased
+HLX1	IL-5	22303482	 Carriers of TBX21 promoter SNP rs17250932 and HLX1 promoter SNP rs2738751 showed reduced or trendwise reduced (p<0.07) IL-5, IL-13 and TNF-a secretion after LpA-stimulation.	8	promote|reducer promote|reduced promote|reduced
+HLX1	IL-5	22303482	 Carriers of HLX1 exon 1 SNP rs12141189 showed increased IL-5 (LpA, p = 0.007; Ppg, p = 0.10), trendwise increased IL-13 (LpA), higher GM-CSF (LpA/Ppg, p<0.05) and trendwise decreased IFN-g secretion (Derp1 LpA-stimulation, p = 0.1).	10	decrease|increased
+HLX1	IL-5	22303482			
+IL-5	TBX21	22303482	 Carriers of TBX21 promoter SNP rs17250932 and HLX1 promoter SNP rs2738751 showed reduced or trendwise reduced (p<0.07) IL-5, IL-13 and TNF-a secretion after LpA-stimulation.	8	promote|reducer promote|reducer promote|reduced promote|reduced
+IL-5	TBX21	22303482			
+Derp1	GM-CSF	22303482	 Carriers of HLX1 exon 1 SNP rs12141189 showed increased IL-5 (LpA, p = 0.007; Ppg, p = 0.10), trendwise increased IL-13 (LpA), higher GM-CSF (LpA/Ppg, p<0.05) and trendwise decreased IFN-g secretion (Derp1 LpA-stimulation, p = 0.1).	10	decrease|increased
+Bim	EPO	22808010	 A unique set of EPO regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g.	5	regulated
+Btg3	EPO	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated modulated
+Btg3	EPOR	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated
+Cdc25a	EPO	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated modulated
+Cdc25a	EPOR	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated
+Cyclin-d2	EPO	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated modulated
+Cyclin-d2	EPOR	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated
+Cyclin-g2	EPO	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated modulated
+Cyclin-g2	EPOR	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated
+CyclinB1-IP-1	EPO	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated modulated
+CyclinB1-IP-1	EPOR	22808010	 EPO EPOR modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1.	6	modulated
+EPOR	Tnfr-sf13c	22808010	Defining an EPOR regulated transcriptome for primary progenitors, including Tnfr-sf13c as a novel mediator of EPO dependent erythroblast formation.	1	regulated
+EPOR	Tnfr-sf13c	22808010			
+EPO	Gas5	22808010	 A unique set of EPO regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g.	5	regulated
+EPO	Lyl1	22808010	 A unique set of EPO regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g.	5	regulated
+EPO	Pim1	22808010	 A unique set of EPO regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g.	5	regulated
+EPO	Pim3	22808010	 A unique set of EPO regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g.	5	regulated
+EPO	Serpina 3g	22808010	 A unique set of EPO regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g.	5	regulated
+EPO	Socs2	22808010			
+EPO	Socs3	22808010			
+EPO	Spred1	22808010			
+EPO	Spred2	22808010			
+EPO	Tnfr-sf13c	22808010	Defining an EPOR regulated transcriptome for primary progenitors, including Tnfr-sf13c as a novel mediator of EPO dependent erythroblast formation.	1	regulated
+EPO	Tnfr-sf13c	22808010	 Among receptors, an atypical TNF-receptor Tnfr-sf13c was up-modulated    >5-fold by EPO.	10	up-modulated
+EPO	Trib3	22808010	 A unique set of EPO regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g.	5	regulated
+Eaf1	EPO	22808010			
+Bim	Btg3	22808010			
+NADPH oxidase	vascular endothelial growth factor	24623966			
+NOX4	STAT3	24623966	 In hRMVECs transfected with NOX4 siRNA and treated with VEGF or control, 1) ROS generation was measured using the 5-(and-6)-chloromethyl-2',7'-dichlorodihydrofluorescein diacetate, acetyl ester fluorescence assay and 2) phosphorylated VEGF receptor 2 and STAT3, and total VEGFR2 and STAT3 were measured in western blot analyses.	11	phosphorylated phosphorylated
+NOX4	STAT3	24623966			
+NOX4	STAT3	24623966	 At p18 OIR, semiquantitative assessment of the density of lectin and NOX4 colabeling in retinal vascular ECs was greater in retinal cryosections and activated STAT3 was greater in retinal lysates when compared to the RA-raised pups.	16	activated
+NOX4	STAT3	24623966	 Knockdown of NOX4: 1) reduced VEGFR2 activation but did not abolish it and 2) abolished STAT3 activation in response to VEGF.	19	abolish|reduced abolish|reduce abolish|reduceed
+NOX4	STAT3	24623966			
+NOX4	STAT3	24623966	 VEGF-activated NOX4 led to an interaction between VEGF-activated VEGFR2 and NOX4 that mediated EC proliferation via activation of STAT3.	22	activate|interaction VEGF-activate|interactd
+NOX4	STAT3	24623966	 Altogether, our results suggest that NOX4 may regulate VEGFR2-mediated IVNV through activated STAT3.	23	activate|regulate activate|regulated
+NOX4	VEGFR2	24623966	 In hRMVECs transfected with NOX4 siRNA and treated with VEGF or control, 1) ROS generation was measured using the 5-(and-6)-chloromethyl-2',7'-dichlorodihydrofluorescein diacetate, acetyl ester fluorescence assay and 2) phosphorylated VEGF receptor 2 and STAT3, and total VEGFR2 and STAT3 were measured in western blot analyses.	11	phosphorylated
+NOX4	VEGFR2	24623966			
+NOX4	VEGFR2	24623966	 Knockdown of NOX4: 1) reduced VEGFR2 activation but did not abolish it and 2) abolished STAT3 activation in response to VEGF.	19	abolish|reduced
+NOX4	VEGFR2	24623966	 VEGF-activated NOX4 led to an interaction between VEGF-activated VEGFR2 and NOX4 that mediated EC proliferation via activation of STAT3.	22	activate|interaction VEGF-activate|interactd
+NOX4	VEGFR2	24623966	 Altogether, our results suggest that NOX4 may regulate VEGFR2-mediated IVNV through activated STAT3.	23	activate|regulate
+NADPH oxidase	NOX4	24623966			
+NADPH oxidase	NOX4	24623966			
+b-catenin	Bmp	24632946	 The expression of bone morphogenetic protein (Bmp) genes, such as Bmp4 and Bmp7, was also ectopically induced in the epithelia of the URS in the b-catenin GOF mutants.	10	induced induced induced
+b-catenin	Bmp	24632946			
+b-catenin	Shh	24632946			
+b-catenin	Shh	24632946			
+Bmp	Shh	24632946			
+CD11c	CSF-1	24743235	IL-3 and CSF-1 interact to promote generation of CD11c+ IL-10-producing macrophages.	1	interact|promote interact|promote
+CD11c	CSF-1	24743235	 CSF-1 significantly promoted IL-3-driven CD11c+ cell expansion and dampened basophil and mast cell generation from C57BL/6 bone marrow.	5	promoted
+CD11c	CSF-1	24743235	 Further studies indicated that the CSF-1 CSF-1R axis contributed significantly to IL-3-induced CD11c+ cell generation through enhancing c-Fos associated monopoiesis.	6	IL-3-associate|induced IL-3-associate|induced
+CD11c	CSF-1	24743235	 CD11c+ cells induced by IL-3 or IL-3/CSF-1 were competent in cellular maturation and endocytosis.	7	induced
+CD11c	CSF-1	24743235	 Collectively, these findings reveal a role for CSF-1 in mediating the IL-3 hematopoietic pathway through monopoiesis, which regulates expansion of CD11c+ macrophages.	10	regulates
+CD11c	IL-3	24743235	IL-3 and CSF-1 interact to promote generation of CD11c+ IL-10-producing macrophages.	1	interact|promote interact|promote
+CD11c	IL-3	24743235			
+CD11c	IL-3	24743235			
+CD11c	IL-3	24743235	 CD11c+ cells induced by IL-3 or IL-3/CSF-1 were competent in cellular maturation and endocytosis.	7	induced induced
+CD11c	IL-3	24743235	 Collectively, these findings reveal a role for CSF-1 in mediating the IL-3 hematopoietic pathway through monopoiesis, which regulates expansion of CD11c+ macrophages.	10	regulates
+CSF-1	IL-3	24743235			
+CSF-1	IL-3	24743235			
+CSF-1	IL-3	24743235			
+CSF-1	IL-3	24743235	 CSF-1 significantly promoted IL-3-driven CD11c+ cell expansion and dampened basophil and mast cell generation from C57BL/6 bone marrow.	5	promoted
+CSF-1	IL-3	24743235			
+CSF-1	IL-3	24743235			
+CSF-1	IL-3	24743235			
+CSF-1	IL-3	24743235			
+c-Fos	CSF-1	24743235	 Further studies indicated that the CSF-1 CSF-1R axis contributed significantly to IL-3-induced CD11c+ cell generation through enhancing c-Fos associated monopoiesis.	6	IL-3-associate|induced IL-3-associate|induced
+c-Fos	CSF-1R	24743235	 Further studies indicated that the CSF-1 CSF-1R axis contributed significantly to IL-3-induced CD11c+ cell generation through enhancing c-Fos associated monopoiesis.	6	IL-3-associate|induced
+CD11c	c-Fos	24743235			
+Ala204Asp	Ala539Thr	25054547			
+Ala204Asp	Asp70Gly	25054547			
+Ala539Thr	Asp70Gly	25054547			
+Ala539Thr	Asp70Gly	25054547			
+Ala539Thr	Val204Asp	25054547			
+Asp70Gly	Val204Asp	25054547			
+Ala204Asp	Val204Asp	25054547			
+PRAS40	raptor	25218136	 The binding of mTOR, PRAS40 and RagC to raptor did not differ for control and septic muscle in the basal condition; however, the Leu-induced decrease in PRAS40 raptor and increase in RagC raptor seen in control muscle was absent in sepsis.	8	Leu-bind|decrease|increase|induced Leu-bind|decrease|increase|induced Leu-bind|decrease|increase|induced bind|decrease|increase|induce bind|decrease|increase|induce bind|decrease|increase|induce bind|decrease|increase|induce bind|decrease|increase|induce
+RagA-D	raptor	25218136			
+RagC	raptor	25218136	 The binding of mTOR, PRAS40 and RagC to raptor did not differ for control and septic muscle in the basal condition; however, the Leu-induced decrease in PRAS40 raptor and increase in RagC raptor seen in control muscle was absent in sepsis.	8	Leu-bind|decrease|increase|induced Leu-bind|decrease|increase|induced Leu-bind|decrease|increase|induced bind|decrease|increase|induce bind|decrease|increase|induce bind|decrease|increase|induce bind|decrease|increase|induce bind|decrease|increase|induce bind|decrease|increase|induce
+RagC	raptor	25218136			
+PRAS40	RagA-D	25218136			
+Bcl2	CD25	25263533	 In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2.	4	increase|regulated upincrease|regulated
+Bcl6	IL-2	25263533	 While IL-2 suppresses early Tfh-cell differentiation, Tfh-cell recognition of antigen-presenting B cells and signaling through the T-cell receptor likely triggers expression of the high-affinity IL-2 receptor and responses to IL-2 including downregulation of Bcl6.	6	suppress|triggeres suppress|triggers
+Bcl6	T-cell receptor	25263533	 While IL-2 suppresses early Tfh-cell differentiation, Tfh-cell recognition of antigen-presenting B cells and signaling through the T-cell receptor likely triggers expression of the high-affinity IL-2 receptor and responses to IL-2 including downregulation of Bcl6.	6	suppress|triggers
+CD25	CD45RO	25263533	 Conjugates formed with CD25(+) BCl6(low) Tfh cells included B cells expressing higher levels of activation-induced cytidine deaminase (AID), memory marker CD45RO, surface IgG or IgA, and MHC class II compared to B-cell conjugates including CD25(-) Bcl6(hi) Tfh cells.	5	activation-induced
+CD25	ICOS	25263533	 In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2.	4	increase|regulated
+CD25	IL-2	25263533	 In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2.	4	increase|regulated upincrease|regulated
+CD25	IL-2	25263533			
+CD25	IL-21	25263533	 In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2.	4	increase|regulated upincrease|regulated
+CD25	IgA	25263533	 Conjugates formed with CD25(+) BCl6(low) Tfh cells included B cells expressing higher levels of activation-induced cytidine deaminase (AID), memory marker CD45RO, surface IgG or IgA, and MHC class II compared to B-cell conjugates including CD25(-) Bcl6(hi) Tfh cells.	5	activation-induced
+CD25	IgG	25263533	 Conjugates formed with CD25(+) BCl6(low) Tfh cells included B cells expressing higher levels of activation-induced cytidine deaminase (AID), memory marker CD45RO, surface IgG or IgA, and MHC class II compared to B-cell conjugates including CD25(-) Bcl6(hi) Tfh cells.	5	activation-induced
+CD25	MHC class II	25263533	 Conjugates formed with CD25(+) BCl6(low) Tfh cells included B cells expressing higher levels of activation-induced cytidine deaminase (AID), memory marker CD45RO, surface IgG or IgA, and MHC class II compared to B-cell conjugates including CD25(-) Bcl6(hi) Tfh cells.	5	activation-induced
+CD25	OX40	25263533	 In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2.	4	increase|regulated
+CD25	cMaf	25263533	 In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2.	4	increase|regulated upincrease|regulated
+IL-2 receptor	T-cell receptor	25263533	 While IL-2 suppresses early Tfh-cell differentiation, Tfh-cell recognition of antigen-presenting B cells and signaling through the T-cell receptor likely triggers expression of the high-affinity IL-2 receptor and responses to IL-2 including downregulation of Bcl6.	6	suppress|triggers
+IL-2	T-cell receptor	25263533	 While IL-2 suppresses early Tfh-cell differentiation, Tfh-cell recognition of antigen-presenting B cells and signaling through the T-cell receptor likely triggers expression of the high-affinity IL-2 receptor and responses to IL-2 including downregulation of Bcl6.	6	suppress|triggeres suppress|triggers suppress|triggers
+cMaf	IL-2	25263533	 In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2.	4	increase|regulated upincrease|regulated
+Bcl2	Bcl6	25263533			
+FoxP3	VPAC2	25305591	 Moreover, the abundance and proliferative index of lymph node, thymus and CNS CD4 CD25 FoxP3 Tregs were strikingly reduced in VPAC2 deficient mice with EAE.	6	reduced
+Cdkn2a	Sag	25622904			
+Cdkn2a	Sag	25622904			
+Fbxw7	Jun-B	25622904			
+Jun-B	p16	25622904			
+p16	Sag	25622904	 Sag inactivation by genetic deletion remarkably suppresses cell proliferation by inducing senescence, which is associated with accumulation of p16, but not p53.	4	associate|suppresses associate|suppressd
+p16	Sag	25622904			
+p16	Sag	25622904			
+p16	Sag	25622904	 Finally, we found that Sag deletion inactivates Kras(G12D) activity and block the MAPK signaling pathway, together with accumulated p16, to induce senescence.	8	inactivate|block|induces activate|block|induce
+Cdkn2a	Fbxw7	25622904			
+P38	TIPE2	25946186	 TIPE2 inhibited the phosphorylation of Akt, while promoting the phosphorylation of P38, but had no effect on IkBa and ERK pathway.	10	inhibited
+P38	TIPE2	25946186	 Taken together, TIPE2 promoted lung cancer cell apoptosis through affecting apoptosis-related molecules caspase-3, caspase-9, Bcl-2 and Bax, possibly via regulating P38 and Akt pathways, indicating that TIPE2 might be a novel marker for lung cancer diagnosis and therapy.	11	promote|related apoptosis-promote|related
+caspase-9	TIPE2	25946186			
+caspase-9	TIPE2	25946186	 Taken together, TIPE2 promoted lung cancer cell apoptosis through affecting apoptosis-related molecules caspase-3, caspase-9, Bcl-2 and Bax, possibly via regulating P38 and Akt pathways, indicating that TIPE2 might be a novel marker for lung cancer diagnosis and therapy.	11	promote|related apoptosis-promote|related
+P38	caspase-9	25946186			
+CCK1-receptor	PAK2	25979836			
+CCK	PAK2	25979836	 PAK2 was activated by some pancreatic growth-factors [EGF, PDGF, bFGF], by secretagogues activating phospholipase-C (PLC) [CCK, carbachol, bombesin] and by post-receptor stimulants activating PKC [TPA], but not agents only mobilizing cellular calcium or increasing cyclic AMP.	6	activated
+CCK	PAK2	25979836			
+CCK	PAK2	25979836	 IPA-3, which prevents PAK2 binding to small-GTPases partially inhibited PAK2-activation, as well as reduced CCK-induced ERK1/2 activation and amylase release induced by CCK or bombesin.	9	bind|induce|inhibit|prevent|reduce|releaseing bind|induce|inhibit|prevent|reduce|releaseing bind|induce|inhibit|prevent|reduce|releaseed bind|induce|inhibit|prevent|reduce|releaseed bind|induce|inhibit|prevent|reduce|released bind|induce|inhibit|prevent|reduce|released bind|induce|inhibit|prevent|reduce|released bind|induce|inhibit|prevent|reduce|released CCK-bind|induce|inhibit|prevent|reduce|released CCK-bind|induce|inhibit|prevent|reduce|released bind|induce|inhibit|prevent|reduce|release bind|induce|inhibit|prevent|reduce|release bind|induce|inhibit|prevent|reduce|released bind|induce|inhibit|prevent|reduce|released
+CCK	PAK2	25979836	 CCK and other GI-hormones/neurotransmitters/growth-factors activate PAK2 via small GTPases (CDC42/Rac1), PKC and SFK but not cytosolic calcium or PI3K.	11	activate
+CCK	PAK2	25979836			
+CCK	PKC	25979836			
+CCK	PKC	25979836	 CCK and other GI-hormones/neurotransmitters/growth-factors activate PAK2 via small GTPases (CDC42/Rac1), PKC and SFK but not cytosolic calcium or PI3K.	11	activate
+CCK	PKC	25979836			
+CCK	PLC	25979836			
+CCK	PLC	25979836			
+CCK	SFK	25979836	 CCK and other GI-hormones/neurotransmitters/growth-factors activate PAK2 via small GTPases (CDC42/Rac1), PKC and SFK but not cytosolic calcium or PI3K.	11	activate
+CCK	small-GTPase	25979836			
+PAK2	PKC	25979836	 PAK2 was activated by some pancreatic growth-factors [EGF, PDGF, bFGF], by secretagogues activating phospholipase-C (PLC) [CCK, carbachol, bombesin] and by post-receptor stimulants activating PKC [TPA], but not agents only mobilizing cellular calcium or increasing cyclic AMP.	6	activated
+PAK2	PKC	25979836			
+PAK2	PKC	25979836			
+PAK2	PLC	25979836	 PAK2 was activated by some pancreatic growth-factors [EGF, PDGF, bFGF], by secretagogues activating phospholipase-C (PLC) [CCK, carbachol, bombesin] and by post-receptor stimulants activating PKC [TPA], but not agents only mobilizing cellular calcium or increasing cyclic AMP.	6	activated
+PAK2	PLC	25979836			
+PAK2	SFK	25979836			
+PAK2	small-GTPase	25979836			
+amylase	CCK	25979836	 IPA-3, which prevents PAK2 binding to small-GTPases partially inhibited PAK2-activation, as well as reduced CCK-induced ERK1/2 activation and amylase release induced by CCK or bombesin.	9	bind|induce|inhibit|prevent|reduce|release bind|induce|inhibit|prevent|reduce|released
+CCK1-receptor	CCK	25979836			
+LDHA	MMP-9	25983002			
+LDHA	PLAU	25983002			
+MMP-9	PLAU	25983002			
+autotaxin	GPCR	26027517			
+autotaxin	GPCR	26027517			
+gamma-H2AX	LPA1    '3	26027517			
+autotaxin	gamma-H2AX	26027517			
+Androgen Receptor	Melanophilin	26411452			
+ERG	TMPRSS2	26411452			
+Androgen Receptor	ERG	26411452			
+cIAP1	Smac	27014915	 A sublethal dose of Smac mimetic BV6 induces cIAP1 and cIAP2 degradation to increase tumor cell sensitivity to radiation-induced cell death in vitro and to enhance radiation-mediated suppression of STS xenografts in vivo.	6	enhance|increase|induce|suppresss
+cIAP2	Smac	27014915	 A sublethal dose of Smac mimetic BV6 induces cIAP1 and cIAP2 degradation to increase tumor cell sensitivity to radiation-induced cell death in vitro and to enhance radiation-mediated suppression of STS xenografts in vivo.	6	enhance|increase|induce|suppresss
+cIAP1	cIAP2	27014915			
+CD133	N1ICD	27084744	 CD133(+)ACC cells produced activated NOTCH1 (N1ICD) and generated CD133(-)cells that expressed JAG1 as well as neural differentiation factors NR2F1, NR2F2, and p27Kip1.	6	activated
+CD133	N1ICD	27084744	 A g-secretase inhibitor, DAPT, selectively depleted CD133 cells, suppressed N1ICD and SKP2, induced p27Kip1, inhibited ACC growthin vivo, and sensitized CD133 cells to radiation.	10	induce|inhibit|suppressed induce|inhibit|suppressd induce|inhibit|suppressed
+CD133	NOTCH1	27084744			
+CD133	NOTCH1	27084744	 CD133(+)ACC cells produced activated NOTCH1 (N1ICD) and generated CD133(-)cells that expressed JAG1 as well as neural differentiation factors NR2F1, NR2F2, and p27Kip1.	6	activated
+CD133	NOTCH1	27084744			
+CD133	SOX10	27084744			
+CD133	SOX10	27084744			
+CD133	g-secretase	27084744	 A g-secretase inhibitor, DAPT, selectively depleted CD133 cells, suppressed N1ICD and SKP2, induced p27Kip1, inhibited ACC growthin vivo, and sensitized CD133 cells to radiation.	10	induce|inhibit|suppressor, induce|inhibit|suppressor, induce|inhibit|suppressed induce|inhibit|suppressd induce|inhibit|suppressed
+g-secretase	N1ICD	27084744	 A g-secretase inhibitor, DAPT, selectively depleted CD133 cells, suppressed N1ICD and SKP2, induced p27Kip1, inhibited ACC growthin vivo, and sensitized CD133 cells to radiation.	10	induce|inhibit|suppressor, induce|inhibit|suppressed
+g-secretase	SKP2	27084744	 A g-secretase inhibitor, DAPT, selectively depleted CD133 cells, suppressed N1ICD and SKP2, induced p27Kip1, inhibited ACC growthin vivo, and sensitized CD133 cells to radiation.	10	induce|inhibit|suppressor, induce|inhibit|suppressed
+CD133	SKP2	27084744	 A g-secretase inhibitor, DAPT, selectively depleted CD133 cells, suppressed N1ICD and SKP2, induced p27Kip1, inhibited ACC growthin vivo, and sensitized CD133 cells to radiation.	10	induce|inhibit|suppressed induce|inhibit|suppressd induce|inhibit|suppressed
+HIF1a	MCT4	27134166	 The glucose and lactate transporters GLUT1 and MCT4 are induced in distal hypoxic cells in a HIF1a dependent fashion, indicative of glycolysis.	4	induced
+HIF-1alpha	Hsp90beta	27248656			
+HIF-1alpha	Hsp90beta	27248656	 Meanwhile, Co-IP results demonstrated that Hsp90beta could interact with and stabilize TAK1, AMPKalpha, IKKalpha/beta, HIF-1alpha and Raptor, whereas Hsp90beta inhibition disrupted this process.	9	inhibit|interact
+Hsp90beta	IKKalpha/beta	27248656	 Meanwhile, Co-IP results demonstrated that Hsp90beta could interact with and stabilize TAK1, AMPKalpha, IKKalpha/beta, HIF-1alpha and Raptor, whereas Hsp90beta inhibition disrupted this process.	9	inhibit|interact
+Hsp90beta	Raptor	27248656	 Meanwhile, Co-IP results demonstrated that Hsp90beta could interact with and stabilize TAK1, AMPKalpha, IKKalpha/beta, HIF-1alpha and Raptor, whereas Hsp90beta inhibition disrupted this process.	9	inhibit|interact
+Hsp90beta	TAK1	27248656	 Meanwhile, Co-IP results demonstrated that Hsp90beta could interact with and stabilize TAK1, AMPKalpha, IKKalpha/beta, HIF-1alpha and Raptor, whereas Hsp90beta inhibition disrupted this process.	9	inhibit|interact
+Hsp90beta	p38	27248656	 Next, we found that Hsp90beta might play the key role in non-pressure-related effects of salt loading through a series of cellular signalling events, including the NF-kappaB, p38 activation and Bcl-2 inactivation.	6	non-pressure-related
+Hsp90beta	p38	27248656	 In our study, 17-dimethylaminoethylamino-17-demethoxygeldanamycin (17-DMAG) or Hsp90beta knockdown dramatically alleviated the high-salt-diet-induced proteinuria and renal damage without altering blood pressure significantly, when it reversed activations of NF-kappaB, mTOR and p38 signalling cascades.	8	high-salt-diet-induced
+HIF-1alpha	IKKalpha/beta	27248656			
+Epo-R	LYN	27640183			
+Epo-R	p38MAPK	27640183			
+Epo-R	p70s6k	27640183			
+LYN	p38MAPK	27640183			
+IL-1b	PRMT5	27860244	 In RA FLSs, the level of PRMT5 was up-regulated by stimulation with IL-1b and TNF-a.	10	up-regulated
+NF-kB	PRMT5	27860244	 PRMT5 regulated the production of inflammatory factors, cell proliferation, migration and invasion of RA FLS, which was mediated by the NF-kB and AKT pathways.	14	regulated
+IL-1b	NF-kB	27860244			
+BBSome	GTPase	27930654			
+BBSome	GTPase	27930654	 Collectively, our findings present a new approach for identifying ciliary proteins, and unveil RAB28, a GTPase most closely related to the BBS protein RABL4/IFT27, as an IFT-associated cargo with BBSome-dependent cell autonomous and non-autonomous functions at the ciliary base.	11	associate|related IFT-associate|related
+BBSome	RAB-28	27930654			
+BBSome	RAB-28	27930654	 Whereas inactive GDP-bound RAB-28 displays no IFT movement and diffuse localisation, GTP-bound (activated) RAB-28 concentrates at the periciliary membrane in a BBSome-dependent manner and undergoes bidirectional IFT.	9	(activated)
+GTPase	RAB-28	27930654			
+GTPase	RAB-28	27930654	 Further analyses of C. elegans RAB-28, recently associated with autosomal-recessive cone-rod dystrophy, reveal that this small GTPase is exclusively expressed in ciliated neurons where it dynamically associates with IFT trains.	8	associated
+Bach1	glutathione peroxidase 1	27959382	 Furthermore, the MLFs infected with Bach1 siRNA exhibited increased mRNA and protein expression levels of heme oxygenase-1 and glutathione peroxidase 1, but decreased levels of TGF-b1 and interleukin-6 in the cell supernatants compared with the cells exposed to TGF-b1 alone.	9	decrease|increased
+Bach1	heme oxygenase-1	27959382	 Furthermore, the MLFs infected with Bach1 siRNA exhibited increased mRNA and protein expression levels of heme oxygenase-1 and glutathione peroxidase 1, but decreased levels of TGF-b1 and interleukin-6 in the cell supernatants compared with the cells exposed to TGF-b1 alone.	9	decrease|increased
+Bach1	interleukin-6	27959382	 Furthermore, the MLFs infected with Bach1 siRNA exhibited increased mRNA and protein expression levels of heme oxygenase-1 and glutathione peroxidase 1, but decreased levels of TGF-b1 and interleukin-6 in the cell supernatants compared with the cells exposed to TGF-b1 alone.	9	decrease|increased decrease|increased
+Bach1	transforming growth factor (TGF)-b1	27959382			
+antioxidant factors	Bach1	27959382	 Bach1 knockdown by siRNA also enhanced the expression of antioxidant factors, but suppressed that of fibrosis-related cytokines in mice compared with the BLM group.	10	enhance|relate|suppressd
+Bach1	antioxidant factor	27959382			
+interferon-g	Toll-like receptor 4	28075473			
+interleukin-17	Toll-like receptor 4	28075473			
+interleukin-23	Toll-like receptor 4	28075473			
+interferon-g	interleukin-17	28075473			
+Akt	BDNF	28098423	 Investigations of the underlying mechanisms revealed that BDNF activated Akt and preserved phosphorylation of mammalian target of rapamycin and Bad without affecting p38 mitogen-activated protein kinase and extracellular regulated protein kinase pathways.	11	activate|regulated
+Akt	BDNF	28098423	 Furthermore, the beneficial effect of BDNF was abolished by BDNF scavenger TrkB-Fc or Akt inhibitor.	12	abolish|inhibited
+Akt	BDNF	28098423	 In conclusion, our findings reveal a potent protective role of BDNF against Dox-induced cardiotoxicity by activating Akt signalling, which may facilitate the safe use of Dox in cancer treatment.	13	Dox-facilitate|induced
+Akt	Brain-derived neurotrophic factor	28098423	Brain-derived neurotrophic factor attenuates doxorubicin-induced cardiac dysfunction through activating Akt signalling in rats.	1	attenuate|induces doxorubicin-attenuate|induced
+BDNF	TrkB	28098423	 Protein level of BDNF was reduced in Dox-treated rat ventricles, whereas BDNF and its receptor tropomyosin-related kinase B (TrkB) were markedly up-regulated after BDNF administration.	8	reduce|regulate|related tropomyosin-reduce|regulate|related tropomyosin-reduce|regulate|related up-reduce|regulate|related
+BDNF	TrkB	28098423	 Furthermore, the beneficial effect of BDNF was abolished by BDNF scavenger TrkB-Fc or Akt inhibitor.	12	abolish|inhibited
+BDNF	mammalian target of rapamycin	28098423	 Investigations of the underlying mechanisms revealed that BDNF activated Akt and preserved phosphorylation of mammalian target of rapamycin and Bad without affecting p38 mitogen-activated protein kinase and extracellular regulated protein kinase pathways.	11	activate|regulated
+Bad	BDNF	28098423	 Investigations of the underlying mechanisms revealed that BDNF activated Akt and preserved phosphorylation of mammalian target of rapamycin and Bad without affecting p38 mitogen-activated protein kinase and extracellular regulated protein kinase pathways.	11	activate|regulated
+Akt	Bad	28098423			
+MMP-2	NEK2	28101574			
+MMP-2	NEK2	28101574			
+MMP-2	NEK2	28101574	 NEK2 expression was positively correlated with the expression of phospho-AKT (r=0.883, P<0.01) and MMP-2 (r=0.781, P<0.01).	13	correlated
+MMP-2	NEK2	28101574			
+ADAM12	claudin	28148288	Metalloprotease-disintegrin ADAM12 actively promotes the stem cell-like phenotype in claudin-low breast cancer.	1	promotes
+ADAM12	claudin	28148288	 ADAM12 is induced during epithelial-to-mesenchymal transition, a feature associated with claudin-low breast tumors, which are enriched in cancer stem cell (CSC) markers.	3	associate|induced associate|induced
+ADAM12	claudin	28148288	 METHODS: ADAM12 expression was downregulated in representative claudin-low breast cancer cell lines, SUM159PT and Hs578T, using siRNA transfection or inducible shRNA expression.	5	downregulated
+ADAM12	claudin	28148288			
+Bax	TIEG1	28204828			
+Bcl-2	TIEG1	28204828			
+Pten	TIEG1	28204828	TIEG1 deficiency confers enhanced myocardial protection in the infarcted heart by mediating the Pten/Akt signalling pathway.	1	enhanced
+Pten	TIEG1	28204828			
+Pten	TIEG1	28204828			
+Bax	Bcl-2	28204828			
+IGF-1R	PI3K	28260056	 Furthermore, IGF-1R is related with PI3K/Akt/mTOR signaling pathway and enhanced autophagy-associated protein expression, which was verified following treatment with the PI3K inhibitor LY294002.	12	associate|enhance|inhibit|related associate|enhance|inhibit|related associate|enhance|inhibit|related autophagy-associate|enhance|inhibit|related
+IGF-1R	PI3K	28260056	 These results indicated that IGF-1R may increase cell viability under hypoxic conditions by promoting autophagy and scavenging ROS production, which is closed with PI3K/Akt/mTOR signaling pathway.	13	increase
+Insulin-like growth factor 1 receptor	PI3K	28260056	Insulin-like growth factor 1 receptor mediated cell survival in hypoxia depends on the promotion of autophagy via suppression of the PI3K Akt mTOR signaling pathway.	1	suppression
+IGF-1R	Insulin-like growth factor 1 receptor	28260056			
+LKB1	VEGF receptor 2	28346429	 Re-expression of LKB1 or knockdown of VEGF receptor 2 decreased the overproliferation and -migration observed in LKB1(endo-/-) cells.	11	decreased
+FGFR2	SOX2	28348168	 We show that FGFR2 signalling correlates with maintenance of expression of a key transcription factor for basal cell self-renewal and differentiation: SOX2.	5	correlates
+B-cell receptor	Myc	28368423	Myc enhances B-cell receptor signaling in precancerous B cells and confers resistance to Btk inhibition.	1	enhance|inhibits
+B-cell receptor	Myc	28368423			
+BCR	MYC	28368423			
+BCR	MYC	28368423	 Therefore, our results indicate that precancerous B cells have already acquired enhanced survival and growth capabilities before transformation, and that elevated MYC levels confer resistance to pharmacologic inhibitors of BCR signaling, which has significant implications for B-NHL treatment.	12	elevate|enhance|inhibitors
+BCR	Myc	28368423			
+BCR	Myc	28368423			
+BCR	Myc	28368423	 Utilizing the Eu-myc mouse model, where Myc is overexpressed specifically in B cells, both basal and stimulated BCR signaling were increased in precancerous B lymphocytes from Eu-myc mice compared with wild-type littermates.	6	increase|stimulated
+BCR	Myc	28368423	 Notably, Myc-overexpressing B cells maintained elevated BCR signaling despite treatment with ibrutinib, a Bruton's tyrosine kinase inhibitor.	8	elevate|inhibitd
+BCR	Myc	28368423	 Our data show that in pre-malignant B cells, Myc overexpression is sufficient to activate BCR and PI3K/Akt signaling pathways and further enhances signaling following BCR ligation.	11	activate|enhance activate|enhance activate|enhances
+Btk	Myc	28368423	Myc enhances B-cell receptor signaling in precancerous B cells and confers resistance to Btk inhibition.	1	enhance|inhibits
+Btk	Myc	28368423	 B cells overexpressing Myc displayed constitutively higher levels of activated CD79a, Btk, Plcg2 and Erk1/2.	7	activated
+CD79a	Myc	28368423	 B cells overexpressing Myc displayed constitutively higher levels of activated CD79a, Btk, Plcg2 and Erk1/2.	7	activated
+Myc	Plcg2	28368423	 B cells overexpressing Myc displayed constitutively higher levels of activated CD79a, Btk, Plcg2 and Erk1/2.	7	activated
+B-cell receptor	BCR	28368423			
+JAK	STAT	28368537			
+LIF	Lifr	28368537			
+LIF	Msx1	28368537	 The loss of Lifr results in both the failure for STAT3 to translocate to the LE nuclei and a reduction in the expression of the LIF regulated gene Msx1 that regulates uterine receptivity.	12	regulated
+Lifr	Ltf	28368537			
+Lifr	Ltf	28368537			
+Lifr	Msx1	28368537	 The loss of Lifr results in both the failure for STAT3 to translocate to the LE nuclei and a reduction in the expression of the LIF regulated gene Msx1 that regulates uterine receptivity.	12	regulated
+JAK	LIF	28368537			
+hippocalcin	N-type voltage-gated calcium channels	28398555			
+hippocalcin	voltage-gated calcium channels	28398555	 Using a multidisciplinary approach, we demonstrated that hippocalcin oligomerises in a calcium-dependent manner and binds to voltage-gated calcium channels.	5	binds
+hippocalcin	voltage-gated calcium channels	28398555			
+N-type voltage-gated calcium channels	voltage-gated calcium channels	28398555			
+Iba1	TSPO	28416580	 TSPO was up-regulated in Iba1(+) cells from brains of patients with ICH and in CD11b(+)CD45(int) cells from mice subjected to collagenase-induced ICH.	6	up-induce|regulated
+EP4	Rap1/Rac1 GTPase	28428256			
+EP4	protein kinase A	28428256			
+Rap1/Rac1 GTPase	protein kinase A	28428256			
+caveolin-1	Smad	28468941			
+caveolin-1	Smad	28468941			
+ABCA4	UCHL1	28472177			
+ACTA2	UCHL1	28472177			
+ALK	UCHL1	28472177			
+AQP3	UCHL1	28472177			
+AQP4	UCHL1	28472177			
+Beta catenin	UCHL1	28472177	 Aberrant expression of UCHL1 in pediatric high-grade gliomas may promote cell invasion, transformation, and self-renewal properties, at least in part, by modulating Wnt Beta catenin activity.	11	promote
+CALB1	UCHL1	28472177			
+FBXL7	UCHL1	28472177			
+FBXW11	UCHL1	28472177			
+FGF2	UCHL1	28472177			
+GDF15	UCHL1	28472177			
+HEY2	UCHL1	28472177			
+IGLL5	UCHL1	28472177			
+LIF	UCHL1	28472177			
+PDGFB	UCHL1	28472177			
+POSTN	UCHL1	28472177			
+UCHL1	Wnt	28472177			
+UCHL1	Wnt	28472177	 Aberrant expression of UCHL1 in pediatric high-grade gliomas may promote cell invasion, transformation, and self-renewal properties, at least in part, by modulating Wnt Beta catenin activity.	11	promote
+ABCA4	ACTA2	28472177			
+ghrelin	glucagon	28487437			
+ghrelin	glucagon	28487437	 Here, we tested the hypothesis that ghrelin rises to prevent hypoglycemia in the absence of glucagon function.	5	prevent
+ghrelin	glucagon	28487437	 These data suggest that when glucagon activity is blocked in the setting of type 1 diabetes, the plasma ghrelin level rises, preventing hypoglycemia.	10	block|prevented
+ESCRT-III	Vps4	28604678	Dynamic subunit turnover in ESCRT-III assemblies is regulated by Vps4 to mediate membrane remodelling during cytokinesis.	1	regulated
+ESCRT-III	Vps4	28604678	 In vitro, the Vps2/Vps24 subunits of ESCRT-III formed side-by-side filaments with Snf7 and inhibited further polymerization, but the growth inhibition was alleviated by the addition of Vps4 and ATP.	6	inhibited inhibition
+ESCRT-III	Vps4	28604678			
+ESCRT-III	endosomal sorting complex required for transport (ESCRT)-III	28604678			
+AT1a	F4/80	28660748			
+AT1a	collagen	28660748			
+angiotensin	renin	28660748			
+AT1a	angiotensin	28660748			
+CASP-7	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+CASP-9	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+CDK2	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+CDK8	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+CHEK1	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+CHEK2	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+DFF-45	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+GSK-3 beta	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+MAPK8	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+NPM	refp17	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulate, inhibit|modulateion inhibit|modulateion
+refp17	PAK1	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+refp17	PAX2	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+refp17	PP2C-alpha	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+refp17	Src	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+refp17	YWHAZ	28747658	 Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN PI3K Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha).	4	inhibit|modulate, inhibit|modulateion
+CASP-7	CASP-9	28747658			
+Bmi1	Gankyrin	28777492	 Gankyrin deficiency in non-parenchymal cells, but not in parenchymal cells, reduced STAT3 activity, interleukin (IL)-6 production, and cancer stem cell marker (Bmi1 and epithelial cell adhesion molecule [EpCAM]) expression, leading to attenuated tumorigenic potential.	8	attenuate|reduced
+Gankyrin	interleukin (IL)-6	28777492			
+Bmi1	interleukin (IL)-6	28777492			
+BCL11A	HbF	28851297			
+HbF	MYB	28851297			
+BCL11A	MYB	28851297			
+BICD2	dynactin	28883039	Disease-associated mutations in human BICD2 hyperactivate motility of dynein-dynactin.	1	hyperactivate|associate
+BICD2	dynactin	28883039	 Bicaudal D2 (BICD2) joins dynein with dynactin into a ternary complex (termed DDB) capable of processive movement.	2	complex|joins
+BICD2	dynactin	28883039	 Rab6a-GTP, either in solution or bound to artificial liposomes, released BICD2 from an autoinhibited state and promoted robust dynein-dynactin transport.	5	autoinhibit|promote|releaseed inhibit|promote|released
+BICD2	dynein	28883039	Disease-associated mutations in human BICD2 hyperactivate motility of dynein-dynactin.	1	hyperactivate|associate
+BICD2	dynein	28883039	 Bicaudal D2 (BICD2) joins dynein with dynactin into a ternary complex (termed DDB) capable of processive movement.	2	complex|joins
+BICD2	dynein	28883039	 Rab6a-GTP, either in solution or bound to artificial liposomes, released BICD2 from an autoinhibited state and promoted robust dynein-dynactin transport.	5	autoinhibit|promote|releaseed inhibit|promote|released
+dynactin	dynein	28883039			
+dynactin	dynein	28883039			
+dynactin	dynein	28883039			
+BNIP3	HIF-1a	29045486			
+HIF-1a	MCP1	29045486			
+HIF-1a	Nix	29045486			
+HIF-1a	Noxa	29045486			
+HIF-1a	YC1	29045486	 Pharmacological inhibition of HIF-1a activity using YC1 and thiamine repletion both reduced expression of pro-apoptotic HIF-1a target genes and apoptotic cell death in TD.	11	inhibit|reduced
+BNIP3	MCP1	29045486			
+HEB	Id3	29222418	 HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3.	5	repressed
+HEB	RORgt	29222418			
+HEB	Rorc	29222418	 HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3.	5	repressed
+HEB	Sox13	29222418	 HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3.	5	repressed
+HEB	Sox4	29222418	 HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3.	5	repressed
+HEB	Vg4	29222418	 Additionally, the fetal TCRg chain repertoire is altered, and peripheral Vg4 gd T cells are mostly restricted to the IFNg-producing phenotype in HEB deficient mice.	7	chain|restricted
+Id3	Rorc	29222418	 HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3.	5	repressed
+Id3	Sox13	29222418	 HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3.	5	repressed
+Id3	Sox4	29222418	 HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3.	5	repressed
+Id3	RORgt	29222418			
