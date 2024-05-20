@@ -1,0 +1,3534 @@
+Protein	Synonyms
+A0A5E4M3Q4	A0A5E4M3Q4
+A0A5E4M3Q4	SYD9
+A0A5E4M3Q4	syd-9
+A0A5E4M3Q4	tag-239
+A0A5E4M3Q4	ztf-10
+A0A5E4M3Q4	ZK867.1
+A0A5E4M3Q4	Zinc finger syd-9
+A0A5E4M3Q4	Synapse defective 9
+B1Q236	b1Q236
+B1Q236	SYG1
+B1Q236	syg-1
+B1Q236	K02E10.8
+B1Q236	Synaptogenesis syg-1
+B1Q236	Synaptogenesis abnormal 1
+B6VQ60	b6VQ60
+B6VQ60	bRCA1
+B6VQ60	brc-1
+B6VQ60	C36A4.8
+B6VQ60	breast cancer type 1 susceptibility
+B6VQ60	RING-type E3 ubiquitin transferase bRCA1
+B7WN72	b7WN72
+B7WN72	SHANK
+B7WN72	shn-1
+B7WN72	C33b4.3
+B7WN72	shank
+C6KRN1	C6KRN1
+C6KRN1	SAO1
+C6KRN1	sao-1
+C6KRN1	R10D12.14
+C6KRN1	Suppressor of aph-1
+D0VWM8	D0VWM8
+D0VWM8	TADbP
+D0VWM8	tdp-1
+D0VWM8	F44G4.4
+D0VWM8	Tar DNA-binding 1
+D9PTN5	D9PTN5
+D9PTN5	MYRF2
+D9PTN5	myrf-2
+D9PTN5	F21A10.2
+D9PTN5	Myelin regulatory factor 2
+D9PTN5	"Cleaved into: Myelin regulatory factor 2, N-terminal"
+D9PTN5	"Myelin regulatory factor 2, C-terminal"
+E7EM37	E7EM37
+E7EM37	DOPR2
+E7EM37	dop-2
+E7EM37	dop-2L
+E7EM37	K09G1.4
+E7EM37	Dopamine receptor 2
+E7EM37	Dopamine D2-like receptor dop-2
+G5EBV0	G5EbV0
+G5EBV0	EGL9
+G5EBV0	egl-9
+G5EBV0	F22E12.4
+G5EBV0	Hypoxia-inducible factor prolyl hydroxylase
+G5EBV0	HIF-PH
+G5EBV0	EC 1.14.11.29
+G5EBV0	Egg-laying defective 9
+G5EBV0	Hypoxia-inducible factor-proline dioxygenase
+G5EBV6	G5EbV6
+G5EBV6	PGL3
+G5EBV6	pgl-3
+G5EBV6	C18G1.4
+G5EBV6	Guanyl-specific ribonuclease pgl-3
+G5EBV6	P granule abnormality 3
+G5EBZ4	G5EbZ4
+G5EBZ4	LE418
+G5EBZ4	let-418
+G5EBZ4	evl-11
+G5EBZ4	F26F12.7
+G5EBZ4	Lethal 418
+G5EC23	G5EC23
+G5EC23	HCF1
+G5EC23	hcf-1
+G5EC23	C46A5.9
+G5EC23	Host cell factor hcf-1
+G5EC23	HCF
+D3YT50	D3YT50
+D3YT50	Deacetylase sirtuin-type domain-containing
+G5EC32	G5EC32
+G5EC32	SRbS1
+G5EC32	sorb-1
+G5EC32	Y45F10D.13
+G5EC32	Sorbin
+G5EC32	SH3 domain-containing 1
+B1Q247	b1Q247
+B1Q247	Extensin-like
+G5EC36	G5EC36
+G5EC36	LIM7
+G5EC36	lim-7
+G5EC36	C04F1.3
+G5EC36	homeobox lim-7
+G5EC36	LIM
+G5EC37	G5EC37
+G5EC37	SEPA1
+G5EC37	sepa-1
+G5EC37	M01E5.6
+G5EC37	Suppressor of ectopic P granules in autophagy
+G5EC44	G5EC44
+G5EC44	MRT2
+G5EC44	mrt-2
+G5EC44	hpr-1
+G5EC44	Y41C4A.14
+G5EC44	Cell cycle checkpoint RAD1 mrt-2
+G5EC44	EC 3.1.11.2
+G5EC86	G5EC86
+G5EC86	MOE1
+G5EC86	oma-1
+G5EC86	moe-1
+G5EC86	C09G9.6
+G5EC86	CCCH-type zinc finger oma-1
+G5EC86	Maturation oocyte expansion 1
+G5EC86	Oocyte maturation defective 1
+G5EC89	G5EC89
+G5EC89	CEH17
+G5EC89	ceh-17
+G5EC89	D1007.1
+G5EC89	Homeobox ceh-17
+G5ECG0	G5ECG0
+G5ECG0	TACC1
+G5ECG0	tac-1
+G5ECG0	2P40
+G5ECG0	Y54E2A.3
+G5ECG0	Transforming acid coiled-coil-containing 1
+G5ECG2	G5ECG2
+G5ECG2	FOS1
+G5ECG2	fos-1
+G5ECG2	evl-5
+G5ECG2	F29G9.4
+G5ECG2	Transcription factor fos-1
+G5ECH5	G5ECH5
+G5ECH5	PP4R1
+G5ECH5	ppfr-1
+G5ECH5	F16A11.3
+G5ECH5	Serine/threonine- phosphatase 4 regulatory subunit 1
+G5ECP4	G5ECP4
+G5ECP4	PIK1
+G5ECP4	pik-1
+G5ECP4	K09b11.1
+G5ECP4	Pelle-like serine/threonine- kinase pik-1
+G5ECU1	G5ECU1
+G5ECU1	SKR1
+G5ECU1	skr-1
+G5ECU1	F46A9.5
+G5EBE5	G5EbE5
+G5EBE5	zip-5
+G5ECW5	G5ECW5
+G5ECW5	CSP3
+G5ECW5	csp-3
+G5ECW5	Y47H9C.6
+G5ECW5	Non-catalytic caspase csp-3
+G5ECY0	G5ECY0
+G5ECY0	DLG1
+G5ECY0	dlg-1
+G5ECY0	Disks large 1
+G5ECY0	MAGUK DLG-1
+G5ECY0	SAP97-like DLG-1
+G5ED39	G5ED39
+G5ED39	`sep1`
+G5ED39	`sep-1`
+G5ED39	Y47G6A.12
+G5ED39	Separin sep-1
+G5ED39	EC 3.4.22.49
+G5ED39	Separase
+G5ED66	G5ED66
+G5ED66	PAX3H
+G5ED66	pax-3
+G5ED66	F27E5.2
+G5ED66	Paired box 3
+G5EDB9	G5EDb9
+G5EDB9	RPGF
+G5EDB9	pxf-1
+G5EDB9	ra-gef
+G5EDB9	T14G10.2
+G5EDB9	Rap guanine nucleotide exchange factor
+G5EDB9	RA-GEF
+G5EDB9	PDZ-domain-containing exchange factor
+G5EBK3	G5EbK3
+G5EBK3	erm-1
+G5EBK3	moesin
+G5EBK3	ezrin
+G5EBK3	radixin 1
+G5EDM4	G5EDM4
+G5EDM7	G5EDM7
+G5EDM7	DAF5
+G5EDM7	daf-5
+G5EDM7	W01G7.1
+G5EDM7	Ski
+G5EDM7	Abnormal dauer formation 5
+G5EDS1	G5EDS1
+G5EDS1	VAb3
+G5EDS1	vab-3
+G5EDS1	mab-18 pax-6
+G5EDS1	F14F3.1
+G5EDS1	Paired box 6
+G5EDS1	Homeobox
+G5EDS1	paired domain-containing vab-3
+G5EDS1	male abnormal 18
+G5EDS1	Variable abnormal morphology 3
+G5EDT1	G5EDT1
+G5EDT1	LIN35
+G5EDT1	lin-35
+G5EDT1	C32F10.2
+G5EDT1	Retinoblastoma-like lin-35
+G5EDT1	Abnormal cell lineage 35
+G5EDT1	Synthetic multivulva lin-35
+G5EDY0	G5EDY0
+G5EDY0	PIKI1
+G5EDY0	piki-1
+G5EDY0	F39b1.1
+G5EDY0	Phosphatidylinositol 3-kinase piki-1
+G5EDY0	Phosphoinositide-3-kinase class 2
+G5EDY0	PI3-kinase class 2
+G5EDY0	PI3K class 2
+G5EE01	G5EE01
+G5EE01	PTEN
+G5EE01	daf-18
+G5EE01	T07A9.6
+G5EE01	"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase"
+G5EE01	dual-specificity phosphatase daf-18
+G5EE01	EC 3.1.3.67
+G5EE01	Abnormal dauer formation 18
+G5EE56	G5EE56
+G5EE56	SRC1
+G5EE56	src-1
+G5EE56	Y92H12A.1
+G5EE56	Tyrosine -kinase src-1
+G5EE56	SRC oncogene related 1
+G5EEG7	G5EEG7
+G5EEG7	SMU1
+G5EEG7	smu-1
+G5EEG7	CC4.3
+G5EEG7	Smu-1 suppressor of mec-8
+G5EEG7	Smu1
+G5EEG7	Unc defects 1
+G5EEH5	G5EEH5
+G5EEH5	MXL1
+G5EEH5	mxl-1
+G5EEH5	T19b10.11
+G5EEH5	Max-like 1
+G5EEM0	G5EEM0
+G5EEM0	NH114
+G5EEM0	nhr-114
+G5EEM0	Y45G5AM.1
+G5EEM0	Nuclear hormone receptor 114
+G5EEN4	G5EEN4
+G5EEN4	GCK3
+G5EEN4	gck-3
+G5EEN4	Y59A8b.23
+G5EEN4	Germinal center kinase 3
+G5EEN4	STE20-like serine/threonine kinase
+G5EFF1	G5EFF1
+G5EFF1	ASD2
+G5EFF1	asd-2
+G5EFF1	let-529 star-2 tag-44
+G5EFF1	T21G5.5
+G5EFF1	RNA-binding asd-2
+G5EFF1	Alternative splicing defective 2
+G5ECJ4	G5ECJ4
+G5ECJ4	mec-8
+G5ECJ4	Mec-8
+G5EFT5	G5EFT5
+G5EFT5	HSF1
+G5EFT5	HSF-1
+G5EFT5	heat shock transcription factor 1
+G5EFV3	G5EFV3
+G5EFV3	RSA2
+G5EFV3	rsa-2
+G5EFV3	Y48A6b.11
+G5EFV3	Regulator of spindle assembly 2
+G5EFV8	G5EFV8
+G5EFV8	VPS52
+G5EFV8	vps-52
+G5EFV8	tag-197
+G5EFV8	F08C6.3
+G5EFV8	Vacuolar sorting-associated 52
+G5EG86	G5EG86
+G5EG86	bRC2
+G5EG86	brc-2
+G5EG86	T07E3.5
+G5EG86	DNA repair brc-2
+G5EGD2	G5EGD2
+G5EGD2	HIF1
+G5EGD2	hif-1
+G5EGD2	F38A6.3
+G5EGD2	Hypoxia-inducible factor 1
+G5EGD2	Hypoxia-induced factor 1
+H2KZB2	H2KZb2
+H2KZB2	ANKL2
+H2KZB2	lem-4
+H2KZB2	lem-4l
+H2KZB2	Y55F3bR.8
+H2KZB2	LEM domain-containing 4-like
+H2KZH5	H2KZH5
+H2KZH5	TOE2
+H2KZH5	toe-2
+H2KZH5	C56E6.3
+H2KZH5	Target of ERK kinase mpk-1
+K8ESC5	K8ESC5
+K8ESC5	Cysteine protease atg-4.1
+G5EE37	G5EE37
+G5EE37	icp-1
+G5EE37	Incenp-like ICP-1
+G5EE37	Inner centromere ARK-binding domain-containing
+O01427	O01427
+O01427	AIR2
+O01427	air-2
+O01427	stu-7
+O01427	b0207.4
+O01427	Aurora/IPL1-related kinase 2
+O01427	Serine/threonine- kinase aurora-b
+O01501	O01501
+O01501	CCNE
+O01501	cye-1
+O01501	C37A2.4
+O01501	G1/S-specific cyclin-E
+O01836	O01836
+O01836	GLH3
+O01836	glh-3
+O01836	b0414.6
+O01836	ATP-dependent RNA helicase glh-3
+O01836	Germline helicase 3
+O01839	O01839
+O01839	VPS51
+O01839	vps-51
+O01839	b0414.8
+O01839	Vacuolar sorting-associated 51
+O01839	fat-free
+O01901	O01901
+O01901	WASC3
+O01901	ddl-1
+O01901	F59E12.10
+O01901	WASH complex subunit 3
+O01901	Daf-16-dependent longevity 1
+O02219	O02219
+O02219	AHA1
+O02219	aha-1
+O02219	C25A1.11
+O02219	Aryl hydrocarbon receptor nuclear translocator
+O02219	ARNT
+O02219	AHR-associated
+G5EFA5	G5EFA5
+G5EFA5	Putative transcription factor C15C8.2
+O02482	O02482
+O02482	UNC37
+O02482	unc-37
+O02482	esg
+O02482	W02D3.9
+O02482	Transcription factor unc-37
+O02482	Uncoordinated 37
+G5ECN8	G5ECN8
+G5ECN8	ces-1
+G5ECN8	CES-1
+O16259	O16259
+O16259	STIP1
+O16259	sti-1
+O16259	R09E12.3
+O16259	Stress-induced-phospho 1
+O16259	CeSTI1
+O16259	STI1
+O16259	Hsc70/Hsp90-organizing
+O16259	CeHop
+O16259	Hop
+O16299	O16299
+O16299	FIGL1
+O16299	figl-1
+O16299	F32D1.1
+O16299	Fidgetin-like 1
+O16299	EC 3.6.4.-
+O16299	Fidgetin
+O16785	O16785
+O16785	PARV
+O16785	pat-6
+O16785	T21D12.4
+O16785	Paralyzed arrest at two-fold 6
+O16785	Actopaxin
+O16785	Parvin-like
+O16850	O16850
+O16850	FOXO
+O16850	daf-16
+O16850	R13H8.1
+O16850	Forkhead box O
+O16850	Abnormal dauer formation 16
+O17087	O17087
+O17087	GLD2
+O17087	gld-2
+O17087	ZC308.1
+O17087	Poly RNA polymerase gld-2
+O17087	EC 2.7.7.19
+O17087	Defective in germ line development 2
+O17514	O17514
+O17514	MES2
+O17514	mes-2
+O17514	R06A4.7
+O17514	Histone-lysine N-methyltransferase mes-2
+O17514	EC 2.1.1.356
+O17514	Maternal-effect sterile 2
+O17583	O17583
+O17583	LIN10
+O17583	lin-10
+O17583	C09H6.2
+O17583	Abnormal cell lineage 10
+O17607	O17607
+O17607	RUVb1
+O17607	ruvb-1
+O17607	C27H6.2
+O17607	Ruvb-like 1
+O17607	Pontin
+O17670	O17670
+O17670	EYA1
+O17670	eya-1
+O17670	C49A1.4
+O17670	Eyes absent 1
+H2KZ78	H2KZ78
+O17695	O17695
+O17695	HDA1
+O17695	hda-1
+O17695	C53A5.3
+O17695	Histone deacetylase 1
+O17695	EC 3.5.1.98
+O17850	O17850
+O17850	ATX3
+O17850	atx-3
+O17850	F28F8.6
+O17850	Ataxin-3
+O17850	Machado-Joseph disease-like
+O18178	O18178
+O18178	2A51
+O18178	pptr-1
+O18178	W08G11.4
+O18178	Serine/threonine- phosphatase 2A regulatory subunit pptr-1
+O18178	Serine/threonine- phosphatase 2A 56kDa regulatory subunit pptr-1
+O18178	Serine/threonine- phosphatase 2A regulatory subunit b' pptr-1
+O18214	O18214
+O18214	MAb3
+O18214	mab-3
+O18214	Y53C12b.5
+O18214	male abnormal 3
+O44326	O44326
+O44326	HMP2
+O44326	hmp-2
+O44326	K05C4.6
+O44326	beta-catenin-like hmp-2
+O44326	humpback-2
+O44406	O44406
+O44406	ERI1
+O44406	eri-1
+O44406	T07A9.5
+O44406	3'-5' exonuclease eri-1
+O44406	Enhanced RNAi
+O44408	O44408
+O44408	KGb1
+O44408	kgb-1
+O44408	T07A9.3
+O44408	GLH-binding kinase 1
+O44518	O44518
+O44518	CYFIP
+O44518	gex-2
+O44518	F56A11.1
+O44518	Cytoplasmic FMR1-interacting
+O44518	Gut on exterior 2
+O44740	O44740
+O44740	MEI2
+O44740	mei-2
+O44740	F57b10.12
+O44740	Meiotic spindle formation 2
+O45244	O45244
+O45244	DHX16
+O45244	mog-4
+O45244	C04H5.6
+O45244	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase mog-4
+O45244	Masculinization of germline 4
+O45244	Sex determination mog-4
+O45551	O45551
+O45551	IF4E1
+O45551	ife-1
+O45551	F53A2.6
+O45551	Eukaryotic translation initiation factor 4E-1
+O45551	eIF-4E-1
+O45551	eIF4E-1
+O45666	O45666
+O45666	NHR49
+O45666	nhr-49
+O45666	K10C3.6
+O45666	Nuclear hormone receptor family member nhr-49
+O16346	O16346
+O16346	nhr-181
+O45717	O45717
+O45717	NUD2
+O45717	nud-2
+O45717	R11A5.2
+O45734	O45734
+O45734	CPL-1
+O45734	CPL1
+O45734	cathepsin l-like
+O45952	O45952
+O45952	CSC1
+O45952	csc-1
+O45952	Y48E1b.12
+O45952	Chromosome segregation
+O45952	cytokinesis defective 1
+C1P635	C1P635
+C1P635	magi-1
+O44782	O44782
+O44782	vpr-1
+O61667	O61667
+O61667	EGL1
+O61667	egl-1
+O61667	F23b12.9
+O61667	Programmed cell death activator egl-1
+O61667	Egg-laying defective 1
+O61955	O61955
+O61955	IF4E3
+O61955	ife-3
+O61955	b0348.6
+O61955	Eukaryotic translation initiation factor 4E-3
+O61955	eIF-4E-3
+O61955	eIF4E-3
+O62090	O62090
+O62090	PRY1
+O62090	pry-1
+O62090	C37A5.9
+O62090	Axin-like pry-1
+O62090	polyray
+O62305	O62305
+O62305	KCC2D
+O62305	unc-43
+O62305	K11E8.1
+O62305	Calcium/calmodulin-dependent kinase type II
+O62305	CaM kinase II
+O62305	EC 2.7.11.17
+O62305	Uncoordinated 43
+O62479	O62479
+O62479	SAS6
+O62479	sas-6
+O62479	Y45F10D.9
+O62479	Spindle assembly abnormal 6
+O76616	O76616
+O76616	PID3
+O76616	pid-3
+O76616	pics-1
+O76616	Y23H5A.3
+O76616	piRNA biogenesis
+O76616	chromosome segregation 1
+O76616	piRNA-induced silencing defective 3
+O76689	O76689
+O76689	SNF6
+O76689	snf-6
+O76689	M01G5.5
+O76689	Sodium-dependent acetylcholine transporter
+O76689	Sodium:neurotransmitter symporter family 6
+G5EG62	G5EG62
+G5EG62	unc-45
+G5EG62	UNC-45
+G5EEL1	G5EEL1
+P03949	P03949
+P03949	AbL1
+P03949	abl-1
+P03949	M79.1
+P03949	Tyrosine- kinase abl-1
+G5ED33	G5ED33
+G5ED33	eps-8
+G5ED33	Epidermal growth factor receptor pathway substrate 8 splice variant A
+G5EF87	G5EF87
+G5EF87	swsn-1
+G5EF87	psa-1
+G5EF87	SWI/SNF complex subunit SMARCC2
+G5EF87	SWI3-like
+O02174	O02174
+O02174	zfp-3
+P10299	P10299
+P10299	GSTP1
+P10299	gst-1
+P10299	R107.7
+P10299	Glutathione S-transferase P
+P14585	P14585
+P14585	LIN12
+P14585	lin-12
+P14585	R107.8
+P14585	Abnormal cell lineage 12
+P14585	Notch-like lin-12
+P14585	Cleaved into: lin-12/Notch intracellular domain
+P16356	P16356
+P16356	RPb1
+P16356	ama-1
+P16356	rpb-1
+P16356	F36A4.7
+P16356	DNA-directed RNA polymerase II subunit RPb1
+P16356	RNA polymerase II subunit b1
+P16356	EC 2.7.7.6
+P16356	DNA-directed RNA polymerase III largest subunit
+P17221	P17221
+P17221	FEM1
+P17221	fem-1
+P17221	isx-1
+P17221	F35D6.1
+P17221	Sex-determining fem-1
+P17221	XO animals 1
+P18334	P18334
+P18334	CSK2A
+P18334	kin-3
+P18334	b0205.7
+P18334	Casein kinase II subunit alpha
+P18334	CK II subunit alpha
+P20792	P20792
+P20792	DAF1
+P20792	daf-1
+P20792	F29C4.1
+P20792	Cell surface receptor daf-1
+P20792	Abnormal dauer formation 1
+P21541	P21541
+P21541	ZYG11
+P21541	zyg-11
+P21541	C08b11.1
+P21541	Early embryogenesis zyg-11
+P23678	P23678
+P23678	Kinesin-like unc-104
+P28548	P28548
+P28548	CSK2b
+P28548	kin-10
+P28548	kin-5
+P28548	T01G9.6
+P28548	Casein kinase II subunit beta
+P28548	CK II beta
+P29355	P29355
+P29355	SEM5
+P29355	sem-5
+P29355	C14F5.5
+P29355	Sex muscle abnormal 5
+P30429	P30429
+P30429	Cell death 4
+P30632	P30632
+P30632	ASNA
+P30632	asna-1
+P30632	tag-205
+P30632	ZK637.5
+P30632	ATPase asna-1
+P30632	EC 3.6.-.-
+P30632	Arsenical pump-driving ATPase
+P30632	Arsenite-stimulated ATPase
+P34260	P34260
+P34260	VP33A
+P34260	vps-33.1
+P34260	slp-1
+P34260	b0303.9
+P34260	Vacuolar sorting-associated 33A
+H2KYP0	H2KYP0
+H2KYP0	PICC1
+H2KYP0	picc-1
+H2KYP0	F29G9.2
+H2KYP0	PAC-1 interacting
+H2KYP0	coiled-coil domain-containing 1
+P34288	P34288
+P34288	GTPase-activating pac-1
+P34299	P34299
+P34299	GLR1
+P34299	glr-1
+P34299	C06E1.4
+P34299	Glutamate receptor 1
+P34331	P34331
+P34331	PLK1
+P34331	plk-1
+P34331	plc1
+P34331	C14b9.4
+P34331	Serine/threonine- kinase plk-1
+P34331	EC 2.7.11.21
+P34331	Polo-like kinase 1
+P34341	P34341
+P34341	KLE2
+P34341	kle-2
+P34341	C29E4.2
+P34341	Condensin-2 complex subunit kle-2
+P34341	"Kleisin, abnormal closure, 2"
+P34400	P34400
+P34400	MIG10
+P34400	mig-10
+P34400	F10E9.6
+P34400	Abnormal cell migration 10
+P34441	P34441
+P34441	EMb30
+P34441	emb-30
+P34441	F54C8.3
+P34441	Abnormal embryogenesis 30
+P34447	P34447
+P34447	ZFP1
+P34447	zfp-1
+P34447	F54F2.2
+P34447	Zinc finger zfp-1
+P34447	AF-10
+G5EDI8	G5EDI8
+G5EDI8	drh-1
+G5EDI8	Dicer-related helicase
+G5EDI8	RNA helicase
+P34529	P34529
+P34529	DCR1
+P34529	dcr-1
+P34529	eri-4 let-740
+P34529	K12H4.8
+P34529	Endoribonuclease dcr-1
+P34529	EC 3.1.26.-
+P34529	Cleaved into: Death-promoting deoxyribonuclease
+P34529	tDCR-1
+P34529	EC 3.1.21.-
+P34537	P34537
+P34537	bRE1
+P34537	rfp-1
+P34537	bre-1
+P34537	R05D3.4
+P34537	E3 ubiquitin- ligase bre-1
+P34537	RING finger rfp-1
+P34537	RING-type E3 ubiquitin transferase bre-1
+P34561	P34561
+P34561	VPS53
+P34561	vps-53
+P34561	T05G5.8
+P34561	Vacuolar sorting-associated 53
+P34607	P34607
+P34607	MUT7
+P34607	mut-7
+P34607	ZK1098.8
+P34607	Exonuclease mut-7
+P34607	Exonuclease 3'-5' domain-containing 3
+P34609	P34609
+P34609	JIP
+P34609	unc-16
+P34609	egl-39
+P34609	ZK1098.10
+P34609	JNK-interacting
+P34609	JNK MAP kinase scaffold
+P34609	Uncoordinated 16
+P34619	P34619
+P34619	SOR1
+P34619	sor-1
+P34619	ZK1236.3
+P34619	Sop-2-related 1
+P34624	P34624
+P34624	CCNY
+P34624	cyy-1
+P34624	ZK353.1
+P34624	Cyclin-Y
+P34689	P34689
+P34689	GLH1
+P34689	glh-1
+P34689	T21G5.3
+P34689	ATP-dependent RNA helicase glh-1
+P34689	Germline helicase 1
+P34691	P34691
+P34691	FEM3
+P34691	fem-3
+P34691	C01F6.4
+P34691	Sex-determination fem-3
+P34691	Ce-FEM-3
+P34691	XO animals 3
+P34708	P34708
+P34708	Sex-determining transformer 1
+P34708-1	P34708-1
+P34708-1	Isoform a of Sex-determining transformer 1
+P34808	P34808
+P34808	Meiotic spindle formation mei-1
+G5EGG0	G5EGG0
+G5EGG0	uso-1
+G5EGG0	Uso1_p115_head domain-containing
+P34258	P34258
+P34258	YKA7
+P34258	b0303.7
+P34258	Uncharacterized b0303.7
+G5ECK4	G5ECK4
+G5ECK4	dnbp-1
+G5ECK4	SH3 domain-containing GRb2-like
+P39055	P39055
+P39055	DYN1
+P39055	dyn-1
+P39055	C02C6.1
+P39055	Dynamin
+P39055	EC 3.6.5.5
+O02289	O02289
+O02289	gla-3
+P41779	P41779
+P41779	HM20
+P41779	ceh-20
+P41779	F31E3.1
+P41779	Homeobox ceh-20
+P41846	P41846
+P41846	WbS14
+P41846	mml-1
+P41846	mio
+P41846	T20b12.6
+P41846	WbSCR14
+P41846	MLX interactor
+P41932	P41932
+P41932	14331
+P41932	par-5
+P41932	ftt-1
+P41932	M117.2
+P41932	14-3-3-like 1
+P41932	Partitioning defective 5
+P41958	P41958
+P41958	CED9
+P41958	ced-9
+P41958	T07C4.8
+P41958	Apoptosis regulator ced-9
+P41958	Cell death 9
+P30429-2	P30429-2
+P30429-2	Isoform a of Cell death 4
+P42171	P42171
+P42171	REI1
+P42171	rei-1
+P42171	C03C10.4
+P42171	Guanine nucleotide exchange factor rei-1
+P46561	P46561
+P46561	ATPb
+P46561	atp-2
+P46561	C34E10.6
+P46561	"ATP synthase subunit beta, mitochondrial"
+P46561	EC 7.1.2.2
+P48727	P48727
+P48727	GLC7b
+P48727	gsp-2
+P48727	Ce-glc-7beta CeGLC-7beta glc-7
+P48727	F56C9.1
+P48727	Serine/threonine- phosphatase PP1-beta
+P48727	CeGLC-7-beta
+P48727	Glc seven-like phosphatase 2
+P48996	P48996
+P48996	DPY27
+P48996	dpy-27
+P48996	R13G10.1
+P48996	Chromosome condensation dpy-27
+P48996	dumpy-27
+P49594	P49594
+P49594	FEM2
+P49594	fem-2
+P49594	T19C3.8
+P49594	phosphatase fem-2
+P49594	/calmodulin-dependent kinase phosphatase
+P49594	CaM-kinase phosphatase
+P49594	CaMKPase
+P49594	XO animals 2
+P49594	Sex-determining fem-2
+P50464	P50464
+P50464	UNC97
+P50464	unc-97
+P50464	F14D12.2
+P50464	LIM domain-containing unc-97
+P50464	PINCH
+P50464	Uncoordinated 97
+O45799	O45799
+O45799	scrm-1
+P51875	P51875
+P51875	GNAO
+P51875	goa-1
+P51875	C26C6.2
+P51875	Guanine nucleotide-binding G
+P51875	subunit alpha
+P34427	P34427
+P34427	LIN36
+P34427	lin-36
+P34427	F44b9.6
+P34427	Abnormal cell lineage 36
+P52012	P52012
+P52012	PPIL2
+P52012	cyn-4
+P52012	cyp-4 mog-6
+P52012	F59E10.2
+P52012	Peptidyl-prolyl cis-trans isomerase 4
+P52012	PPIase 4
+P52012	Cyclophilin mog-6
+P52012	Cyclophilin-4
+P52012	Masculinization of germline 6
+P52012	RING-type E3 ubiquitin transferase isomerase 4
+P52012	Rotamase 4
+P53806	P53806
+P53806	RCANL
+P53806	rcan-1
+P53806	dscr1l rcn-1
+P53806	F54E7.7
+P53806	Calcipressin-like
+P53806	Down syndrome c
+P53806	idate region 1-like
+P53806	Regulator of calcineurin
+P54811	P54811
+P54811	TERA1
+P54811	cdc-48.1
+P54811	C06A1.1
+P54811	Transitional endoplasmic reticulum ATPase 1
+P54811	Cell division cycle-related 48.1
+P54811	p97/CDC48 1
+P54936	P54936
+P54936	LIN2
+P54936	lin-2
+P54936	F17E5.1
+P54936	Abnormal cell lineage 2
+P55853	P55853
+P55853	SUMO
+P55853	smo-1
+P55853	smt3 sumo
+P55853	K12C11.2
+P55853	Small ubiquitin-related modifier
+P55853	Ubiquitin-like SMT3
+P90916	P90916
+P90916	LIN53
+P90916	lin-53
+P90916	rba-2
+P90916	K07A1.12
+P90916	Probable histone-binding lin-53
+P90916	Abnormal cell lineage 53
+P90916	Synthetic multivulva p48
+O01869	O01869
+O01869	rps-10
+O01869	Plectin/S10 N-terminal domain-containing
+P91277	P91277
+P91277	HRPK1
+P91277	hrpk-1
+P91277	F26b1.2
+P91277	Heterogeneous nuclear ribonucleo K
+P91277	hnRNP K
+P91349	P91349
+P91349	SPD5
+P91349	spd-5
+P91349	F56A3.4
+P91349	Spindle-defective 5
+P91829	P91829
+P91829	NHR69
+P91829	nhr-69
+P91829	T23H4.2
+P91829	Nuclear hormone receptor family member nhr-69
+P91870	P91870
+P91870	SPD2
+P91870	spd-2
+P91870	F32H2.3
+P91870	Spindle-defective 2
+P92186	P92186
+P92186	LIN28
+P92186	lin-28
+P92186	F02E9.2
+P92186	Abnormal cell lineage 28
+Q03565	Q03565
+Q03565	bAF1
+Q03565	baf-1
+Q03565	b0464.7
+Q03565	barrier-to-autointegration factor 1
+Q03571	Q03571
+Q03571	CPb1
+Q03571	cpb-1
+Q03571	C40H1.1
+Q03571	Cytoplasmic polyadenylation element-binding 1
+Q09248	Q09248
+Q09248	DCTN2
+Q09248	dnc-2
+Q09248	C28H8.12
+Q09248	Probable dynactin subunit 2
+P90879	P90879
+P90879	UbA domain-containing
+P49023	P49023
+P49023	PAXI_HUMAN
+P49023	PXN
+P49023	Paxillin
+Q09490	Q09490
+Q09490	LGG1
+Q09490	lgg-1
+Q09490	atg-8.1
+Q09490	C32D5.9
+K8ESC5-2	K8ESC5-2
+K8ESC5-2	Isoform a of Cysteine protease atg-4.1
+Q09591	Q09591
+Q09591	MIX1
+Q09591	mix-1
+Q09591	let-29 smc-2
+Q09591	M106.1
+Q09591	Mitotic chromosome
+Q09591	X-chromosome-associated mix-1
+Q09591	Lethal 29
+Q09591	Structural maintenance of chromosomes 2
+Q0G819	Q0G819
+Q0G819	PP2b
+Q0G819	tax-6
+Q0G819	cna-1
+Q0G819	C02F4.2
+Q0G819	Serine/threonine- phosphatase 2b catalytic subunit
+Q0G819	Abnormal chemotaxis 6
+Q0G819	Calmodulin-dependent calcineurin subunit A
+Q10122	Q10122
+Q10122	SORF2
+Q10122	sorf-2
+Q10122	F52C9.1
+Q10122	Suppressor of organelle fusion 2
+Q10122	WD repeat-containing 81 sorf-2
+Q10128	Q10128
+Q10128	ILCR2
+Q10128	ilcr-2
+Q10128	F56D1.2
+Q10128	Interleukin cytokine receptor-related 2
+Q10128	Interleukin-17 receptor-like 2
+Q10653	Q10653
+Q10653	CCNb1
+Q10653	cyb-1
+Q10653	ZC168.4
+Q10653	G2/mitotic-specific cyclin-b1
+O45379	O45379
+O45379	ARL3
+O45379	arl-3
+O45379	F19H8.3
+O45379	ADP-ribosylation factor-like 3
+Q10666	Q10666
+Q10666	POP1
+Q10666	pop-1
+Q10666	W10C8.2
+Q10666	Posterior pharynx defect 1
+Q10666	TCF transcription factor pop-1
+Q10953	Q10953
+Q10953	WRM1
+Q10953	wrm-1
+Q10953	b0336.1
+Q10953	Armadillo repeat-containing wrm-1
+Q10953	Worm armadillo 1
+Q09958	Q09958
+Q09958	EbP2
+Q09958	C18A3.3
+Q09958	Probable rRNA-processing EbP2
+Q11184	Q11184
+Q11184	LE756
+Q11184	let-756
+Q11184	C05D11.4
+Q11184	Lethal 756
+P47991	P47991
+P47991	RL6
+P47991	rpl-6
+P47991	R151.3
+P47991	Large ribosomal subunit eL6
+P47991	60S ribosomal L6
+G5EDD8	G5EDD8
+G5EDD8	skr-2
+P31946	P31946
+P31946	1433b_HUMAN
+P31946	YWHAb
+P31946	14-3-3 beta/alpha
+P31946	1054
+P31946	kinase C inhibitor 1
+P31946	KCIP-1
+P31946	"Cleaved into: 14-3-3 beta/alpha, N-terminally processed"
+Q17353	Q17353
+Q17353	Partitioning defective 3
+O16502	O16502
+O16502	abu-7
+O16502	Activated in blocked Unfolded response
+H2L055	H2L055
+Q17390	Q17390
+Q17390	CUL2
+Q17390	cul-2
+Q17390	ccd-3 div-3
+Q17390	ZK520.4
+Q17390	Cullin-2
+Q17390	CUL-2
+Q17391	Q17391
+Q17391	CUL3
+Q17391	cul-3
+Q17391	Y108G3AL.1
+Q17391	Cullin-3
+Q17391	CUL-3
+P41886	P41886
+P41886	bAT41
+P41886	bath-41
+P41886	F37A4.9
+P41886	MATH domain-containing 41
+P34371	P34371
+P34371	bAT42
+P34371	bath-42
+P34371	C50C3.8
+P34371	MATH domain-containing 42
+O16612	O16612
+Q17551	Q17551
+Q17551	RPM1
+Q17551	rpm-1
+Q17551	syd-3
+Q17551	C01b7.6
+Q17551	E3 ubiquitin- ligase rpm-1
+Q17551	EC 2.3.2.33
+Q17551	Pam/highwire/rpm-1
+Q17551	Regulator of presynaptic morphology 1
+Q17551	Synapse defective 3
+Q17604	Q17604
+Q17604	LAb1
+Q17604	lab-1
+Q17604	C03D6.6
+Q17604	Long arms of the bivalent 1
+Q17635	Q17635
+Q17635	NDC80
+Q17635	ndc-80
+Q17635	W01b6.9
+Q17635	Kinetochore ndc-80
+Q17635	CeNDC-80
+Q17635	Hec1
+Q17941	Q17941
+Q17941	AKT1
+Q17941	akt-1
+Q17941	C12D8.10
+Q17941	Serine/threonine- kinase akt-1
+Q17941	kinase b akt-1
+Q17941	PKb akt-1
+G5EFM0	G5EFM0
+G5EFM0	mdf-1
+G5EFM0	MAD
+G5EFM0	Yeast Mitosis arrest DeFicient
+G5EFM0	MDF-1
+Q18490	Q18490
+Q18490	TOST1
+Q18490	tost-1
+Q18490	C35D10.13
+Q18490	Twenty one u antagonist 1
+Q18685	Q18685
+Q18685	UN112
+Q18685	unc-112
+Q18685	C47E8.7
+Q18685	Mitogen-inducible mig-2 -like
+Q18685	Uncoordinated 112
+Q18885	Q18885
+Q18885	bTF3
+Q18885	icd-1
+Q18885	C56C10.8
+Q18885	Transcription factor bTF3
+Q18885	Inhibitor of cell death 1
+Q18885	Nascent polypeptide-associated complex subunit beta
+Q18885	NAC-beta
+H2L0N3	H2L0N3
+H2L0N3	ZIP4
+H2L0N3	zip-4
+H2L0N3	Y44E3b.1
+H2L0N3	Transcription factor zip-4
+Q19202	Q19202
+Q19202	APY1
+Q19202	apy-1
+Q19202	F08C6.6
+Q19202	Apyrase apy-1
+Q19202	EC 3.6.1.6
+Q19202	Uridine-diphosphatase
+Q19202	UDPase
+Q19266	Q19266
+Q19266	KPC3
+Q19266	pkc-3
+Q19266	aPKC
+Q19266	F09E5.1
+Q19266	kinase C-like 3
+Q19266	EC 2.7.11.13
+Q19266	Atypical kinase C-3
+Q19266	aPKC3
+A7DTF5	A7DTF5
+A7DTF5	Homeobox cut-like
+Q19289	Q19289
+Q19289	IFb1
+Q19289	ifb-1
+Q19289	F10C1.2
+Q19289	Intermediate filament ifb-1
+Q19289	Cel IF b1
+Q19289	Intermediate filament b1
+Q19289	IF-b1
+Q19345	Q19345
+Q19345	NHR25
+Q19345	nhr-25
+Q19345	F11C1.6
+Q19345	Nuclear hormone receptor family member nhr-25
+Q19537	Q19537
+Q19537	RFA1
+Q19537	rpa-1
+Q19537	F18A1.5
+Q19537	Probable replication factor A 73 kDa subunit
+Q19537	RP-A p73
+Q19537	Replication factor A 1
+Q19537	RF-A 1
+Q19541	Q19541
+Q19541	PID1
+Q19541	pid-1
+Q19541	F18A1.8
+Q19541	PiRNA-induced silencing defective 1
+Q19584	Q19584
+Q19584	UFD1
+Q19584	ufd-1
+Q19584	F19b6.2
+Q19584	Ubiquitin fusion degradation 1
+Q19584	Ub fusion 1
+Q19848	Q19848
+Q19848	VRK1
+Q19848	vrk-1
+Q19848	F28b12.3
+Q19848	Serine/threonine- kinase VRK1
+Q19848	Vaccinia-related kinase 1
+Q19872	Q19872
+Q19872	ATZ1
+Q19872	atz-1
+Q19872	F28D1.2
+Q19872	Abnormal transition zone 1
+Q19980	Q19980
+Q19980	GCH1
+Q19980	cat-4
+Q19980	F32G8.6
+Q19980	GTP cyclohydrolase 1
+Q19980	EC 3.5.4.16
+Q19980	GTP cyclohydrolase I
+Q19980	GTP-CH-I
+Q20010	Q20010
+Q20010	SAS5
+Q20010	sas-5
+Q20010	F35b12.5
+Q20010	Spindle assembly abnormal 5
+A5JYX3	A5JYX3
+A5JYX3	hmp-1
+A5JYX3	Vinculin
+P34514	P34514
+P34514	ANC2
+P34514	apc-2
+P34514	K06H7.6/K06H7.5
+P34514	Anaphase-promoting complex subunit 2
+P34514	APC2
+P34514	Cyclosome subunit 2
+Q20117	Q20117
+Q20117	GSH1
+Q20117	gcs-1
+Q20117	F37b12.2
+Q20117	Glutamate--cysteine ligase
+Q20117	EC 6.3.2.2
+Q20117	Gamma-ECS
+Q20117	GCS
+Q20117	Gamma-glutamylcysteine synthetase
+Q20402	Q20402
+Q20402	EGG3
+Q20402	egg-3
+Q20402	F44F4.2
+Q20402	tyrosine phosphatase-like egg-3
+Q20402	Egg sterile 3
+Q20655	Q20655
+Q20655	14332
+Q20655	ftt-2
+Q20655	F52D10.3
+Q20655	14-3-3-like 2
+Q20709	Q20709
+Q20709	TRA4
+Q20709	tra-4
+Q20709	F53b3.1
+Q20709	Zinc finger tra-4
+Q20709	PLZF-like tra-4
+P23678-1	P23678-1
+P23678-1	Isoform a of Kinesin-like unc-104
+Q21148	Q21148
+Q21148	ZIP2
+Q21148	zip-2
+Q21148	K02F3.4
+Q21148	Transcription factor zip-2
+Q21209	Q21209
+Q21209	bARD1
+Q21209	brd-1
+Q21209	K04C2.4
+Q21209	bRCA1-associated RING domain 1
+Q21209	Ce-bRD-1
+Q21209	Cebrd-1
+Q21209	RING-type E3 ubiquitin transferase bARD1
+G5EBY5	G5EbY5
+G5EBY5	sipa-1
+Q21215	Q21215
+Q21215	GbLP
+Q21215	rack-1
+Q21215	K04D7.1
+Q21215	Small ribosomal subunit RACK1
+Q21215	Guanine nucleotide-binding subunit beta-2-like 1
+O16213	O16213
+O16213	atf-8
+Q21361	Q21361
+Q21361	NFIL3
+Q21361	atf-2
+Q21361	K08F8.2
+Q21361	Transcription factor atf-2
+Q21361	cAMP-dependent transcription factor atf-2
+P92004	P92004
+P92004	tag-260
+P92004	ifbp-1
+P92004	Interferon regulatory factor 2-binding 1 & 2 zinc finger domain-containing
+Q21441	Q21441
+Q21441	KI26L
+Q21441	vab-8
+Q21441	K12F2.2
+Q21441	Kinesin-like vab-8
+Q21441	Variable abnormal morphology 8
+Q21443	Q21443
+Q21443	LMN1
+Q21443	lmn-1
+Q21443	lam-1
+Q21443	DY3.2
+Q21443	Lamin-1
+Q21443	Ce-lamin
+Q21443	CeLam-1
+P34498	P34498
+P34498	MOG1
+P34498	mog-1
+P34498	K03H1.2
+P34498	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase mog-1
+P34498	Masculinization of germline 1
+P34498	Sex determination mog-1
+G5EBT5	G5EbT5
+G5EBT5	mog-3
+G5EBT5	Pre-mRNA-splicing factor CWC25
+G5EBT5	Sex determining MOG-3
+Q09530	Q09530
+Q09530	MOG5
+Q09530	mog-5
+Q09530	EEED8.5
+Q09530	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase mog-5
+Q09530	Masculinization of germline 5
+Q09530	Sex determination mog-5
+Q21502	Q21502
+Q21502	MEP1
+Q21502	mep-1
+Q21502	M04b2.1
+Q21502	MOG interacting
+Q21502	ectopic P-granules 1
+Q21502	Nuclear zinc finger
+Q21633	Q21633
+Q21633	UbC18
+Q21633	ubc-18
+Q21633	R01H2.6
+Q21633	Ubiquitin-conjugating enzyme E2 ubc-18
+G5EG51	G5EG51
+G5EG51	NRDE2
+G5EG51	nrde-2
+G5EG51	T01E8.5
+G5EG51	Nuclear exosome regulator NRDE2
+G5EG51	Nuclear RNAi defective-2
+Q21693	Q21693
+Q21693	IF4E2
+Q21693	ife-2
+Q21693	R04A9.4
+Q21693	Eukaryotic translation initiation factor 4E-2
+Q21693	eIF-4E-2
+Q21693	eIF4E-2
+Q21738	Q21738
+Q21738	PAXT1
+Q21738	paxt-1
+Q21738	R05D11.6
+Q21738	Partner of xrn-2 1
+O16393	O16393
+O01580	O01580
+O01580	Coiled-coil domain-containing 102A
+G5EEN7	G5EEN7
+G5EEN7	Sjogren's syndrome/scleroderma autoantigen 1
+G5EEN7	Autoantigen p27
+Q22227	Q22227
+Q22227	MIG5
+Q22227	mig-5
+Q22227	T05C12.6
+Q22227	Segment polarity dishevelled mig-5
+Q22227	Abnormal cell migration 5
+G5EDM4-1	G5EDM4-1
+G5EDM4-1	Isoform a of Na
+Q22592	Q22592
+Q22592	bECN
+Q22592	bec-1
+Q22592	atg-6
+Q22592	T19E7.3
+Q22592	beclin
+G5EF11	G5EF11
+G5EF11	efl-1
+G5EF11	E2F/DP family winged-helix DNA-binding domain-containing
+G5EF11	EFL-1
+Q17902	Q17902
+Q17902	EGAL1
+Q17902	egal-1
+Q17902	C10G6.1
+Q17902	Egalitarian
+G5ECT7	G5ECT7
+G5ECT7	spat-1
+G5ECT7	aurora borealis
+Q22799	Q22799
+Q22799	DYL1
+Q22799	dlc-1
+Q22799	T26A5.9
+Q22799	"Dynein light chain 1, cytoplasmic"
+G5ECQ1	G5ECQ1
+G5ECQ1	unc-14
+G5ECQ1	RUN domain-containing
+G5ECQ1	UNC-14
+Q23064	Q23064
+Q23064	Nuclear migration unc-83
+Q23272	Q23272
+Q23272	ATFS1
+Q23272	atfs-1
+Q23272	ZC376.7
+Q23272	Stress activated transcription factor atfs-1
+G5ED30	G5ED30
+G5ED30	vab-9
+G5ED30	Cell junction VAb-9
+G5ED30	Transmembrane 47
+Q2PJ68	Q2PJ68
+Q2PJ68	SGK1
+Q2PJ68	sgk-1
+Q2PJ68	W10G6.2
+Q2PJ68	Serine/threonine- kinase sgk-1
+Q2PJ68	Serum-
+Q2PJ68	glucocorticoid-inducible kinase
+Q2PJ68	Serum/glucocorticoid-regulated kinase 1
+Q8I4M5	Q8I4M5
+Q8I4M5	Germline survival defective-1
+Q22156	Q22156
+Q22156	ATF4H
+Q22156	atf-4
+Q22156	atf-5
+Q22156	T04C10.4
+Q22156	Transcription factor atf-4
+Q22156	cAMP-dependent transcription factor family member 4
+Q8IG69	Q8IG69
+Q8IG69	CEbP2
+Q8IG69	cebp-2
+Q8IG69	C48E7.11
+Q8IG69	CCAAT/enhancer-binding 2
+A0A1I6CMA8	A0A1I6CMA8
+A0A1I6CMA8	zip-9
+G5EEN3	G5EEN3
+G5EEN3	ced-5
+G5EEN3	CED-5
+G5EEN3	Dedicator of cytokinesis 1
+P05412	P05412
+P05412	JUN_HUMAN
+P05412	Transcription factor Jun
+P05412	Activator 1
+P05412	AP1
+P05412	Proto-oncogene c-Jun
+P05412	Transcription factor AP-1 subunit Jun
+P05412	V-jun avian sarcoma virus 17 oncogene
+P05412	p39
+Q7K7J0	Q7K7J0
+Q7K7J0	gei-18
+Q7K7J0	GEX Interacting
+P31695	P31695
+P31695	NOTC4_MOUSE
+P31695	Notch4
+P31695	Int-3 Int3
+P31695	Neurogenic locus notch 4
+P31695	Notch 4
+P31695	Cleaved into: Transforming Int-3
+P31695	Notch 4 extracellular truncation
+P31695	Notch 4 intracellular domain
+Q94126	Q94126
+Q94126	CES2
+Q94126	ces-2
+Q94126	ZK909.4
+Q94126	Transcription factor ces-2
+Q94126	Cell death specification 2
+Q22805	Q22805
+P34482	P34482
+P34482	ZIF1
+P34482	zif-1
+P34482	tag-6
+P34482	F59b2.6
+P34482	Zinc finger-interacting factor 1
+Q94261	Q94261
+Q94261	EIF3M
+Q94261	cif-1
+Q94261	csn-7 eif-3.M
+Q94261	K08F11.3
+Q94261	COP9/Signalosome
+Q94261	eIF3 complex-shared subunit 1
+Q94261	COP9 signalosome complex subunit 7
+Q94261	Signalosome subunit 7
+Q94261	Eukaryotic translation initiation factor 3 subunit M
+Q94261	eIF3m
+Q09230	Q09230
+Q09230	YQ15
+Q09230	C05C10.5
+Q09230	Uncharacterized C05C10.5
+Q21648	Q21648
+Q21648	Prion-like-
+Q21648	Q/N-rich
+Q21648	#NAME?
+Q94420	Q94420
+Q94420	MEL26
+Q94420	mel-26
+Q94420	ZK858.4
+Q94420	maternal effect lethal 26
+P34808-2	P34808-2
+P34808-2	Isoform b of Meiotic spindle formation mei-1
+Q95017	Q95017
+Q95017	UbC9
+Q95017	ubc-9
+Q95017	F29b9.6
+Q95017	SUMO-conjugating enzyme UbC9
+Q95017	EC 2.3.2.-
+Q95017	RING-type E3 SUMO transferase UbC9
+Q95017	SUMO- ligase
+Q95017	Ubiquitin carrier 9
+Q95017	Ubiquitin-conjugating enzyme E2 9
+Q95017	Ubiquitin- ligase 9
+G5EFL5	G5EFL5
+O18302	O18302
+O18302	gopc-1
+Q23482	Q23482
+Q23482	lin-37
+Q95QI7	Q95QI7
+Q95QI7	DAF3
+Q95QI7	daf-3
+Q95QI7	F25E2.5
+Q95QI7	Smad daf-3
+Q95QI7	Abnormal dauer formation 3
+Q95QJ7	Q95QJ7
+Q95QJ7	GPR1
+Q95QJ7	gpr-1
+Q95QJ7	F22b7.13
+Q95QJ7	G- regulator 1
+O01488	O01488
+O01488	kxd-1
+O01488	KxDL domain-containing
+Q04908	Q04908
+Q04908	PSMD3
+Q04908	rpn-3
+Q04908	C30C11.2
+Q04908	26S proteasome non-ATPase regulatory subunit 3
+Q04908	26S proteasome regulatory subunit rpn-3
+Q95Y80	Q95Y80
+Q95Y80	bET1
+Q95Y80	bet-1
+Q95Y80	Y119C1b.8
+Q95Y80	bromodomain-containing bet-1
+Q21740	Q21740
+Q21740	edc-3
+Q21740	DFDF domain-containing
+Q95ZK7	Q95ZK7
+Q95ZK7	Defective in germ line development 3
+Q8I4M5-3	Q8I4M5-3
+Q8I4M5-3	Isoform c of Germline survival defective-1
+Q95ZQ4	Q95ZQ4
+Q95ZQ4	AAPK2
+Q95ZQ4	aak-2
+Q95ZQ4	T01C8.1
+Q95ZQ4	5'-AMP-activated kinase catalytic subunit alpha-2
+Q95ZQ4	AMPK subunit alpha-2
+Q967F4	Q967F4
+Q967F4	HMR1
+Q967F4	hmr-1
+Q967F4	W02b9.1
+Q967F4	Cadherin-related hmr-1
+Q967F4	Hammerhead
+Q21323	Q21323
+Q21323	rnp-3
+Q21323	U1 small nuclear ribonucleo A
+Q9GSX9	Q9GSX9
+Q9GSX9	Synembryn
+Q22601	Q22601
+Q22601	apa-2
+Q22601	AP-2 complex subunit alpha
+P91857	P91857
+P91857	rab-5
+P91857	Ras-related Rab-5C
+Q9GSX9-1	Q9GSX9-1
+Q9GSX9-1	Isoform a of Synembryn
+Q9N2Z7	Q9N2Z7
+Q9N2Z7	WWP1
+Q9N2Z7	wwp-1
+Q9N2Z7	Y65b4BR.4
+Q9N2Z7	E3 ubiquitin- ligase wwp-1
+Q9N2Z7	EC 2.3.2.26
+Q18966	Q18966
+Q18966	wbp-2
+Q18966	GRAM domain-containing
+Q19503	Q19503
+Q19503	HM40
+Q19503	ceh-40
+Q19503	F17A2.5
+Q19503	Homeobox ceh-40
+Q95ZK7-1	Q95ZK7-1
+Q95ZK7-1	Isoform a of Defective in germ line development 3
+O62486	O62486
+O62486	nos-3
+O62486	Nanos-type domain-containing
+Q18008	Q18008
+Q18008	ACTL1
+Q18008	actl-1
+Q18008	C15b12.6
+Q18008	ACT1-like
+O44400	O44400
+O44400	F37C4
+Q9NAG4	Q9NAG4
+Q9NAG4	MAC1
+Q9NAG4	mac-1
+Q9NAG4	Y48C3A.7
+Q9NAG4	Member of AAA family that binds ced-4
+Q8MXV3	Q8MXV3
+Q8MXV3	ccep-135
+Q8MXV3	CEntrosomal
+P34288-2	P34288-2
+P34288-2	Isoform b of GTPase-activating pac-1
+Q9NAN2	Q9NAN2
+Q9NAN2	PAR6
+Q9NAN2	par-6
+Q9NAN2	T26E3.3
+Q9NAN2	Partitioning defective 6
+Q17549	Q17549
+Q17549	magu-2
+Q17549	MAGUK p55 subfamily member 5
+Q21341	Q21341
+Q21341	LET99
+Q21341	let-99
+Q21341	K08E7.3
+Q21341	Lethal 99
+Q9TW65	Q9TW65
+Q9TW65	DMD
+Q9TW65	dys-1
+Q9TW65	F15D3.1
+Q9TW65	Dystrophin-1
+Q9U2M5	Q9U2M5
+Q9U2M5	CCND
+Q9U2M5	cyd-1
+Q9U2M5	Y38F1A.5
+Q9U2M5	G1/S-specific cyclin-D
+Q3LRZ3	Q3LRZ3
+Q3LRZ3	AXLP1
+Q3LRZ3	axl-1
+Q3LRZ3	K02b12.4
+Q3LRZ3	Axin-like 1
+P34605	P34605
+P34605	TPPC3
+P34605	trpp-3
+P34605	ZK1098.5
+P34605	Trafficking particle complex subunit 3
+Q9U1S2	Q9U1S2
+Q9U1S2	brp-1
+Q9U1S2	bypass of Response to Pheromone in yeast
+Q21636	Q21636
+Q21636	GATA-type domain-containing
+O76449	O76449
+Q19749	Q19749
+Q19749	ODP2
+Q19749	dlat-1
+Q19749	F23b12.5
+Q19749	"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial"
+Q19749	EC 2.3.1.12
+Q19749	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+Q19749	Pyruvate dehydrogenase complex component E2
+Q19749	PDC-E2
+Q19749	PDCE2
+Q18171	Q18171
+Q18171	SPE44
+Q18171	spe-44
+Q18171	C25G4.4
+Q18171	Transcription regulator spe-44
+Q18171	Spermatogenesis defective 44
+Q9U2T9	Q9U2T9
+Q9U2T9	itsn-1
+Q9U2T9	Intersectin-1
+Q9N4E9	Q9N4E9
+Q9N4E9	PP4RS
+Q9N4E9	ppfr-4
+Q9N4E9	Y71H2b.3
+Q9N4E9	Serine/threonine- phosphatase 4 regulatory subunit ppfr-4
+O02053	O02053
+O02053	san-1
+O02053	bUB1 N-terminal domain-containing
+Q9XVK6	Q9XVK6
+Q9XVK6	wve-1
+Q9XVK6	Wiskott-Aldrich syndrome family member
+Q9XVK6	WASP family member
+Q95XW5	Q95XW5
+Q95XW5	magu-1
+Q95XW5	MAGUK family
+Q23064-3	Q23064-3
+Q23064-3	Isoform c of Nuclear migration unc-83
+G2HK15	G2HK15
+G2HK15	APTF2
+G2HK15	aptf-2
+G2HK15	Y62E10A.17
+G2HK15	Transcription factor aptf-2
+O01422	O01422
+O01422	CSN2
+O01422	csn-2
+O01422	b0025.2
+O01422	COP9 signalosome complex subunit 2
+O01422	Signalosome subunit 2
+O17071	O17071
+O17071	PRS10
+O17071	rpt-4
+O17071	F23F1.8
+O17071	Probable 26S proteasome regulatory subunit 10b
+O17071	26S proteasome AAA-ATPase subunit rpt-4
+O17071	Proteasome regulatory particle ATPase-like 4
+O17680	O17680
+O17680	METK1
+O17680	sams-1
+O17680	C49F5.1
+O17680	Probable S-adenosylmethionine synthase 1
+O17680	AdoMet synthase 1
+O17680	Methionine adenosyltransferase 1
+O17680	MAT 1
+O17915	O17915
+O17915	RAN
+O17915	ran-1
+O17915	K01G5.4
+O17915	GTP-binding nuclear ran-1
+O17915	Ras-related nuclear 1
+O62203	O62203
+O62203	PHM2
+O62203	phm-2
+O62203	F32b4.4
+O62203	Pharyngeal muscle 2
+O76371	O76371
+O76371	PRS6A
+O76371	rpt-5
+O76371	F56H1.4
+O76371	26S protease regulatory subunit 6A
+O76371	Proteasome regulatory particle ATPase-like 5
+P34348	P34348
+P34348	RFS1
+P34348	rfs-1
+P34348	C30A5.2
+P34348	RAD51-like 1
+P34563	P34563
+P34563	IF5A1
+P34563	iff-1
+P34563	T05G5.10
+P34563	Eukaryotic translation initiation factor 5A-1
+P34563	eIF-5A-1
+P34563	Initiation factor five 1
+O01812	O01812
+O01812	FAbP6
+O01812	lbp-6
+O01812	W02D3.5
+O01812	Fatty acid-binding 6
+P34638	P34638
+P34638	CCNA1
+P34638	cya-1
+P34638	ZK507.6
+P34638	G2/mitotic-specific cyclin-A1
+P45962	P45962
+P45962	KLP3
+P45962	klp-3
+P45962	T09A5.2
+P45962	Kinesin-like klp-3
+P46769	P46769
+P46769	RSSA
+P46769	rps-0
+P46769	b0393.1
+P46769	Small ribosomal subunit uS2
+P46769	40S ribosomal SA
+P52011	P52011
+P52011	CYP3
+P52011	cyn-3
+P52011	cyp-3
+P52011	Y75b12B.5
+P52011	Peptidyl-prolyl cis-trans isomerase 3
+P52011	PPIase 3
+P52011	Cyclophilin-3
+P52011	CYP-3
+P52011	Rotamase 3
+G5EFS1	G5EFS1
+G5EFS1	ikb-1
+G5EFS1	Death domain-containing
+G5EFS1	IKb-1
+G5EBR0	G5EbR0
+G5EBR0	lir-1
+G5EBR0	LIR-1A
+G5EBR0	LIn-26 Related
+Q09485	Q09485
+Q09485	RAPSN
+Q09485	rpy-1
+Q09485	C18H9.7
+Q09485	43 kDa receptor-associated of the synapse
+Q09485	RAPsyn
+Q19418	Q19418
+Q19418	ZTF2
+Q19418	ztf-2
+Q19418	F13G3.1
+Q19418	Zinc finger ztf-2
+P34453	P34453
+P34453	PEX19
+P34453	prx-19
+P34453	F54F2.8
+P34453	Putative peroxisomal biogenesis factor 19
+P34453	Peroxin-19
+Q21554	Q21554
+Q21554	DDb1
+Q21554	ddb-1
+Q21554	M18.5
+Q21554	DNA damage-binding 1
+Q21554	Damage-specific DNA-binding 1
+Q09587	Q09587
+Q09587	NHR22
+Q09587	nhr-22
+Q09587	K06A1.4
+Q09587	Nuclear hormone receptor family member nhr-22
+Q18445	Q18445
+Q18445	cyn-12
+Q18445	Peptidyl-prolyl cis-trans isomerase
+Q18445	PPIase
+H2KZY3	H2KZY3
+H2KZY3	bACK domain-containing
+H2KZ17	H2KZ17
+H2KZ17	dsh-1
+H2KZ17	DiSHevelled related
+Q6BER6	Q6bER6
+Q6BER6	MED21
+Q6BER6	mdt-21
+Q6BER6	C24H11.9
+Q6BER6	Mediator of RNA polymerase II transcription subunit 21
+Q6BER6	CeSRb7
+Q6BER6	Mediator complex subunit 21
+Q95R14	Q95R14
+Q95R14	ZHP1
+Q95R14	zhp-1
+Q95R14	F55A12.10
+Q95R14	Zip ous 1
+Q18097	Q18097
+P61088	P61088
+P61088	UbE2N_HUMAN
+P61088	UbE2N
+P61088	bLU
+P61088	Ubiquitin-conjugating enzyme E2 N
+P61088	bendless-like ubiquitin-conjugating enzyme
+P61088	E2 ubiquitin-conjugating enzyme N
+P61088	Ubc13
+P61088	UbcH13
+P61088	Ubiquitin carrier N
+P61088	Ubiquitin- ligase N
+Q8MQ52	Q8MQ52
+Q8MQ52	MIF4G domain-containing
+O02173	O02173
+O02173	TPPC2
+O02173	sedl-1
+O02173	W05H7.3
+O02173	Probable trafficking particle complex subunit 2
+O16519	O16519
+O16519	GAD1
+O16519	gad-1
+O16519	T05H4.14
+O16519	Gastrulation defective 1
+O44156	O44156
+O44156	PSA1
+O44156	pas-6
+O44156	CD4.6
+O44156	Proteasome subunit alpha type-1
+O44156	Proteasome subunit alpha 6
+O44739	O44739
+O44739	bAG1
+O44739	bag-1
+O44739	F57b10.11
+O44739	bAG family molecular chaperone regulator 1
+O45521	O45521
+O45521	NH111
+O45521	nhr-111
+O45521	F44G3.9
+O45521	Nuclear hormone receptor family member nhr-111
+O61792	O61792
+O61792	rpn-8
+O61792	MPN domain-containing
+P34659	P34659
+P34659	RUXF
+P34659	snr-5
+P34659	ZK652.1
+P34659	Probable small nuclear ribonucleo F
+P34659	snRNP-F
+P34659	Sm F
+P34659	Sm-F
+P34659	SmF
+P34692	P34692
+P34692	PHAF1
+P34692	T01G9.2
+P34692	PHAF1 T01G9.2
+G5EFF2	G5EFF2
+G5EFF2	ELKS/RAb6-interacting/CAST family member 2
+P46577	P46577
+P46577	GPN1
+P46577	gop-2
+P46577	C34E10.2
+P46577	GPN-loop GTPase 1
+P46577	EC 3.6.5.-
+P46577	Gro-1 operon 2
+P46577	XPA-binding 1
+O01482	O01482
+O01482	rnf-1
+P53016	P53016
+P53016	RFC4
+P53016	rfc-4
+P53016	F31E3.3
+P53016	Replication factor C subunit 4
+P53016	Activator 1 subunit 4
+O17586	O17586
+O17586	PSA6
+O17586	pas-1
+O17586	C15H11.7
+O17586	Proteasome subunit alpha type-6
+O17586	Proteasome subunit alpha 1
+Q17370	Q17370
+Q17370	NHR47
+Q17370	nhr-47
+Q17370	csr-1
+Q17370	C24G6.4
+Q17370	Nuclear hormone receptor family member nhr-47
+Q17436	Q17436
+Q17436	EDG1
+Q17436	edg-1
+Q17436	b0035.6
+Q17436	Enlarged deps-1 granule 1
+H2KYD4	H2KYD4
+Q17865	Q17865
+Q17865	YTE4
+Q17865	C09G1.4
+Q17865	Uncharacterized C09G1.4
+Q18787	Q18787
+Q18787	PRS7
+Q18787	rpt-1
+Q18787	C52E4.4
+Q18787	26S proteasome regulatory subunit 7
+Q18787	26S proteasome AAA-ATPase subunit rpt-1
+Q18787	Proteasome 26S subunit ATPase 2
+P34296	P34296
+P34296	YKQ1
+P34296	C06E1.1
+P34296	Uncharacterized C06E1.1
+H2KZJ7	H2KZJ7
+H2KZJ7	praf-3
+H2KZJ7	PRA1 family
+Q19826	Q19826
+Q19826	RPAb3
+Q19826	rpb-8
+Q19826	F26F4.11
+Q19826	"Probable DNA-directed RNA polymerases I, II,"
+Q19826	III subunit RPAbC3
+Q19826	"RNA polymerases I, II,"
+Q19826	III subunit AbC3
+Q19826	RNA polymerase b subunit 8
+Q19826	RPb8
+Q19826	RPb17
+O17099	O17099
+A0A0S4XR43	A0A0S4XR43
+A0A0S4XR43	ccar-1
+A0A0S4XR43	SAP domain-containing
+Q27488	Q27488
+Q27488	PSA2
+Q27488	pas-2
+Q27488	D1054.2
+Q27488	Proteasome subunit alpha type-2
+Q27488	Proteasome subunit alpha 2
+Q95005	Q95005
+Q95005	PSA7
+Q95005	pas-4
+Q95005	C36b1.4
+Q95005	Proteasome subunit alpha type-7
+Q95005	Proteasome subunit alpha 4
+Q8MPT2	Q8MPT2
+Q9U757	Q9U757
+Q9U757	NXT1
+Q9U757	nxt-1
+Q9U757	nxt1
+Q9U757	Y71F9AM.5
+Q9U757	NTF2-related export
+O45503	O45503
+O45503	MTX1
+O45503	mtx-1
+O45503	F39b2.11
+O45503	Metaxin-1
+O45503	Mitochondrial outer membrane import complex 1
+O62252	O62252
+O62252	U195
+O62252	F45G2.10
+O62252	MIP18 family F45G2.10
+P34269	P34269
+P34269	TYR1
+P34269	tyr-1
+P34269	C02C2.1/C02C2.2
+P34269	Putative tyrosinase-like tyr-1
+O17200	O17200
+O17200	fbxa-166
+P34286	P34286
+P34286	PSb1
+P34286	pbs-6
+P34286	C02F5.9
+P34286	Proteasome subunit beta type-1
+P34286	Proteasome subunit beta 6
+P34344	P34344
+P34344	TG250
+P34344	tag-250
+P34344	C29E4.5
+P34344	Putative tag-250
+O16893	O16893
+O16893	Gag-pol poly
+O01489	O01489
+O01489	CCHC-type domain-containing
+G5EF99	G5EF99
+G5EF99	SHSP domain-containing
+Q19986	Q19986
+Q19986	wdr-83
+Q19986	WD repeat domain-containing 83
+Q19986	Mitogen-activated kinase organizer 1
+Q21924	Q21924
+Q21924	GPKOW
+Q21924	gkow-1
+Q21924	mos-2
+Q21924	R11A8.2
+Q21924	G-patch domain
+Q21924	KOW motifs-containing 1
+O62102	O62102
+O62102	pbs-2
+O62102	Proteasome subunit beta
+Q17TI5	Q17TI5
+Q17TI5	bRX_ARATH
+Q17TI5	bRX
+Q17TI5	F5M6.11
+Q17TI5	bREVIS RADIX
+Q17TI5	AtbRX
+Q9NA56	Q9NA56
+Q9NA56	TbX39
+Q9NA56	tbx-39
+Q9NA56	Y73F8A.16
+Q9NA56	Putative T-box 39
+G5ECZ8	G5ECZ8
+G5ECZ8	mpz-1
+Q9U2R6	Q9U2R6
+Q9U2R6	NHR91
+Q9U2R6	nhr-91
+Q9U2R6	Y15E3A.1
+Q9U2R6	Nuclear hormone receptor family member nhr-91
+Q9U3P2	Q9U3P2
+Q9U3P2	SYG2
+Q9U3P2	syg-2
+Q9U3P2	C26G2.1
+Q9U3P2	Synaptogenesis syg-2
+Q9U3P2	Synaptogenesis abnormal 2
+Q9XVS2	Q9XVS2
+Q9XVS2	sup-46
+G5EFI7	G5EFI7
+G5EFI7	MYRF1
+G5EFI7	myrf-1
+G5EFI7	pqn-47
+G5EFI7	F59b10.1
+G5EFI7	Myelin regulatory factor 1
+G5EFI7	Polyglutamine-repeat 47
+G5EFI7	"Cleaved into: Myelin regulatory factor 1, N-terminal"
+G5EFI7	"Myelin regulatory factor 1, C-terminal"
+Q9BIG2	Q9bIG2
+Q9BIG2	GPA14
+Q9BIG2	gpa-14
+Q9BIG2	b0207.3
+Q9BIG2	Guanine nucleotide-binding alpha-14 subunit
+Q93244	Q93244
+Q93244	CYSK1
+Q93244	cysl-1
+Q93244	C17G1.7
+Q93244	Cysteine synthase 1
+Q93244	EC 2.5.1.47
+Q93244	O-acetylserine
+Q93244	thiol
+Q93244	-lyase 1
+Q93244	OAS-TL
+Q93758	Q93758
+Q93758	swan-1
+Q18605	Q18605
+Q18605	athp-1
+Q18605	PHD-type domain-containing
+O01481	O01481
+Q17746	Q17746
+Q17746	gldi-4
+Q17746	ZZ-type domain-containing
+Q93231	Q93231
+Q93231	PRKC apoptosis WT1 regulator
+Q966J6	Q966J6
+Q966J6	ZM domain-containing
+Q20670	Q20670
+Q20670	phosphatase 1 regulatory subunit 1b
+Q22387	Q22387
+Q22387	Centrosomal of 162 kDa
+Q7JP75	Q7JP75
+Q7JP75	cyk-1
+Q7JP75	WAPL domain-containing
+O18195	O18195
+O18195	WASH1
+O18195	ddl-2
+O18195	Y48E1b.1
+O18195	WASH complex subunit 1
+Q9TYU9	Q9TYU9
+Q9TYU9	EXC6
+Q9TYU9	exc-6
+Q9TYU9	inft-1
+Q9TYU9	F58b6.2
+Q9TYU9	Excretory canal abnormal 6
+Q17744	Q17744
+Q17744	EF-h
+Q3Y407	Q3Y407
+Q3Y407	grd-7
+Q3Y407	Ground-like domain-containing
+O45522	O45522
+O45522	idpp-3
+O45522	"Intrinsically Disordered , expressed in Pharynx"
+O45681	O45681
+O45681	Secreted
+Q9TYX9	Q9TYX9
+Q9TYX9	SPK domain-containing
+Q22002	Q22002
+Q22002	MAb10
+Q22002	mab-10
+Q22002	R166.1
+Q22002	NAb transcription cofactor mab-10
+Q22002	male abnormal 10
+Q03601	Q03601
+Q03601	NHL1
+Q03601	nhl-1
+Q03601	F54G8.4
+Q03601	RING finger nhl-1
+Q95QA6	Q95QA6
+Q95QA6	PAT12
+Q95QA6	pat-12
+Q95QA6	T17H7.4
+Q95QA6	Paralyzed arrest at two-fold 12
+Q09442	Q09442
+Q09442	SF3b4
+Q09442	sap-49
+Q09442	C08b11.5
+Q09442	Splicing factor 3b subunit 4
+Q09442	Spliceosome-associated 49
+Q19019	Q19019
+Q19019	sli-1
+Q19019	E3 ubiquitin- ligase CbL
+Q8MXU3	Q8MXU3
+Q8MXU3	snn-1
+Q8MXU3	ATP-grasp domain-containing
+Q1XFY2	Q1XFY2
+Q1XFY2	tag-343
+Q1XFY2	RNA polymerase II-associated factor 1
+Q9U2Z0	Q9U2Z0
+Q9U2Z0	OTXH
+Q9U2Z0	ttx-1
+Q9U2Z0	Y113G7A.6
+Q9U2Z0	Homeobox ttx-1
+Q9U2Z0	Abnormal thermotaxis 1
+Q9U2Z0	OTX homeobox ttx-1
+Q9XZI6	Q9XZI6
+Q9XZI6	PICAL
+Q9XZI6	unc-11
+Q9XZI6	C32E8.10
+Q9XZI6	Phosphatidylinositol-binding clathrin assembly unc-11
+Q9XZI6	AP180-like adaptor
+Q9XZI6	Uncoordinated 11
+Q17795	Q17795
+Q8MQE6	Q8MQE6
+Q95Y58	Q95Y58
+Q95Y58	Mic1 domain-containing
+P20271	P20271
+P20271	HM14
+P20271	ceh-14
+P20271	F46C8.5
+P20271	LIM/homeobox ceh-14
+P20271	Homeobox ceh-14
+G5EFI9	G5EFI9
+G5EFI9	hus-1
+O02115	O02115
+O02115	PCNA
+O02115	pcn-1
+O02115	W03D2.4
+O02115	Proliferating cell nuclear antigen
+O61707	O61707
+O61707	TAF4
+O61707	taf-4
+O61707	taf-5
+O61707	R119.6
+O61707	Transcription initiation factor TFIID subunit 4
+O61707	TbP-associated transcription factor family member taf-4
+Q95QC4	Q95QC4
+Q95QC4	DCLK
+Q95QC4	zyg-8
+Q95QC4	Y79H2A.11
+Q95QC4	Serine/threonine- kinase zyg-8
+Q95QC4	Doublecortin-like
+Q95QC4	CAM kinase-like
+G5EEM5	G5EEM5
+G5EEM5	ZYG9
+G5EEM5	zyg-9
+G5EEM5	F22b5.7
+G5EEM5	Zygote defective 9
+G5ECU7	G5ECU7
+G5ECU7	1-Jun
+G5ECU7	T24H10.7
+G5ECU7	Transcription factor jun-1
+G5ECU7	Transcription factor AP-1 subunit jun-1
+Q17962	Q17962
+Q94251	Q94251
+Q94251	DRE1
+Q94251	dre-1
+Q94251	K04A8.6
+Q94251	F-box dre-1
+Q94251	Daf-12 redundant function
+G5EDX9	G5EDX9
+G5EDX9	fbxa-101
+G5EDX9	DUF38 domain-containing
+O17198	O17198
+O17198	fbxa-164
+O16525	O16525
+O16525	fbxa-196
+Q2YS43	Q2YS43
+Q2YS43	fog-2
+Q18223	Q18223
+Q18223	FbSP1
+Q18223	fsn-1
+Q18223	C26E6.5
+Q18223	F-box/SPRY domain-containing 1
+Q18223	F-box synaptic 1
+Q93794	Q93794
+Q93794	SEL10
+Q93794	sel-10
+Q93794	egl-41
+Q93794	F55b12.3
+Q93794	F-box/WD repeat-containing sel-10
+Q93794	Egg laying defective 41
+Q93794	Suppressor/enhancer of lin-12 10
+P91305	P91305
+P91305	xrep-4
+P42573	P42573
+P42573	CED3
+P42573	ced-3
+P42573	C48D1.2
+P42573	Cell death 3
+P42573	EC 3.4.22.60
+P42573	Caspase ced-3
+P42573	Cleaved into: Cell death 3 subunit p17
+P42573	Cell death 3 subunit p15
+P42573	Cell death 3 subunit p13
+Q95ZY7	Q95ZY7
+Q95ZY7	ajm-1
+Q95ZY7	Apical junction molecule
+Q18426	Q18426
+Q18426	prx-5
+Q18426	TPR_REGION domain-containing
+Q18235	Q18235
+Q18235	IFY1
+Q18235	ify-1
+Q18235	C27A2.3
+Q18235	Securin-like
+Q18235	Interactor of Fizzy
+Q6BEV5	Q6bEV5
+Q6BEV5	YRMC
+Q6BEV5	R06F6.12
+Q6BEV5	Uncharacterized R06F6.12
+Q22397	Q22397
+Q22397	AAT6
+Q22397	aat-6
+Q22397	T11F9.4
+Q22397	Amino acid transporter 6
+Q10929	Q10929
+Q10929	abi-1
+Q9N4P3	Q9N4P3
+Q9N4P3	R3H domain-containing
+Q22703	Q22703
+Q22703	TFDP1
+Q22703	dpl-1
+Q22703	T23G7.1
+Q22703	Transcription factor dpl-1
+O61460	O61460
+O61460	VAb1
+O61460	vab-1
+O61460	M03A1.1
+O61460	Ephrin receptor 1
+O61460	EC 2.7.10.1
+O61460	Tyrosine- kinase Eph receptor
+O61460	Variable abnormal 1
+Q9BIF4	Q9bIF4
+Q9BIF4	ehs-1
+Q9BIF4	EHS-1
+Q9BIF4	Eps15
+Q9BIF4	Endocytosis
+Q9BIF4	Homologous Sequence
+Q9N4U5	Q9N4U5
+Q9N4U5	SMU2
+Q9N4U5	smu-2
+Q9N4U5	Y49F6b.4
+Q9N4U5	Smu-2 suppressor of mec-8
+Q9N4U5	RED
+Q9N4U5	Unc defects 2
+G5EG44	G5EG44
+G5EG44	MDL1
+G5EG44	mdl-1
+G5EG44	R03E9.1
+G5EG44	Mad-like 1
+Q9XTB2	Q9XTb2
+Q9XTB2	GPA13
+Q9XTB2	gpa-13
+Q9XTB2	F18E2.5
+Q9XTB2	Guanine nucleotide-binding alpha-13 subunit
+X5M5N0	X5M5N0
+X5M5N0	WNK
+X5M5N0	wnk-1
+X5M5N0	C46C2.1
+X5M5N0	Serine/threonine- kinase WNK
+X5M5N0	kinase with no lysine 1
+Q20084	Q20084
+Q20084	exc-7
+Q9GRZ1	Q9GRZ1
+Q9GRZ1	ebp-1
+Q9GRZ1	Microtubule End binding
+O02217	O02217
+O02217	P2R31
+O02217	rsa-1
+O02217	C25A1.9
+O02217	Serine/threonine- phosphatase 2A regulatory subunit rsa-1
+O02217	Regulator of spindle assembly 1
+O02217	Serine/threonine- phosphatase 2A 72kDa regulatory subunit rsa-1
+O02217	Serine/threonine- phosphatase 2A regulatory subunit b'' rsa-1
+Q22639	Q22639
+Q22639	VPS54
+Q22639	vps-54
+Q22639	T21C9.2
+Q22639	Vacuolar sorting-associated 54
+G5EGG8	G5EGG8
+G5EGG8	rad51
+Q23536	Q23536
+Q23536	LGG2
+Q23536	lgg-2
+Q23536	ZK593.6
+P34314	P34314
+P34314	TLK1
+P34314	tlk-1
+P34314	C07A9.3
+P34314	Serine/threonine- kinase tousled-like 1
+P34314	Tousled-like kinase 1
+O61847	O61847
+O61847	CDK2
+O61847	cdk-2
+O61847	K03E5.3
+O61847	Cyclin-dependent kinase 2
+O61847	Cell division kinase 2
+P91001	P91001
+P91001	CSN5
+P91001	csn-5
+P91001	b0547.1
+P91001	COP9 signalosome complex subunit 5
+P91001	Signalosome subunit 5
+P91001	JAb1
+Q9U3F4	Q9U3F4
+Q9U3F4	ZYX
+Q9U3F4	zyx-1
+Q9U3F4	F42G4.3
+Q9U3F4	Zyxin
+Q9U3B7	Q9U3b7
+Q9U3B7	hsb-1
+Q9U3B7	Heat shock factor-binding 1
+O44712	O44712
+O44712	AHR
+O44712	ahr-1
+O44712	C41G7.5
+O44712	Aryl hydrocarbon receptor 1
+O62505	O62505
+O62505	LisH domain-containing
+Q93616	Q93616
+Q93616	lsy-22
+Q93616	STI1 domain-containing
+Q9XVV3	Q9XVV3
+Q9XVV3	NHR67
+Q9XVV3	nhr-67
+Q9XVV3	C08F8.8
+Q9XVV3	Nuclear hormone receptor family member nhr-67
+Q22678	Q22678
+Q22678	SPTF2
+Q22678	sptf-2
+Q22678	T22C8.5
+Q22678	Specificity transcription factor 2
+Q18694	Q18694
+Q18694	UN130
+Q18694	unc-130
+Q18694	C47G2.2
+Q18694	Forkhead box unc-130
+Q18694	Uncoordinated 130
+Q18688	Q18688
+Q18688	HSP90
+Q18688	daf-21
+Q18688	C47E8.5
+Q18688	Heat shock 90
+Q18688	Abnormal dauer formation 21
+P09446	P09446
+P09446	HSP1
+P09446	hsp-1
+P09446	hsp70a
+P09446	F26D10.3
+P09446	Heat shock hsp-1
+P09446	Heat shock 70 kDa A
+Q9TZC4	Q9TZC4
+Q9TZC4	ILKH
+Q9TZC4	pat-4
+Q9TZC4	C29F9.7
+Q9TZC4	Integrin-linked kinase pat-4
+Q9TZC4	ILK
+Q9TZC4	Paralyzed
+Q9TZC4	arrested elongation at two-fold 4
+Q9XTG7	Q9XTG7
+Q9XTG7	AKT2
+Q9XTG7	akt-2
+Q9XTG7	F28H6.1
+Q9XTG7	Serine/threonine- kinase akt-2
+Q9XTG7	kinase b akt-2
+Q9XTG7	PKb akt-2
+Q21921	Q21921
+Q21921	SIR2
+Q21921	R11A8.4
+Q21921	NAD-dependent deacetylase sir-2.1
+Q21921	EC 2.3.1.286
+Q21921	Regulatory SIR2 1
+Q9GYS1	Q9GYS1
+Q9GYS1	MES6
+Q9GYS1	mes-6
+Q9GYS1	C09G4.5
+Q9GYS1	Polycomb mes-6
+Q9GYS1	ESC
+Q9GYS1	Maternal-effect sterile 6
+Q19955	Q19955
+Q19955	ags-3
+Q19955	Tetratricopeptide repeat 28
+Q9GZH2	Q9GZH2
+Q9GZH2	RUVb2
+Q9GZH2	ruvb-2
+Q9GZH2	T22D1.10
+Q9GZH2	Ruvb-like 2
+Q9GZH2	Reptin
+Q11103	Q11103
+Q11103	YL18
+Q11103	C02F12.8
+Q11103	Uncharacterized C02F12.8
+Q94165	Q94165
+Q94165	HM34
+Q94165	ceh-34
+Q94165	C10G8.6
+Q94165	Homeobox ceh-34
+Q9XXU2	Q9XXU2
+Q21127	Q21127
+Q21127	MEGG2
+Q21127	meg-2
+Q21127	K02b9.2
+Q21127	Maternal effect germ cell defective 2
+Q10923	Q10923
+Q10923	ntl-2
+Q10923	NOT2/NOT3/NOT5 C-terminal domain-containing
+O17894	O17894
+O17894	HM35
+O17894	unc-39
+O17894	ceh-35 mig-3
+O17894	F56A12.1
+O17894	Homeobox unc-39
+O17894	Homeobox ceh-35
+O17894	Uncoordinated 39
+Q94131	Q94131
+Q94131	PIE1
+Q94131	pie-1
+Q94131	pic-1
+Q94131	Y49E10.14
+Q94131	Pharynx
+Q94131	intestine in excess 1
+P54812	P54812
+P54812	TERA2
+P54812	cdc-48.2
+P54812	C41C4.8
+P54812	Transitional endoplasmic reticulum ATPase 2
+P54812	Cell division cycle-related 48.2
+P54812	p97/CDC48 2
+Q966L9	Q966L9
+Q966L9	GLH2
+Q966L9	glh-2
+Q966L9	C55b7.1
+Q966L9	ATP-dependent RNA helicase glh-2
+Q966L9	Germline helicase 2
+P55163	P55163
+P55163	GEX3
+P55163	gex-3
+P55163	F28D1.10
+P55163	Membrane-associated gex-3
+P55163	Gut on exterior 3
+Q9TZQ3	Q9TZQ3
+Q9TZQ3	PGL1
+Q9TZQ3	pgl-1
+Q9TZQ3	ZK381.4
+Q9TZQ3	Guanyl-specific ribonuclease pgl-1
+Q9TZQ3	P granule abnormality 1
+Q21955	Q21955
+Q21955	MED15
+Q21955	mdt-15
+Q21955	R12b2.5
+Q21955	Mediator of RNA polymerase II transcription subunit 15
+Q21955	Mediator complex subunit 15
+Q9N4Q7	Q9N4Q7
+Q9N4Q7	NHR13
+Q9N4Q7	nhr-13
+Q9N4Q7	Y5H2b.2
+Q9N4Q7	Nuclear hormone receptor family member nhr-13
+Q09528	Q09528
+Q09528	NHR19
+Q09528	nhr-19
+Q09528	E02H1.7
+Q09528	Nuclear hormone receptor family member nhr-19
+Q09565	Q09565
+Q09565	NHR20
+Q09565	nhr-20
+Q09565	F43C1.4
+Q09565	Nuclear hormone receptor family member nhr-20
+Q9NAJ3	Q9NAJ3
+Q9NAJ3	nhr-234
+Q9NAJ3	Nuclear receptor domain-containing
+Q65CM0	Q65CM0
+Q65CM0	NHR76
+Q65CM0	nhr-76
+Q65CM0	C05G6.1
+Q65CM0	Nuclear hormone receptor family member nhr-76
+Q20398	Q20398
+Q20398	magu-4
+Q9U9Y8	Q9U9Y8
+Q9U9Y8	NLK
+Q9U9Y8	lit-1
+Q9U9Y8	nlk
+Q9U9Y8	W06F12.1
+Q9U9Y8	Serine/threonine kinase NLK
+Q9U9Y8	Loss of intestine 1
+Q9U9Y8	Nemo-like kinase
+Q9BIC1	Q9bIC1
+Q9BIC1	afd-1
+Q9BIC1	Afadin
+P90976	P90976
+P90976	LIN-7
+Q22497	Q22497
+Q20898	Q20898
+Q20898	IFET1
+Q20898	ifet-1
+Q20898	spn-2
+Q20898	F56F3.1
+Q20898	Translational repressor ifet-1
+Q20898	Spindle orientation defective 2
+Q9XW13	Q9XW13
+Q9XW13	MXT
+Q9XW13	mxt-1
+Q9XW13	mxt
+Q9XW13	Y18D10A.8
+Q9XW13	Eukaryotic translation initiation factor 4E-binding Mextli
+Q09293	Q09293
+Q09293	TOFU6
+Q09293	tofu-6
+Q09293	mel-47
+Q09293	EEED8.1
+Q09293	Embryonic developmental tofu-6
+Q09293	21U-RNA biogenesis fouled up 6
+Q09293	Maternal effect lethal 47
+Q18825	Q18825
+Q18825	bAR1
+Q18825	bar-1
+Q18825	pvl-1 spy-1
+Q18825	C54D1.6
+Q18825	beta-catenin/armadillo-related 1
+Q18825	Protruding vulva 1
+Q18825	Suppressor of polyray 1
+Q9U2Q9	Q9U2Q9
+Q9U2Q9	GSK3
+Q9U2Q9	gsk-3
+Q9U2Q9	sgg-1
+Q9U2Q9	Y18D10A.5
+Q9U2Q9	Glycogen synthase kinase-3
+Q9U2Q9	EC 2.7.11.26
+P91409	P91409
+P91409	STX4
+P91409	syx-4
+P91409	syn-4
+P91409	T01b11.3
+P91409	Putative syntaxin-4
+Q20057	Q20057
+Q20057	ERH2
+Q20057	erh-2
+Q20057	F35G12.11
+Q20057	Enhancer of rudimentary 2
+Q93646	Q93646
+Q93646	SNT1
+Q93646	stn-1
+Q93646	F30A10.8
+Q93646	Syntrophin-1
+P02566	P02566
+P02566	MYO4
+P02566	unc-54
+P02566	myo-4
+P02566	F11C3.3
+P02566	Myosin-4
+P02566	Myosin heavy chain b
+P02566	MHC b
+P02566	Uncoordinated 54
+Q11181	Q11181
+Q11181	YPC4
+Q11181	C05D10.4
+Q11181	Uncharacterized C05D10.4
+Q18953	Q18953
+Q18953	SPCS
+Q18953	secs-1
+Q18953	D1054.13
+Q18953	O-phosphoseryl-tRNA
+Q18953	Sec
+Q18953	selenium transferase
+Q18953	EC 2.9.1.2
+Q18953	Selenocysteine synthase
+Q18953	Sec synthase
+Q18953	Selenocysteinyl-tRNA
+Q18953	synthase
+Q18953	Sep-tRNA:Sec-tRNA synthase
+Q18953	SepSecS
+Q18953	UGA suppressor tRNA-associated
+Q18320	Q18320
+Q18320	szy-4
+Q18320	Suppressor of ZYg-1
+P91505	P91505
+P91505	gst-23
+P91505	Glutathione S-transferase
+Q9N337	Q9N337
+Q9N337	MED6
+Q9N337	mdt-6
+Q9N337	med-6
+Q9N337	Y57E12AL.5
+Q9N337	Mediator of RNA polymerase II transcription subunit 6
+Q9N337	CeMED6
+Q9N337	Mediator complex subunit 6
+Q9N337	c-MED6
+Q9N337	MED-6
+Q9BKS1	Q9bKS1
+Q9BKS1	elc-1
+Q9BKS1	Elongin-C
+Q21049	Q21049
+Q21049	LIPA
+Q21049	syd-2
+Q21049	F59F5.6
+Q21049	Liprin-alpha
+Q21049	LAR-interacting alpha
+Q21049	Synapse defective 2
+Q09624	Q09624
+Q09624	PKD1
+Q09624	lov-1
+Q09624	pkd-1
+Q09624	ZK945.9/ZK945.10
+Q09624	Location of vulva defective 1
+Q09624	Polycystic kidney disease 1
+Q09624	Polycystin-1
+Q62245	Q62245
+Q62245	SOS1_MOUSE
+Q62245	Sos1
+Q62245	Son of sevenless 1
+Q62245	SOS-1
+Q62245	mSOS-1
+Q20924	Q20924
+Q20924	SUN1
+Q20924	sun-1
+Q20924	mtf-1
+Q20924	F57b1.2
+Q20924	Sun domain-containing 1
+Q07817-1	Q07817-1
+Q07817-1	b2CL1_HUMAN
+Q07817-1	bCL2L1
+Q07817-1	bCL2L BCLX
+Q07817-1	Isoform bcl-X
+Q07817-1	of bcl-2-like 1
+Q07817-1	bcl2-L-1
+Q07817-1	Apoptosis regulator bcl-X
+Q19824	Q19824
+Q19824	cee-1
+Q19824	Conserved Edge Expressed
+Q93934	Q93934
+Q93934	adk-1
+Q93934	Adenosine kinase
+Q93934	EC 2.7.1.20
+Q93934	Adenosine 5'-phosphotransferase
+Q9XVU8	Q9XVU8
+P90900	P90900
+P90900	IFA4
+P90900	ifa-4
+P90900	K05b2.3
+P90900	Intermediate filament ifa-4
+P90900	Cel IF A4
+P90900	Intermediate filament A4
+P90900	IF-A4
+Q93212	Q93212
+Q93212	SOL1
+Q93212	sol-1
+Q93212	C15A11.3
+Q93212	Suppressor of lurcher 1
+Q20818	Q20818
+Q20818	capg-2
+Q20818	CAP-G condensin subunit
+P34766	P34766
+P34766	PAL1
+P34766	pal-1
+P34766	ceh-3
+P34766	C38D4.6
+P34766	Homeobox pal-1
+P34766	Caudal 1
+P34766	Homeobox ceh-3
+P34766	Posterior alae in males 1
+Q6AW06	Q6AW06
+Q6AW06	DOT11
+Q6AW06	dot-1.1
+Q6AW06	Y39G10AR.18
+Q6AW06	"Histone-lysine N-methyltransferase, H3 lysine-79 specific"
+Q6AW06	EC 2.1.1.360
+Q6AW06	Histone H3-K79 methyltransferase
+Q9GZI7	Q9GZI7
+Q9GZI7	eri-3
+Q95XS0	Q95XS0
+Q95XS0	eri-5
+Q95XS0	Tudor domain-containing
+P52478	P52478
+P52478	UbC1
+P52478	ubc-1
+P52478	C35b1.1
+P52478	Ubiquitin-conjugating enzyme E2 1
+P52478	E2 ubiquitin-conjugating enzyme 1
+P52478	Ubiquitin carrier 1
+P52478	Ubiquitin- ligase 1
+Q19672	Q19672
+Q19672	rde-2
+P46822	P46822
+P46822	KLC
+P46822	klc-2
+P46822	C18C4.10
+P46822	Kinesin light chain
+Q965H3	Q965H3
+Q965H3	SOP2
+Q965H3	sop-2
+Q965H3	C50E10.4
+Q965H3	Polycomb sop-2
+Q965H3	Suppressor of pal-1 2
+Q8I7M8	Q8I7M8
+Q8I7M8	CDK17
+Q8I7M8	pct-1
+Q8I7M8	C07G1.3
+Q8I7M8	Cyclin-dependent kinase 17
+Q8I7M8	Cell division kinase 17
+Q8I7M8	PCTAIRE-motif kinase
+P34709	P34709
+P34709	TRA2
+P34709	tra-2
+P34709	C15F1.3
+P34709	Sex-determining transformer 2
+P34709	Ce-Tra-2
+Q9XTS1	Q9XTS1
+Q9XTS3	Q9XTS3
+Q9XTS3	Katanin_con80 domain-containing
+Q9XTF3-2	Q9XTF3-2
+Q9XTF3-2	Isoform a of Dual specificity tyrosine-phosphorylation-regulated kinase mbk-2
+P37806	P37806
+P37806	UNC87
+P37806	unc-87
+P37806	F08b6.4
+P37806	Uncoordinated 87
+Q8I4E2	Q8I4E2
+Q8I4E2	LST4
+Q8I4E2	lst-4
+Q8I4E2	Y37A1b.2
+Q8I4E2	Sorting nexin lst-4
+Q8I4E2	Lateral signaling target 4
+P39745	P39745
+P39745	MPK1
+P39745	mpk-1
+P39745	sur-1
+P39745	F43C1.2
+P39745	Mitogen-activated kinase mpk-1
+P39745	MAP kinase sur-1
+Q9N5D6	Q9N5D6
+Q9N5D6	UNC62
+Q9N5D6	unc-62
+Q9N5D6	T28F12.2
+Q9N5D6	Homeobox unc-62
+Q9N5D6	Uncoordinated 62
+Q9TZ70	Q9TZ70
+Q9TZ70	MXL2
+Q9TZ70	mxl-2
+Q9TZ70	F40G9.11
+Q9TZ70	Max-like 2
+Q22174	Q22174
+Q22174	slfl-5
+Q22174	Tr-type G domain-containing
+P50488	P50488
+P50488	DAF4
+P50488	daf-4
+P50488	C05D2.1
+P50488	Cell surface receptor daf-4
+P50488	Abnormal dauer formation 4
+Q09497	Q09497
+Q09497	rsu-1
+Q09497	Ras suppressor 1
+Q9TZI4	Q9TZI4
+Q9TZI4	GbAS1
+Q9TZI4	gbas-1
+Q9TZI4	F59H5.1
+Q9TZI4	G- alpha subunit activating gbas-1
+Q86RS9	Q86RS9
+Q86RS9	Rap1GAP
+Q9TXH9	Q9TXH9
+Q9TXH9	UbXN1
+Q9TXH9	ubxn-1
+Q9TXH9	F23C8.4
+Q9TXH9	UbX domain-containing 1
+Q18624	Q18624
+Q18624	gmeb-3
+Q18624	SAND domain-containing
+Q9U245	Q9U245
+Q9U245	lin-7
+Q23158	Q23158
+P90740	P90740
+P90740	FAN1
+P90740	fan-1
+P90740	C01G5.8
+P90740	Fanconi-associated nuclease 1
+P90740	EC 3.1.4.1
+P90925	P90925
+P90925	PH4H
+P90925	pah-1
+P90925	bas-2
+P90925	K08F8.4
+P90925	Phenylalanine-4-hydroxylase
+P90925	PAH
+P90925	EC 1.14.16.1
+P90925	EC 1.14.16.4
+P90925	biogenic amine synthesis 2
+P90925	Phe-4-monooxygenase
+P90925	Tryptophan 5-monooxygenase
+Q9GRY9	Q9GRY9
+Q9GRY9	nova-1
+Q9GRY9	K Homology domain-containing
+Q9GT24	Q9GT24
+Q9GT24	ZYG1
+Q9GT24	zyg-1
+Q9GT24	F59E12.2
+Q9GT24	Probable serine/threonine- kinase zyg-1
+Q9GT24	Zygote defective 1
+Q09408	Q09408
+Q09408	pup-2
+Q09408	PAP-associated domain-containing
+Q9XTB5	Q9XTb5
+Q9XTB5	LEM2
+Q9XTB5	lem-2
+Q9XTB5	W01G7.5
+Q9XTB5	LEM 2
+Q9XTB5	Ce-MAN1
+Q9XTB5	MAN1
+Q9N5M6	Q9N5M6
+Q9N5M6	FbF1
+Q9N5M6	fbf-1
+Q9N5M6	H12I13.4
+Q9N5M6	Fem-3 mRNA-binding factor 1
+Q17353-2	Q17353-2
+Q17353-2	Isoform a of Partitioning defective 3
+Q09349	Q09349
+Q09349	UbE4
+Q09349	ufd-2
+Q09349	T05H10.5
+Q09349	Ubiquitin conjugation factor E4 ufd-2
+Q09349	E4 ubiquitin- ligase ufd-2
+Q09349	RING-type E3 ubiquitin transferase E4
+Q09349	Ubiquitin fusion degradation 2
+Q09463	Q09463
+Q09463	RNF5
+Q09463	rnf-5
+Q09463	C16C10.7
+Q09463	E3 ubiquitin ligase rnf-5
+Q09463	RING finger 5
+Q17740	Q17740
+Q17740	ain-1
+Q17740	ALG-1 INteracting
+Q20060	Q20060
+Q20060	SMC4
+Q20060	smc-4
+Q20060	F35G12.8
+Q20060	Structural maintenance of chromosomes 4
+Q20060	SMC 4
+Q20060	SMC-4
+Q21017	Q21017
+Q21017	KIN29
+Q21017	kin-29
+Q21017	sma-11
+Q21017	F58H12.1
+Q21017	Serine/threonine- kinase kin-29
+Q23533	Q23533
+Q23533	SORF1
+Q23533	sorf-1
+Q23533	ZK563.5
+Q23533	Suppressor of organelle fusion 1
+Q9NA64	Q9NA64
+Q9NA64	ILCR1
+Q9NA64	ilcr-1
+Q9NA64	Y64G10A.6
+Q9NA64	Interleukin cytokine receptor-related 1
+Q9NA64	Interleukin-17 receptor-like 1
+Q9U2G4	Q9U2G4
+Q9U2G4	puf-3
+Q9U2G4	PUM-HD domain-containing
+Q10658	Q10658
+Q10658	UN119
+Q10658	unc-119
+Q10658	M142.1
+Q10658	Uncoordinated 119
+Q9XVI2	Q9XVI2
+Q9XVI2	sys-1
+Q9XVI2	SYmmetrical Sister cell hermaphrodite gonad defect
+Q9XVD5	Q9XVD5
+Q9XVD5	TbX38
+Q9XVD5	tbx-38
+Q9XVD5	C24H11.3
+Q9XVD5	T-box 38
+Q9NAE4	Q9NAE4
+Q9NAE4	zip-7
+Q21556	Q21556
+Q21556	col-129
+Q21556	Nematode cuticle collagen N-terminal domain-containing
+Q22054	Q22054
+Q22054	RS16
+Q22054	rps-16
+Q22054	T01C3.6
+Q22054	Small ribosomal subunit uS9
+Q22054	40S ribosomal S16
+Q2WF59	Q2WF59
+Q2WF59	ZER1
+Q2WF59	zer-1
+Q2WF59	T24C4.6
+Q2WF59	Zyg eleven-related 1
+Q2WF59	zyg-11-related
+Q9NF14	Q9NF14
+Q9NF14	bAT40
+Q9NF14	bATH-40
+Q9NF14	bATH40
+Q9NF14	bTB and MATH domain-containing 40
+Q18986	Q18986
+Q18776	Q18776
+Q18776	inso-1
+Q3SWS8	Q3SWS8
+Q3SWS8	RAE1L_RAT
+Q3SWS8	Rae1
+Q3SWS8	Mrnp41
+Q3SWS8	mRNA export factor
+Q3SWS8	mRNA-associated mrnp 41
+Q27497	Q27497
+Q27497	GLC7A
+Q27497	gsp-1
+Q27497	F29F11.6
+Q27497	Serine/threonine- phosphatase PP1-alpha
+Q27497	CeGLC-7-alpha
+Q27497	Glc seven-like phosphatase 1
+Q21952	Q21952
+Q21952	NUF2
+Q21952	him-10
+Q21952	R12b2.4
+Q21952	Kinetochore Nuf2
+Q21952	CeNuf2
+Q21952	Kinetochore him-10
+Q21952	high incidence of males 10
+Q86S66	Q86S66
+Q86S66	NACA
+Q86S66	icd-2
+Q86S66	Y65b4BR.5
+Q86S66	Nascent polypeptide-associated complex subunit alpha
+Q86S66	NAC-alpha
+Q86S66	Alpha-NAC
+Q86S66	Inhibitor of cell death 2
+Q18909	Q18909
+Q18909	CEbP1
+Q18909	cebp-1
+Q18909	D1005.3
+Q18909	CCAAT/enhancer-binding 1
+Q21746	Q21746
+Q21746	sgt-1
+Q21746	SGTA homodimerisation domain-containing
+Q9XTY6	Q9XTY6
+Q9XTY6	Numb-related 1
+Q9XTY6-1	Q9XTY6-1
+Q9XTY6-1	Isoform a of Numb-related 1
+Q19286	Q19286
+Q19286	IFb2
+Q19286	ifb-2
+Q19286	F10C1.7
+Q19286	Intermediate filament ifb-2
+Q19286	Cel IF b2
+Q19286	Intermediate filament b2
+Q19286	IF-b2
+Q95Y97	Q95Y97
+Q95Y97	rpa-2
+Q95Y97	Replication A C-terminal domain-containing
+Q95QZ9	Q95QZ9
+Q95QZ9	NPL42
+Q95QZ9	npl-4.2
+Q95QZ9	F59E12.5
+Q95QZ9	Nuclear localization 4 2
+Q86XL3	Q86XL3
+Q86XL3	ANKL2_HUMAN
+Q86XL3	ANKLE2
+Q86XL3	KIAA0692 LEM4
+Q86XL3	LEM domain-containing 4
+Q9TZK8	Q9TZK8
+Q9TZK8	meg-4
+Q9TZK8	J domain-containing
+W6RTA4	W6RTA4
+W6RTA4	CLA1
+W6RTA4	cla-1
+W6RTA4	tag-80
+W6RTA4	F45E4.3
+W6RTA4	clarinet
+Q22306	Q22306
+Q22306	YW12
+Q22306	T07D4.2
+Q22306	UPF0046 T07D4.2
+Q20052	Q20052
+Q20052	APC11
+Q20052	apc-11
+Q20052	F35G12.9
+Q20052	Anaphase-promoting complex subunit 11
+Q966L2	Q966L2
+Q966L2	GCS light chain
+Q966L2	Gamma-ECS regulatory subunit
+Q966L2	Gamma-glutamylcysteine synthetase regulatory subunit
+Q966L2	Glutamate--cysteine ligase modifier subunit
+Q9XTF3	Q9XTF3
+Q9XTF3	Dual specificity tyrosine-phosphorylation-regulated kinase mbk-2
+Q95QM5	Q95QM5
+Q95QM5	unc-115
+Q95QM5	Actin-binding lim zn-finger limatin involved in axon guidance
+Q23023	Q23023
+Q23023	UNC51
+Q23023	unc-51
+Q23023	Y60A3A.1
+Q23023	Serine/threonine- kinase unc-51
+Q23023	Uncoordinated 51
+Q21691	Q21691
+Q21691	NRDE3
+Q21691	nrde-3
+Q21691	R04A9.2
+Q21691	Nuclear RNAi defective-3
+Q9U299	Q9U299
+Q9U299	XRN2
+Q9U299	xrn-2
+Q9U299	Y48b6A.3
+Q9U299	5'-3' exoribonuclease 2
+Q9U299	EC 3.1.13.-
+Q94392	Q94392
+Q94392	NSF
+Q94392	nsf-1
+Q94392	H15N14.2
+Q94392	Vesicle-fusing ATPase
+Q94392	N-ethylmaleimide-sensitive fusion
+Q94392	NEM-sensitive fusion
+Q94392	Vesicular-fusion NSF
+Q9TXI7	Q9TXI7
+Q9TXI7	PK3C3
+Q9TXI7	vps-34
+Q9TXI7	let-512
+Q9TXI7	b0025.1
+Q9TXI7	Phosphatidylinositol 3-kinase catalytic subunit type 3
+Q9TXI7	PI3-kinase type 3
+Q9TXI7	PI3K type 3
+Q9TXI7	Phosphoinositide-3-kinase class 3
+V6CJ04	V6CJ04
+V6CJ04	bICD
+V6CJ04	bicd-1
+V6CJ04	C43G2.2
+V6CJ04	bicaudal D
+Q23529	Q23529
+Q23529	HOOK
+Q23529	zyg-12
+Q23529	ber-1
+Q23529	ZK546.1
+Q23529	Zygote defective 12
+Q9N5A8	Q9N5A8
+Q9N5A8	ZIP11
+Q9N5A8	zip-11
+Q9N5A8	W08E12.1
+Q9N5A8	Transcription factor zip-11
+Q9N5A8	bZIP transcription factor family zip-11
+Q9XUK2	Q9XUK2
+Q9XUK2	ZIP3
+Q9XUK2	zip-3
+Q9XUK2	W07G1.3
+Q9XUK2	Transcription factor zip-3
+Q9XUK2	bZIP transcription factor family zip-3
+Q8STE5	Q8STE5
+Q8STE5	CED12
+Q8STE5	ced-12
+Q8STE5	Y106G6E.5
+Q8STE5	Cell death abnormality 12
+Q8WQG9	Q8WQG9
+Q8WQG9	JNK1
+Q8WQG9	jnk-1
+Q8WQG9	b0478.1
+Q8WQG9	Stress-activated kinase jnk-1
+Q8WQL7	Q8WQL7
+Q8WQL7	MbK1
+Q8WQL7	mbk-1
+Q8WQL7	T04C10.1
+Q8WQL7	Dual specificity tyrosine-phosphorylation-regulated kinase mbk-1
+Q8WQL7	Dual specificity Yak1-related kinase mbk-1
+Q8WQL7	Minibrain Kinase 1
+Q9N359	Q9N359
+Q9N359	CSN4
+Q9N359	csn-4
+Q9N359	Y55F3AM.15
+Q9N359	COP9 signalosome complex subunit 4
+Q9N359	Signalosome subunit 4
+Q9NF71	Q9NF71
+Q9NF71	ELM2 domain-containing
+Q9GYQ9	Q9GYQ9
+Q9GYQ9	ntl-4
+Q9GYQ9	CCR4-NOT transcription complex subunit 4
+Q9XW53	Q9XW53
+Q9XW53	rga-2
+Q9XW53	Rho GTPase-activating 20
+Q95Q25	Q95Q25
+Q95QD7	Q95QD7
+Q95QD7	LIN54
+Q95QD7	lin-54
+Q95QD7	JC8.6
+Q95QD7	Abnormal cell lineage 54
+Q9XVS0	Q9XVS0
+Q9XVS0	fath-1
+Q9XVS0	Fatty acid 2-hydroxylase
+Q9XVS0	EC 1.-.-.-
+Q9N2V6	Q9N2V6
+Q9N2V6	GPA16
+Q9N2V6	gpa-16
+Q9N2V6	spn-1
+Q9N2V6	Y95b8A.5
+Q9N2V6	Guanine nucleotide-binding alpha-16 subunit
+Q95Y72	Q95Y72
+Q95Y72	DSS1
+Q95Y72	dss-1
+Q95Y72	Y119D3b.15
+Q95Y72	Probable 26S proteasome complex subunit dss-1
+Q95Y72	Deleted in split h
+Q95Y72	/split foot 1
+Q965X6	Q965X6
+Q965X6	SIAH1
+Q965X6	siah-1
+Q965X6	Y37E11AR.2
+Q965X6	E3 ubiquitin- ligase siah-1
+Q965X6	RING-type E3 ubiquitin transferase SIAH1
+Q965X6	Seven in absentia 1
+Q95YF3	Q95YF3
+Q95YF3	CGH1
+Q95YF3	cgh-1
+Q95YF3	C07H6.5
+Q95YF3	ATP-dependent RNA helicase cgh-1
+Q95YF3	Conserved germline helicase 1
+Q9NAH7	Q9NAH7
+Q9NAH7	aakb-2
+Q9NAH7	Association with the SNF1 complex
+Q9NAH7	ASC
+Q9U308	Q9U308
+Q9U308	JAC1
+Q9U308	jac-1
+Q9U308	Y105C5b.21
+Q9U308	Juxtamembrane domain-associated catenin
+Q9U308	p120 catenin
+Q9BLB6	Q9bLB6
+Q9BLB6	RU2A
+Q9BLB6	mog-2
+Q9BLB6	sap-1
+Q9BLB6	H20J04.8
+Q9BLB6	Probable U2 small nuclear ribonucleo A'
+Q9BLB6	U2 snRNP A'
+Q9BLB6	Masculinization of germline 2
+Q9BLB6	Spliceosome-associated mog-2
+Q9GYH7	Q9GYH7
+Q9GYH7	RME6
+Q9GYH7	rme-6
+Q9GYH7	F49E7.1
+Q9GYH7	Receptor-mediated endocytosis 6
+Q9XXI4	Q9XXI4
+Q9XXI4	arrd-7
+Q9XXI4	Arrestin C-terminal-like domain-containing
+Q9NAD6	Q9NAD6
+Q9NAD6	STAT1
+Q9NAD6	sta-1
+Q9NAD6	Y51H4A.17
+Q9NAD6	Signal transducer
+Q9NAD6	activator of transcription 1
+Q9NEZ5	Q9NEZ5
+Q9NEZ5	UNC95
+Q9NEZ5	unc-95
+Q9NEZ5	Y105E8A.6
+Q9NEZ5	LIM domain-containing unc-95
+Q9TW45	Q9TW45
+Q9TW45	PAR1
+Q9TW45	par-1
+Q9TW45	H39E23.1
+Q9TW45	Serine/threonine- kinase par-1
+Q9Y048	Q9Y048
+Q9Y048	DTN1
+Q9Y048	dyb-1
+Q9Y048	F47G6.1
+Q9Y048	Dystrobrevin-1
+Q9XTR1	Q9XTR1
+Q9XTR1	CDK4
+Q9XTR1	cdk-4
+Q9XTR1	F18H3.5
+Q9XTR1	Cyclin-dependent kinase 4
+Q9XTR1	CDK4/6
+Q9XTR1	Cell division kinase 4
+Q9U389	Q9U389
+Q9U389	ALLO1
+Q9U389	allo-1
+Q9U389	R102.5
+Q9U389	Allophagy receptor allo-1
+Q9XW79	Q9XW79
+Q9XW79	PP4C1
+Q9XW79	pph-4.1
+Q9XW79	Y75b8A.30
+Q9XW79	Serine/threonine- phosphatase 4 catalytic subunit 1
+Q9XW79	PP4C-1
+Q9XWH0	Q9XWH0
+Q9XWH0	bUB3
+Q9XWH0	bub-3
+Q9XWH0	Y54G9A.6
+Q9XWH0	Mitotic checkpoint bub-3
+Q9XWH0	budding uninhibited by benzimidazole 3
+Q9XWP6	Q9XWP6
+Q9XWP6	KDM1A
+Q9XWP6	spr-5
+Q9XWP6	Y40b1B.6
+Q9XWP6	Lysine-specific histone demethylase 1
+Q9XWP6	EC 1.14.99.66
+Q9XWP6	P110b
+Q9XWP6	Suppressor of presenilin 5
+Q9XX14	Q9XX14
+Q9XX14	CNT2
+Q9XX14	cnt-2
+Q9XX14	Y39A1A.15
+Q9XX14	Arf-GAP with ANK repeat
+Q9XX14	PH domain-containing cnt-2
+Q9XX14	Centaurin-gamma-like cnt-2
+Q19862	Q19862
+Q19862	aptf-3
+Q19862	Transcription factor AP-2 C-terminal domain-containing
+Q9GS00	Q9GS00
+Q9GS00	CSN1
+Q9GS00	csn-1
+Q9GS00	Y59A8A.1
+Q9GS00	COP9 signalosome complex subunit 1
+Q9GS00	Signalosome subunit 1
+P50305	P50305
+P50305	METK3
+P50305	sams-3
+P50305	C06E7.1
+P50305	Probable S-adenosylmethionine synthase 3
+P50305	AdoMet synthase 3
+P50305	Methionine adenosyltransferase 3
+P50305	MAT 3
+P50306	P50306
+P50306	METK4
+P50306	sams-4
+P50306	C06E7.3
+P50306	Probable S-adenosylmethionine synthase 4
+P50306	AdoMet synthase 4
+P50306	Methionine adenosyltransferase 4
+P50306	MAT 4
+Q86G90	Q86G90
+Q86G90	npp-9
+Q86G90	Nuclear Pore complex
+Q10920	Q10920
+Q10920	PSMD9
+Q10920	psmd-9
+Q10920	C44b7.1
+Q10920	Probable 26S proteasome non-ATPase regulatory subunit 9
+Q21621	Q21621
+Q21621	rip-1
+Q21621	RFS-1 Interacting Partner
+Q9XXJ0	Q9XXJ0
+Q9XXJ0	DHYS
+Q9XXJ0	dhps-1
+Q9XXJ0	Y17G7b.4
+Q9XXJ0	Deoxyhypusine synthase
+Q9XXJ0	DHS
+Q9XXJ0	EC 2.5.1.46
+Q20100	Q20100
+Q20100	trpp-4
+Q20100	Trafficking particle complex subunit
+P34629	P34629
+P34629	AMPL
+P34629	lap-1
+P34629	ZK353.6
+P34629	Leucine aminopeptidase 1
+P34629	EC 3.4.11.1
+P34647	P34647
+P34647	MCM6
+P34647	mcm-6
+P34647	ZK632.1
+P34647	DNA replication licensing factor mcm-6
+P49197	P49197
+P49197	RS21
+P49197	rps-21
+P49197	F37C12.11
+P49197	Small ribosomal subunit eS21
+P49197	40S ribosomal S21
+Q9NAP8	Q9NAP8
+Q9NAP8	kinase domain-containing
+Q09390	Q09390
+Q09390	HMGbH
+Q09390	hmg-1.2
+Q09390	F47D12.4
+Q09390	High mobility group 1.2
+Q20759	Q20759
+Q20759	GDP/GTP exchange factor Sec2 N-terminal domain-containing
+Q19766	Q19766
+Q19766	TOM20
+Q19766	tomm-20
+Q19766	F23H12.2
+Q19766	Mitochondrial import receptor subunit TOM20
+Q19766	Mitochondrial 20 kDa outer membrane
+Q19766	Outer mitochondrial membrane receptor TOM20
+Q19766	Translocase of outer mitochondrial membrane 20
+Q86S68	Q86S68
+Q86S68	cdt-1
+Q86S68	CDT1 Geminin-binding domain-containing
+Q21917	Q21917
+Q21917	GPA7
+Q21917	gpa-7
+Q21917	R10H10.5
+Q21917	Guanine nucleotide-binding alpha-7 subunit
+Q22836	Q22836
+Q22836	YGH1
+Q22836	T27F2.1
+Q22836	Uncharacterized T27F2.1
+Q8WQC0	Q8WQC0
+Q8WQC0	RGS7
+Q8WQC0	rgs-7
+Q8WQC0	F56b6.2
+Q8WQC0	Regulator of G- signaling rgs-7
+Q8WQC0	C2-RGS
+Q8WQC0	Regulator of G- signaling c2
+Q95Q17	Q95Q17
+Q95Q17	MED7
+Q95Q17	let-49
+Q95Q17	mdt-7 med-7
+Q95Q17	Y54E5b.3
+Q95Q17	Mediator of RNA polymerase II transcription subunit 7
+Q95Q17	CeMED7
+Q95Q17	MED-7
+Q95Q17	Lethal 49
+Q95Q17	Mediator complex subunit 7
+Q9U3L0	Q9U3L0
+Q9U3L0	ZHP2
+Q9U3L0	zhp-2
+Q9U3L0	D1081.9
+Q9U3L0	Zip ous 2
+Q9TYT0	Q9TYT0
+Q9TYT0	HMbX1
+Q9TYT0	hmbx-1
+Q9TYT0	F54A5.1
+Q9TYT0	Homeobox-containing 1
+Q9XVR6	Q9XVR6
+Q9XVR6	OTUbL
+Q9XVR6	otub-1
+Q9XVR6	C25D7.8
+Q9XVR6	Ubiquitin thioesterase otubain-like
+Q9XVR6	Deubiquitinating enzyme otubain-like
+Q9XVR6	Ubiquitin-specific-processing protease otubain-like
+Q9NA81	Q9NA81
+Q9NA81	trpp-5
+Q9NA81	Trafficking particle complex subunit 5
+Q09583	Q09583
+Q09583	PSA3
+Q09583	pas-7
+Q09583	ZK945.2
+Q09583	Proteasome subunit alpha type-3
+Q09583	Proteasome subunit alpha 7
+Q9XWX7	Q9XWX7
+Q9XWX7	GSKIP domain-containing
+Q18268	Q18268
+Q18268	PDL1
+Q18268	pdl-1
+Q18268	C27H5.1
+Q18268	Phosphodiesterase delta-like
+Q93701	Q93701
+Q93701	gst-19
+Q93701	Glutathione S-Transferase
+Q9TZI2	Q9TZI2
+Q9TZI2	ztf-4
+O76577	O76577
+O76577	PSDE
+O76577	rpn-11
+O76577	K07D4.3
+O76577	26S proteasome non-ATPase regulatory subunit 14
+O76577	EC 3.4.19.-
+O76577	26S proteasome regulatory subunit rpn11
+P30642	P30642
+P30642	EIF3D
+P30642	eif-3.D
+P30642	R08D7.3
+P30642	Eukaryotic translation initiation factor 3 subunit D
+P30642	eIF3d
+P30642	Eukaryotic translation initiation factor 3 subunit 7
+Q18786	Q18786
+Q18786	SMD2
+Q18786	snr-4
+Q18786	C52E4.3
+Q18786	Probable small nuclear ribonucleo Sm D2
+Q18786	Sm-D2
+Q18786	snRNP core D2
+Q9UAT1	Q9UAT1
+Q9UAT1	alcohol dehydrogenase
+Q9UAT1	EC 1.1.1.1
+P45972	P45972
+P45972	ZTF17
+P45972	ztf-17
+P45972	T09A5.12
+P45972	Zinc finger transcription factor family 17
+Q9XW68	Q9XW68
+Q9XW68	gex-4
+Q9XW68	GPN-loop GTPase 3
+P47207	P47207
+P47207	TCPb
+P47207	cct-2
+P47207	cctb
+P47207	T21b10.7
+P47207	T-complex 1 subunit beta
+P47207	TCP-1-beta
+P47207	CCT-beta
+P49181	P49181
+P49181	RL36
+P49181	rpl-36
+P49181	F37C12.4
+P49181	Large ribosomal subunit eL36
+P49181	60S ribosomal L36
+Q18547	Q18547
+Q18547	rfc-3
+Q18547	Replication factor C subunit 3
+Q17589	Q17589
+Q17589	nhr-17
+Q9XXL3	Q9XXL3
+Q9XXL3	SSP31
+Q9XXL3	ssp-31
+Q9XXL3	ZK1225.6
+Q9XXL3	Sperm-specific class P 31
+Q9N415	Q9N415
+Q9N415	rimb-1
+Q9N415	tag-168
+Q9N415	Variant SH3 domain
+Q20058	Q20058
+Q20058	26S proteasome non-ATPase regulatory subunit 5
+Q18964	Q18964
+Q18964	WDFY2
+Q18964	wdfy-2
+Q18964	D2013.2
+Q18964	WD repeat
+Q18964	FYVE domain-containing 2
+Q20628	Q20628
+Q20628	cdd-2
+Q20628	Cytidine deaminase
+Q20628	EC 3.5.4.5
+Q20628	Cytidine aminohydrolase
+Q20498	Q20498
+Q20498	RRC1
+Q20498	rrc-1
+Q20498	F47A4.3
+Q20498	GTPase-activating rrc-1
+Q20498	RhoGAP for Rac-1
+Q20498	Cdc-42
+Q20678	Q20678
+Q20678	EXOC1
+Q20678	sec-3
+Q20678	F52E4.7
+Q20678	Exocyst complex component 1
+Q20678	Exocyst complex component Sec3
+Q21882	Q21882
+Q21882	HIUH1
+Q21882	R09H10.3
+Q21882	Probable 5-hydroxyisourate hydrolase R09H10.3
+Q21882	HIU hydrolase
+Q21882	HIUHase
+Q21882	EC 3.5.2.17
+Q21882	Transthyretin-like R09H10.3
+Q95008	Q95008
+Q95008	PSA5
+Q95008	pas-5
+Q95008	F25H2.9
+Q95008	Proteasome subunit alpha type-5
+Q95008	Proteasome subunit alpha 5
+Q9N4G4	Q9N4G4
+Q9N4G4	MED1
+Q9N4G4	sop-3
+Q9N4G4	mdt-1.1
+Q9N4G4	Y71F9b.10
+Q9N4G4	Mediator of RNA polymerase II transcription subunit 1.1
+Q9N4G4	Mediator complex subunit 1.1
+Q9N4G4	Suppressor of pal-1 3
+Q9XVS8	Q9XVS8
+Q9XVS8	NXF2
+Q9XVS8	nxf-2
+Q9XVS8	nfx-2
+Q9XVS8	C15H11.6
+Q9XVS8	Nuclear RNA export factor 2
+Q9XX47	Q9XX47
+Q9XX47	F161
+Q9XX47	famh-161
+Q9XX47	fam-161
+Q9XX47	Y38H6C.14
+Q21319	Q21319
+Q21319	scrm-8
+Q9XW12	Q9XW12
+Q9XW12	CIAO1
+Q9XW12	Y18D10A.9
+Q9XW12	Probable cytosolic iron-sulfur assembly CIAO1
+Q965F9	Q965F9
+Q965F9	par-2
+Q9XUJ2	Q9XUJ2
+P34437	P34437
+P34437	YL57
+P34437	F44E2.7
+P34437	Putative zinc finger F44E2.7
+P34657	P34657
+P34657	YOTb
+P34657	ZK632.12
+P34657	Uncharacterized ZK632.12
+Q09506	Q09506
+Q09506	TX1b3
+Q09506	txbp-3
+Q09506	C45G9.7
+Q09506	Tax1-binding 3
+Q09651	Q09651
+Q09651	CC130
+Q09651	ZK1307.9
+Q09651	Coiled-coil domain-containing 130
+Q21018	Q21018
+Q21018	CRI3
+Q21018	cri-3
+Q21018	F59A2.3
+Q21018	Conserved regulator of innate immunity 3
+Q21827	Q21827
+Q21827	GPTC1
+Q21827	R07E5.1
+Q21827	G patch domain-containing 1
+Q23237	Q23237
+Q23237	PSb3
+Q23237	pbs-3
+Q23237	Y38A8.2
+Q23237	Proteasome subunit beta type-3
+Q23237	Proteasome subunit beta 3
+Q9LUS8	Q9LUS8
+Q9LUS8	P2C40_ARATH
+Q9LUS8	MDC8.3
+Q9LUS8	Probable phosphatase 2C 40
+Q9LUS8	AtPP2C40
+Q9LUS8	phosphatase 2C 1
+Q9XWH5	Q9XWH5
+Q9XWH5	SEC-C motif-containing
+Q9XWH5	SEC-C
