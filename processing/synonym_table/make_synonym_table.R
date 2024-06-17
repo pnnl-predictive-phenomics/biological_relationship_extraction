@@ -49,7 +49,7 @@ SynTableLong2 <- SynTableLong %>%
   select(-Length) %>%
   unique()
 
-# Remove options where there are 3 more instances
+# Remove options where there are more than one instances
 counts <- SynTableLong2$Synonyms %>% 
   unlist() %>%
   table(dnn = "Name") %>%
