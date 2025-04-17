@@ -4,7 +4,7 @@ This repository contains all code and results from the "Protein-Protein Interact
 
 Please cite **Degnan et al. 2024** when using code for this repository. 
 
-Link to publication: Publication coming soon. 
+Link to publication: https://pubs.acs.org/doi/full/10.1021/acs.jproteome.4c00535
 
 ## Repository Structure
 
